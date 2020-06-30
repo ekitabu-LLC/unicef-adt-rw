@@ -40,8 +40,7 @@
       </navLabel>
       <content src="ch02.xhtml"/>
     </navPoint>
-
-	<!-- Commenting out the Unit links
+<!-- Commenting out the Unit links
     <navPoint id="nav6" playOrder="6">
       <navLabel>
         <text>Unit 3: People at home and school</text>

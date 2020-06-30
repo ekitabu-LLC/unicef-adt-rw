@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="3.0" unique-identifier="uuid_id" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
-  <metadata xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>Success English For Rwandan Schools: Primary 1 Pupil’s Book</dc:title>
     <dc:creator id="creator01">NA</dc:creator>
     <meta property="role" refines="#creator01">aut</meta>
@@ -8,10 +8,10 @@
     <dc:language>en-us</dc:language>
     <dc:identifier id="uuid_id">NA</dc:identifier>
     <meta property="identifier-type" refines="#uuid_id">uuid</meta>
-    <meta property="dcterms:modified">2020-06-25T14:02:32Z</meta>
+    <meta property="dcterms:modified">2020-06-26T13:40:17Z</meta>
     <dc:date>2019-12-08</dc:date>
-    <dc:publisher xml:lang="en-us" id="en_publisher">Rwanda Education Board</dc:publisher>
-    <dc:rights xml:lang="en-us" id="en_rights">© 2019 Rwanda Education Board</dc:rights>
+    <dc:publisher id="en_publisher" xml:lang="en-us">Rwanda Education Board</dc:publisher>
+    <dc:rights id="en_rights" xml:lang="en-us">© 2019 Rwanda Education Board</dc:rights>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:version">2.2</meta>
     <meta name="cover" content="cover-image" />
@@ -34,7 +34,6 @@
     <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="cop" href="cop.xhtml" media-type="application/xhtml+xml"/>
     <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml"/>
-    <item id="ch02" href="ch02.xhtml" media-type="application/xhtml+xml"/>
     <item id="i-1-1" href="images/1-1.jpg" media-type="image/jpeg"/>
     <item id="i-1-2" href="images/1-2.jpg" media-type="image/jpeg"/>
     <item id="i-10-1" href="images/10-1.jpg" media-type="image/jpeg"/>
@@ -330,6 +329,13 @@
     <item id="x6.xhtml" href="6.xhtml" media-type="application/xhtml+xml"/>
     <item id="x7.xhtml" href="7.xhtml" media-type="application/xhtml+xml"/>
     <item id="OpenDyslexic3-Regular.ttf" href="fonts/OpenDyslexic3-Regular.ttf" media-type="font/ttf"/>
+    <item id="x8.xhtml" href="8.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x9.xhtml" href="9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x10.xhtml" href="10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x11.xhtml" href="11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x12.xhtml" href="12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x13.xhtml" href="13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="x14.xhtml" href="14.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover"/>
@@ -343,6 +349,12 @@
     <itemref idref="x5.xhtml"/>
     <itemref idref="x6.xhtml"/>
     <itemref idref="x7.xhtml"/>
-    <itemref idref="ch02"/>
+    <itemref idref="x8.xhtml"/>
+    <itemref idref="x9.xhtml"/>
+    <itemref idref="x10.xhtml"/>
+    <itemref idref="x11.xhtml"/>
+    <itemref idref="x12.xhtml"/>
+    <itemref idref="x13.xhtml"/>
+    <itemref idref="x14.xhtml"/>
   </spine>
 </package>
