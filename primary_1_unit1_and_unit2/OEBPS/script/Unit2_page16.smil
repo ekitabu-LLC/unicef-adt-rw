@@ -1,0 +1,22 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq id="seq000001" epub:textref="../primary_unit2-5.xhtml">
+      <par id="par000001">
+        <text src="../primary_unit2-5.xhtml#c01w00001"/>
+        <audio src="../audio/Unit2_page16.mp3" clipBegin="00:00:00.000" clipEnd="00:00:02.160"/>
+      </par>
+      <par id="par000002">
+        <text src="../primary_unit2-5.xhtml#c01w00002"/>
+        <audio src="../audio/Unit2_page16.mp3" clipBegin="00:00:02.160" clipEnd="00:00:15.760"/>
+      </par>
+      <par id="par000003">
+        <text src="../primary_unit2-5.xhtml#c01w00003"/>
+        <audio src="../audio/Unit2_page16.mp3" clipBegin="00:00:15.760" clipEnd="00:00:24.760"/>
+      </par>
+      <par id="par000004">
+        <text src="../primary_unit2-5.xhtml#c01w00004"/>
+        <audio src="../audio/Unit2_page16.mp3" clipBegin="00:00:24.760" clipEnd="00:00:54.120"/>
+      </par>
+    </seq>
+  </body>
+</smil>

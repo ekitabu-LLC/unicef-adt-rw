@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="cover" content="cover.jpg" />
+    <meta property="ibooks:specified-fonts">true</meta>
+    <dc:title>Success English - Primary 1: Unit 1</dc:title>
+    <dc:creator>Rwanda Education Board</dc:creator>
+    <dc:subject>coming</dc:subject>
+    <dc:description>coming</dc:description>
+    <dc:publisher>ekitabu</dc:publisher>
+    <dc:date>2020-07-08T19:04:57Z</dc:date>
+    <dc:rights>REVISED EDITION 2019 Copyright © 2019 Rwanda Education Board All rights reserved. This book is the property of Rwanda Education Board. Credit should be given to REB when the source of this book is quoted</dc:rights>
+    <dc:language>en-US</dc:language>
+    <meta property="dcterms:modified">2020-07-17T12:24:56Z</meta>
+    <dc:identifier id="bookid">urn:uuid:32E36F00-F91E-46FF-8430-D4E425909BE2</dc:identifier>
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:orientation">auto</meta>
+    <meta property="rendition:spread">none</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="ibooks:version">1.1</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityFeature">signedLanguage</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessibilityAPI">ARIA</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessModeSufficient">visual</meta>
+    <meta property="schema:accessModeSufficient">auditory</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessModeSufficient">textual,auditory</meta>
+    <meta property="schema:accessibilitySummary">This title is a well-marked up and structured book, which is fully accessible. The book contains signed videos in Rwandan Sign Language embedded and media overlay. All images have sufficient image descriptions.</meta>
+    <meta property="media:duration" refines="#Unit1_page1.smil">0:00:13.680</meta>
+    <meta property="media:duration" refines="#Unit1_page2.smil">0:00:10.200</meta>
+    <meta property="media:duration" refines="#Unit1_page3.smil">0:00:11.808</meta>
+    <meta property="media:duration" refines="#Unit1_page4.smil">0:00:12.744</meta>
+    <meta property="media:duration" refines="#Unit1_page5.smil">0:00:10.776</meta>
+    <meta property="media:duration" refines="#Unit1_page6.smil">0:00:11.232</meta>
+    <meta property="media:duration" refines="#Unit1_page7.smil">0:01:12.168</meta>
+    <meta property="media:duration" refines="#Unit1_page8.smil">0:00:15.072</meta>
+    <meta property="media:duration" refines="#Unit1_page9.smil">0:00:15.072</meta>
+    <meta property="media:duration" refines="#Unit1_page10.smil">0:00:15.072</meta>
+    <meta property="media:duration" refines="#Unit1_page11.smil">0:00:15.072</meta>
+    <meta property="media:duration" refines="#Unit1_page12.smil">0:00:15.072</meta>
+    <meta property="media:duration" refines="#Unit1_page13.smil">0:00:15.072</meta>
+    <meta property="media:duration">0:01:58.291</meta>
+    <meta property="media:narrator">eKitabu</meta>
+    <meta property="media:active-class">-epub-media-overlay-active</meta>
+    <meta property="media:playback-active-class">-epub-media-overlay-playing</meta>
+    <meta content="1.1.0" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item id="primary_unit1-1" href="primary_unit1-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="primary_unit1-2" href="primary_unit1-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="primary_unit1-3" href="primary_unit1-3.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page1.smil"/>
+    <item id="primary_unit1-4" href="primary_unit1-4.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page2.smil"/>
+    <item id="primary_unit1-5" href="primary_unit1-5.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page3.smil"/>
+    <item id="primary_unit1-6" href="primary_unit1-6.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page4.smil"/>
+    <item id="primary_unit1-7" href="primary_unit1-7.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page5.smil"/>
+    <item id="primary_unit1-8" href="primary_unit1-8.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page6.smil"/>
+    <item id="primary_unit1-9" href="primary_unit1-9.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page7.smil"/>
+    <item id="primary_unit1-10" href="primary_unit1-10.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page8.smil"/>
+    <item id="primary_unit1-11" href="primary_unit1-11.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page9.smil"/>
+    <item id="primary_unit1-12" href="primary_unit1-12.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page10.smil"/>
+    <item id="primary_unit1-13" href="primary_unit1-13.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page11.smil"/>
+    <item id="primary_unit1-14" href="primary_unit1-14.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page12.smil"/>
+    <item id="primary_unit1-15" href="primary_unit1-15.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit1_page13.smil"/>
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="page3.mp3" href="audio/page3.mp3" media-type="audio/mpeg"/>
+    <item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="Lato-Bold.otf" href="font/Lato-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="Lato-Regular.otf" href="font/Lato-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="x3.png" href="image/3.png" media-type="image/png"/>
+    <item id="Birthday.mp4" href="video/Birthday.mp4" media-type="video/mp4"/>
+    <item id="x7.png" href="image/7.png" media-type="image/png"/>
+    <item id="cover.jpg" href="image/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="Page_04.jpg" href="image/Page_04.jpg" media-type="image/jpeg"/>
+    <item id="Page_04a.jpg" href="image/Page_04a.jpg" media-type="image/jpeg"/>
+    <item id="Page_05.jpg" href="image/Page_05.jpg" media-type="image/jpeg"/>
+    <item id="Page_05a.jpg" href="image/Page_05a.jpg" media-type="image/jpeg"/>
+    <item id="Page_06.jpg" href="image/Page_06.jpg" media-type="image/jpeg"/>
+    <item id="Page_06a.jpg" href="image/Page_06a.jpg" media-type="image/jpeg"/>
+    <item id="Page_07.jpg" href="image/Page_07.jpg" media-type="image/jpeg"/>
+    <item id="Page_07a.jpg" href="image/Page_07a.jpg" media-type="image/jpeg"/>
+    <item id="Page_08.jpg" href="image/Page_08.jpg" media-type="image/jpeg"/>
+    <item id="Page_08a.jpg" href="image/Page_08a.jpg" media-type="image/jpeg"/>
+    <item id="Page_09.jpg" href="image/Page_09.jpg" media-type="image/jpeg"/>
+    <item id="Page_10.jpg" href="image/Page_10.jpg" media-type="image/jpeg"/>
+    <item id="Page_10a.jpg" href="image/Page_10a.jpg" media-type="image/jpeg"/>
+    <item id="play_audio.png" href="image/play_audio.png" media-type="image/png"/>
+    <item id="stop_audio.png" href="image/stop_audio.png" media-type="image/png"/>
+    <item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript"/>
+    <item id="Unit1_page1.mp3" href="audio/Unit1_page1.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page2.mp3" href="audio/Unit1_page2.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page3.mp3" href="audio/Unit1_page3.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page4.mp3" href="audio/Unit1_page4.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page5.mp3" href="audio/Unit1_page5.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page7.mp3" href="audio/Unit1_page7.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page8.mp3" href="audio/Unit1_page8.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page9.mp3" href="audio/Unit1_page9.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page10.mp3" href="audio/Unit1_page10.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page12.mp3" href="audio/Unit1_page12.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page13.mp3" href="audio/Unit1_page13.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page6.mp3" href="audio/Unit1_page6.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page11.mp3" href="audio/Unit1_page11.mp3" media-type="audio/mpeg"/>
+    <item id="Unit1_page1.smil" href="script/Unit1_page1.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_page2.smil" href="script/Unit1_page2.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_page3.smil" href="script/Unit1_page3.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_page4.smil" href="script/Unit1_page4.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_page5.smil" href="script/Unit1_page5.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_page6.smil" href="script/Unit1_page6.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_page7.smil" href="script/Unit1_page7.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_page8.smil" href="script/Unit1_page8.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_page9.smil" href="script/Unit1_page9.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_page10.smil" href="script/Unit1_page10.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_page11.smil" href="script/Unit1_page11.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_page12.smil" href="script/Unit1_page12.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_page13.smil" href="script/Unit1_page13.smil" media-type="application/smil+xml"/>
+  </manifest>
+  <spine>
+    <itemref idref="primary_unit1-1"/>
+    <itemref idref="primary_unit1-2"/>
+    <itemref idref="primary_unit1-3"/>
+    <itemref idref="primary_unit1-4"/>
+    <itemref idref="primary_unit1-5"/>
+    <itemref idref="primary_unit1-6"/>
+    <itemref idref="primary_unit1-7"/>
+    <itemref idref="primary_unit1-8"/>
+    <itemref idref="primary_unit1-9"/>
+    <itemref idref="primary_unit1-10"/>
+    <itemref idref="primary_unit1-11"/>
+    <itemref idref="primary_unit1-12"/>
+    <itemref idref="primary_unit1-13"/>
+    <itemref idref="primary_unit1-14"/>
+    <itemref idref="primary_unit1-15"/>
+  </spine>
+</package>
