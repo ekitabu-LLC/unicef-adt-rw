@@ -11,7 +11,7 @@
     <dc:date>2020-07-08T19:04:57Z</dc:date>
     <dc:rights>coming</dc:rights>
     <dc:language>en-US</dc:language>
-    <meta property="dcterms:modified">2020-07-14T15:26:50Z</meta>
+    <meta property="dcterms:modified">2020-07-20T16:17:36Z</meta>
     <dc:identifier id="bookid">urn:uuid:32E36F00-F91E-46FF-8430-D4E425909BE2</dc:identifier>
     <meta property="rendition:layout">pre-paginated</meta>
     <meta property="rendition:orientation">portrait</meta>
@@ -72,7 +72,7 @@
     <item id="Unit1_page8.mp4" href="video/Unit1_page8.mp4" media-type="video/mp4"/>
     <item id="Unit1_page9.mp4" href="video/Unit1_page9.mp4" media-type="video/mp4"/>
     <item id="Unit1_page10.mp4" href="video/Unit1_page10.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page11__12.mp4" href="video/Unit1_page11%20_12.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page11_12.mp4" href="video/Unit1_page11_12.mp4" media-type="video/mp4"/>
     <item id="Unit1_page11_merge.mp4" href="video/Unit1_page11_merge.mp4" media-type="video/mp4"/>
     <item id="Unit1_page12_merge.mp4" href="video/Unit1_page12_merge.mp4" media-type="video/mp4"/>
     <item id="Unit1_page12.mp4" href="video/Unit1_page12.mp4" media-type="video/mp4"/>
@@ -84,9 +84,16 @@
     <item id="Unit1_ToC.mp4" href="video/Unit1_ToC.mp4" media-type="video/mp4"/>
     <item id="unit1-3_image.png" href="image/unit1-3_image.png" media-type="image/png"/>
     <item id="unit1-4_image.png" href="image/unit1-4_image.png" media-type="image/png"/>
+    <item id="glossaryPopups.js" href="script/glossaryPopups.js" media-type="application/javascript"/>
+    <item id="people.png" href="image/people.png" media-type="image/png"/>
+    <item id="morning.png" href="image/morning.png" media-type="image/png"/>
+    <item id="teacher.png" href="image/teacher.png" media-type="image/png"/>
+    <item id="afternoon.png" href="image/afternoon.png" media-type="image/png"/>
+    <item id="evening.png" href="image/evening.png" media-type="image/png"/>
   </manifest>
   <spine>
     <itemref idref="primary_unit1-1"/>
+    <itemref idref="toc"/>
     <itemref idref="primary_unit1-2"/>
     <itemref idref="primary_unit1-3"/>
     <itemref idref="primary_unit1-4"/>
