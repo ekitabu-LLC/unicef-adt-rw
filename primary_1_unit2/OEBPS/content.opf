@@ -66,6 +66,7 @@
     <item id="primary_unit2-14" href="primary_unit2-14.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit2_page25.smil"/>
     <item id="primary_unit2-15" href="primary_unit2-15.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit2_page26.smil"/>
     <item id="primary_unit2-16" href="primary_unit2-16.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit2_page27.smil"/>
+
     <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     <item id="page3.mp3" href="audio/page3.mp3" media-type="audio/mpeg"/>
     <item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"/>
@@ -124,6 +125,25 @@
     <item id="Unit2_page25.smil" href="script/Unit2_page25.smil" media-type="application/smil+xml"/>
     <item id="Unit2_page26.smil" href="script/Unit2_page26.smil" media-type="application/smil+xml"/>
     <item id="Unit2_page27.smil" href="script/Unit2_page27.smil" media-type="application/smil+xml"/>
+    <item id="Unit2_Classroom_Objects.mp4" href="video/Unit2_Classroom%20Objects.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page1.mp4" href="video/Unit2_page1.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page2.mp4" href="video/Unit2_page2.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page3.mp4" href="video/Unit2_page3.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page4.mp4" href="video/Unit2_page4.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page5.mp4" href="video/Unit2_page5.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page6.mp4" href="video/Unit2_page6.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page7.mp4" href="video/Unit2_page7.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page8.mp4" href="video/Unit2_page8.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page9.mp4" href="video/Unit2_page9.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page10.mp4" href="video/Unit2_page10.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page11.mp4" href="video/Unit2_page11.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page12.mp4" href="video/Unit2_page12.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page13.mp4" href="video/Unit2_page13.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page14.mp4" href="video/Unit2_page14.mp4" media-type="video/mp4"/>
+    <item id="unit2-3_image.png" href="image/unit2-3_image.png" media-type="image/png"/>
+    <item id="Birthday.mp4" href="video/Birthday.mp4" media-type="video/mp4"/>
+    <item id="unit2-4_image.png" href="image/unit2-4_image.png" media-type="image/png"/>
+    <item id="unit2-6_image.png" href="image/unit2-6_image.png" media-type="image/png"/>
   </manifest>
   <spine>
     <itemref idref="primary_unit2-1"/>

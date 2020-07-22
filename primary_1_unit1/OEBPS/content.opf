@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package version="3.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+<package version="3.0" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <meta name="cover" content="cover.jpg" />
     <meta property="ibooks:specified-fonts">true</meta>
@@ -118,9 +118,41 @@
     <item id="Unit1_page11.smil" href="script/Unit1_page11.smil" media-type="application/smil+xml"/>
     <item id="Unit1_page12.smil" href="script/Unit1_page12.smil" media-type="application/smil+xml"/>
     <item id="Unit1_page13.smil" href="script/Unit1_page13.smil" media-type="application/smil+xml"/>
+    <item id="Unit1_GoodAfternoon.mp4" href="video/Unit1_GoodAfternoon.mp4" media-type="video/mp4"/>
+    <item id="Unit1_GoodEvening.mp4" href="video/Unit1_GoodEvening.mp4" media-type="video/mp4"/>
+    <item id="Unit1_GoodMorning.mp4" href="video/Unit1_GoodMorning.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page1.mp4" href="video/Unit1_page1.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page2.mp4" href="video/Unit1_page2.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page3.mp4" href="video/Unit1_page3.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page4.mp4" href="video/Unit1_page4.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page5.mp4" href="video/Unit1_page5.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page6.mp4" href="video/Unit1_page6.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page7.mp4" href="video/Unit1_page7.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page8.mp4" href="video/Unit1_page8.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page9.mp4" href="video/Unit1_page9.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page10.mp4" href="video/Unit1_page10.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page11_12.mp4" href="video/Unit1_page11_12.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page11_merge.mp4" href="video/Unit1_page11_merge.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page12_merge.mp4" href="video/Unit1_page12_merge.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page12.mp4" href="video/Unit1_page12.mp4" media-type="video/mp4"/>
+    <item id="Unit1_page13.mp4" href="video/Unit1_page13.mp4" media-type="video/mp4"/>
+    <item id="Unit1_People.mp4" href="video/Unit1_People.mp4" media-type="video/mp4"/>
+    <item id="Unit1_Pupil.mp4" href="video/Unit1_Pupil.mp4" media-type="video/mp4"/>
+    <item id="Unit1_Tamborine.mp4" href="video/Unit1_Tamborine.mp4" media-type="video/mp4"/>
+    <item id="Unit1_Teacher.mp4" href="video/Unit1_Teacher.mp4" media-type="video/mp4"/>
+    <item id="Unit1_ToC.mp4" href="video/Unit1_ToC.mp4" media-type="video/mp4"/>
+    <item id="unit1-3_image.png" href="image/unit1-3_image.png" media-type="image/png"/>
+    <item id="unit1-4_image.png" href="image/unit1-4_image.png" media-type="image/png"/>
+    <item id="glossaryPopups.js" href="script/glossaryPopups.js" media-type="application/javascript"/>
+    <item id="people.png" href="image/people.png" media-type="image/png"/>
+    <item id="morning.png" href="image/morning.png" media-type="image/png"/>
+    <item id="teacher.png" href="image/teacher.png" media-type="image/png"/>
+    <item id="afternoon.png" href="image/afternoon.png" media-type="image/png"/>
+    <item id="evening.png" href="image/evening.png" media-type="image/png"/>
   </manifest>
   <spine>
     <itemref idref="primary_unit1-1"/>
+    <itemref idref="toc"/>
     <itemref idref="primary_unit1-2"/>
     <itemref idref="primary_unit1-3"/>
     <itemref idref="primary_unit1-4"/>

@@ -1278,6 +1278,34 @@ div._idGenStateHide, div._idGenStateHide *{
 	background-size:contain;
 	height:144.00px;
 	left:0px;
+
+/* Related to sign videos */
+
+#_idContainer176 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:1100px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+#_idContainer177 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
 	overflow:hidden;
 	position:absolute;
 	text-align:left;
@@ -1363,4 +1391,77 @@ div._idGenStateHide div._idGen-Appearance-Click {
 }
 div._idGenStateHide, div._idGenStateHide *{
 	visibility:hidden;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+#_idContainer178 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:800px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+#_idContainer179 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:0px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+
+div._idGenObjectAttribute-4 {
+	height:800px;
+	left:100px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:2000px;
+}
+
+div._idGenObjectAttribute-5 {
+	height:800px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:2400px;
+}
+
+div._idGenObjectAttribute-6 {
+	height:800px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:2400px;
+}
+
+#_idVideo000 {
+	-webkit-transform-origin:0% 0%;
+	height:auto;
+	object-fit:fill;
+	transform-origin:0% 0%;
+	width:50%;
 }
