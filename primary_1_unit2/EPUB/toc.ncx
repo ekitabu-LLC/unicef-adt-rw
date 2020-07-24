@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="Na" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="72" name="dtb:totalPageCount"/>
+    <meta content="73" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Success English For Rwandan Schools: Primary 1 Pupil’s Book</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="nav1" playOrder="1">
+      <navLabel>
+        <text>Front Cover</text>
+      </navLabel>
+      <content src="cover.xhtml"/>
+    </navPoint>
+    <navPoint id="nav2" playOrder="2">
+      <navLabel>
+        <text>Copyright Page</text>
+      </navLabel>
+      <content src="cop.xhtml"/>
+    </navPoint>
+    <navPoint id="nav3" playOrder="3">
+      <navLabel>
+        <text>Content</text>
+      </navLabel>
+      <content src="toc.xhtml"/>
+    </navPoint>
+    <navPoint id="nav4" playOrder="4">
+      <navLabel>
+        <text>Unit 1: Welcome to the classroom</text>
+      </navLabel>
+      <content src="1.xhtml"/>
+    </navPoint>
+    <navPoint id="nav5" playOrder="5">
+      <navLabel>
+        <text>Unit 2: Classroom objects</text>
+      </navLabel>
+      <content src="ch02.xhtml"/>
+    </navPoint>
+<!-- Commenting out the Unit links
+    <navPoint id="nav6" playOrder="6">
+      <navLabel>
+        <text>Unit 3: People at home and school</text>
+      </navLabel>
+      <content src="ch03.xhtml"/>
+    </navPoint>
+    <navPoint id="nav7" playOrder="7">
+      <navLabel>
+        <text>Unit 4: Clothes and parts of my body</text>
+      </navLabel>
+      <content src="ch04.xhtml"/>
+    </navPoint>
+    <navPoint id="nav8" playOrder="8">
+      <navLabel>
+        <text>Unit 5: Likes and dislikes</text>
+      </navLabel>
+      <content src="ch05.xhtml"/>
+    </navPoint>
+    <navPoint id="nav9" playOrder="9">
+      <navLabel>
+        <text>Unit 6: Classroom objects and personal belongings</text>
+      </navLabel>
+      <content src="ch06.xhtml"/>
+    </navPoint>
+    <navPoint id="nav10" playOrder="10">
+      <navLabel>
+        <text>Unit 7: Animals at home</text>
+      </navLabel>
+      <content src="ch08.xhtml"/>
+    </navPoint>
+    <navPoint id="nav11" playOrder="11">
+      <navLabel>
+        <text>Unit 8: What we do every day</text>
+      </navLabel>
+      <content src="ch09.xhtml"/>
+    </navPoint>
+    <navPoint id="nav12" playOrder="12">
+      <navLabel>
+        <text>Unit 9: Storytelling</text>
+      </navLabel>
+      <content src="ch10.xhtml"/>
+    </navPoint>
+	-->
+  </navMap>
+</ncx>
