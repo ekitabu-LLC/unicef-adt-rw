@@ -1325,6 +1325,80 @@ div._idGenStateHide, div._idGenStateHide *{
 	width:2000px;
 }
 
+#_idContainer180 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:75px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:1100px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+#_idContainer181 {
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:56.16px;
+	left:0px;
+	position:absolute;
+	top:300px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:56.16px;
+}
+
+#_idContainer182 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:900px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+#_idContainer183 {
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:56.16px;
+	left:0px;
+	position:absolute;
+	top:200px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:56.16px;
+}
+
+#_idContainer184 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:1000px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2100px;
+}
 
 div._idGenObjectAttribute-4 {
 	height:800px;
@@ -1353,10 +1427,165 @@ div._idGenObjectAttribute-6 {
 	width:2400px;
 }
 
+div._idGenObjectAttribute-7 {
+	height:800px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:50px;
+	width:1600px;
+}
+
+div._idGenObjectAttribute-8 {
+	height:1100px;
+	left:300px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:2100px;
+}
+
+div._idGenObjectAttribute-9 {
+	height:800px;
+	left:100px;
+	overflow:hidden;
+	position:absolute;
+	top:180px;
+	width:2000px;
+}
+
+div._idGenObjectAttribute-10 {
+	height:1100px;
+	left:375px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:1800px;
+}
+
+
+
 #_idVideo000 {
 	-webkit-transform-origin:0% 0%;
 	height:auto;
 	object-fit:fill;
 	transform-origin:0% 0%;
 	width:50%;
+}
+
+/* Popup container - can be anything you want */
+.popup {
+  display: block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+	top:1700px;
+   left:400px;
+ color:#000000;
+	font-family:Lato, sans-serif;
+	font-size:40px;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  background-color: #fff transparent transparent transparent;
+  width:1000px;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 50px 0;
+  position: fixed;
+  z-index: 1;
+  bottom: 75%;
+  left: 825px;
+  top: 1687px;
+  margin-left: -80px;
+}
+
+/* The actual popup for videos in upper part of screen */
+.popup .popuptextup4 {
+  visibility: hidden;
+  background-color: #fff transparent transparent transparent;
+  width:1400px;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 50px 0;
+  position: fixed;
+  z-index: 1;
+  bottom: 75%;
+  left: 200px;
+  top: 950px;
+  margin-left: -80px;
+}
+
+.popup .popuptextup5 {
+  visibility: hidden;
+  background-color: #fff transparent transparent transparent;
+  width:1400px;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 50px 0;
+  position: fixed;
+  z-index: 1;
+  bottom: 75%;
+  left: 200px;
+  top: 1040px;
+  margin-left: -80px;
+}
+
+
+.popup .popuptextup6 {
+  visibility: hidden;
+  background-color: #fff;
+  width:1200px;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 50px 0;
+  position: fixed;
+  z-index: 1;
+  bottom: 75%;
+  left: 300px;
+  top: 695px;
+  margin-left: -80px;
+}
+
+.popup .popuptextup7 {
+  visibility: hidden;
+  background-color: #fff transparent transparent transparent;
+  width:1400px;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 50px 0;
+  position: fixed;
+  z-index: 1;
+  bottom: 75%;
+  left: 200px;
+  top: 690px;
+  margin-left: -80px;
+}
+
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
 }
