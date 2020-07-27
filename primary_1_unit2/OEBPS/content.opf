@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="cover" content="cover.jpg" />
+    <meta property="ibooks:specified-fonts">true</meta>
+    <dc:title>Success English - Primary 1: Unit 2 - with Quiz</dc:title>
+    <dc:creator>ekitabu</dc:creator>
+    <dc:subject>coming</dc:subject>
+    <dc:description>coming</dc:description>
+    <dc:publisher>ekitabu</dc:publisher>
+    <dc:date>2020-07-07T19:07:07Z</dc:date>
+    <dc:rights>coming</dc:rights>
+    <dc:language>en-US</dc:language>
+    <meta property="dcterms:modified">2020-07-27T16:58:40Z</meta>
+    <dc:identifier id="bookid">urn:uuid:32E36F00-F91E-46FF-8430-D4E425909BE2</dc:identifier>
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:orientation">portrait</meta>
+    <meta property="rendition:spread">none</meta>
+    <meta content="1.3.0" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item id="primary_unit2-1" href="primary_unit2-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="primary_unit2-2" href="primary_unit2-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="primary_unit2-3" href="primary_unit2-3.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-4" href="primary_unit2-4.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-5" href="primary_unit2-5.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-6" href="primary_unit2-6.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-7" href="primary_unit2-7.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-8" href="primary_unit2-8.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-9" href="primary_unit2-9.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-10" href="primary_unit2-10.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-11" href="primary_unit2-11.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-12" href="primary_unit2-12.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-13" href="primary_unit2-13.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-14" href="primary_unit2-14.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-15" href="primary_unit2-15.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="primary_unit2-16" href="primary_unit2-16.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="page3.mp3" href="audio/page3.mp3" media-type="audio/mpeg"/>
+    <item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="Lato-Bold.otf" href="font/Lato-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="Lato-Regular.otf" href="font/Lato-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="x3.png" href="image/3.png" media-type="image/png"/>
+    <item id="cover.jpg" href="image/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="Page_11.jpg" href="image/Page_11.jpg" media-type="image/jpeg"/>
+    <item id="Page_11a.jpg" href="image/Page_11a.jpg" media-type="image/jpeg"/>
+    <item id="Page_12.jpg" href="image/Page_12.jpg" media-type="image/jpeg"/>
+    <item id="Page_12a.jpg" href="image/Page_12a.jpg" media-type="image/jpeg"/>
+    <item id="Page_13.jpg" href="image/Page_13.jpg" media-type="image/jpeg"/>
+    <item id="Page_13a.jpg" href="image/Page_13a.jpg" media-type="image/jpeg"/>
+    <item id="Page_14a.jpg" href="image/Page_14a.jpg" media-type="image/jpeg"/>
+    <item id="Page_15.jpg" href="image/Page_15.jpg" media-type="image/jpeg"/>
+    <item id="Page_15a.jpg" href="image/Page_15a.jpg" media-type="image/jpeg"/>
+    <item id="Page_16.jpg" href="image/Page_16.jpg" media-type="image/jpeg"/>
+    <item id="Page_16a.jpg" href="image/Page_16a.jpg" media-type="image/jpeg"/>
+    <item id="Page_17.jpg" href="image/Page_17.jpg" media-type="image/jpeg"/>
+    <item id="Page_17a.jpg" href="image/Page_17a.jpg" media-type="image/jpeg"/>
+    <item id="red.jpg" href="image/red.jpg" media-type="image/jpeg"/>
+    <item id="blue.jpg" href="image/blue.jpg" media-type="image/jpeg"/>
+    <item id="black.jpg" href="image/black.jpg" media-type="image/jpeg"/>
+    <item id="yellow.jpg" href="image/yellow.jpg" media-type="image/jpeg"/>
+    <item id="green.jpg" href="image/green.jpg" media-type="image/jpeg"/>
+    <item id="white.jpg" href="image/white.jpg" media-type="image/jpeg"/>
+    <item id="play_audio.png" href="image/play_audio.png" media-type="image/png"/>
+    <item id="stop_audio.png" href="image/stop_audio.png" media-type="image/png"/>
+    <item id="dragdrop.js" href="script/dragdrop.js" media-type="text/javascript"/>
+    <item id="quiz.js" href="script/quiz.js" media-type="text/javascript"/>
+    <item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript"/>
+    <item id="Page_14.jpg" href="image/Page_14.jpg" media-type="image/jpeg"/>
+    <item id="radio_button.js" href="script/radio_button.js" media-type="application/javascript"/>
+  </manifest>
+  <spine>
+    <itemref idref="primary_unit2-1"/>
+    <itemref idref="primary_unit2-2"/>
+    <itemref idref="primary_unit2-3"/>
+    <itemref idref="primary_unit2-4"/>
+    <itemref idref="primary_unit2-5"/>
+    <itemref idref="primary_unit2-6"/>
+    <itemref idref="primary_unit2-7"/>
+    <itemref idref="primary_unit2-8"/>
+    <itemref idref="primary_unit2-9"/>
+    <itemref idref="primary_unit2-10"/>
+    <itemref idref="primary_unit2-11"/>
+    <itemref idref="primary_unit2-12"/>
+    <itemref idref="primary_unit2-13"/>
+    <itemref idref="primary_unit2-14"/>
+    <itemref idref="primary_unit2-15"/>
+    <itemref idref="primary_unit2-16"/>
+  </spine>
+</package>
