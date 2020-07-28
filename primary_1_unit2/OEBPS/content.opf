@@ -11,7 +11,7 @@
     <dc:date>2020-07-07T19:07:07Z</dc:date>
     <dc:rights>coming</dc:rights>
     <dc:language>en-US</dc:language>
-    <meta property="dcterms:modified">2020-07-17T14:17:32Z</meta>
+    <meta property="dcterms:modified">2020-07-27T16:58:40Z</meta>
     <dc:identifier id="bookid">urn:uuid:32E36F00-F91E-46FF-8430-D4E425909BE2</dc:identifier>
     <meta property="rendition:layout">pre-paginated</meta>
     <meta property="rendition:orientation">portrait</meta>
@@ -67,6 +67,10 @@
     <item id="primary_unit2-15" href="primary_unit2-15.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit2_page26.smil"/>
     <item id="primary_unit2-16" href="primary_unit2-16.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="Unit2_page27.smil"/>
 
+    <item id="dragdrop.js" href="script/dragdrop.js" media-type="text/javascript"/>
+    <item id="quiz.js" href="script/quiz.js" media-type="text/javascript"/>
+    <item id="radio_button.js" href="script/radio_button.js" media-type="application/javascript"/>
+    <item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript"/>
     <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     <item id="page3.mp3" href="audio/page3.mp3" media-type="audio/mpeg"/>
     <item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"/>
@@ -96,8 +100,6 @@
     <item id="white.jpg" href="image/white.jpg" media-type="image/jpeg"/>
     <item id="play_audio.png" href="image/play_audio.png" media-type="image/png"/>
     <item id="stop_audio.png" href="image/stop_audio.png" media-type="image/png"/>
-    <item id="dragdrop.js" href="script/dragdrop.js" media-type="text/javascript"/>
-    <item id="idGeneratedScript.js" href="script/idGeneratedScript.js" media-type="text/javascript"/>
     <item id="Unit2_page14.mp3" href="audio/Unit2_page14.mp3" media-type="audio/mpeg"/>
     <item id="Unit2_page15.mp3" href="audio/Unit2_page15.mp3" media-type="audio/mpeg"/>
     <item id="Unit2_page16.mp3" href="audio/Unit2_page16.mp3" media-type="audio/mpeg"/>
@@ -144,6 +146,44 @@
     <item id="Birthday.mp4" href="video/Birthday.mp4" media-type="video/mp4"/>
     <item id="unit2-4_image.png" href="image/unit2-4_image.png" media-type="image/png"/>
     <item id="unit2-6_image.png" href="image/unit2-6_image.png" media-type="image/png"/>
+    <item id="glossaryPopups.js" href="script/glossaryPopups.js" media-type="application/javascript"/>
+    <item id="Bag.mp4" href="video/Bag.mp4" media-type="video/mp4"/>
+    <item id="Between.mp4" href="video/Between.mp4" media-type="video/mp4"/>
+    <item id="Blue.mp4" href="video/Blue.mp4" media-type="video/mp4"/>
+    <item id="Color.mp4" href="video/Color.mp4" media-type="video/mp4"/>
+    <item id="Cupboard.mp4" href="video/Cupboard.mp4" media-type="video/mp4"/>
+    <item id="Desk.mp4" href="video/Desk.mp4" media-type="video/mp4"/>
+    <item id="Glossary.mp4" href="video/Glossary.mp4" media-type="video/mp4"/>
+    <item id="Green.mp4" href="video/Green.mp4" media-type="video/mp4"/>
+    <item id="Havegot.mp4" href="video/Havegot.mp4" media-type="video/mp4"/>
+    <item id="He.mp4" href="video/He.mp4" media-type="video/mp4"/>
+    <item id="Indigo.mp4" href="video/Indigo.mp4" media-type="video/mp4"/>
+    <item id="Pen.mp4" href="video/Pen.mp4" media-type="video/mp4"/>
+    <item id="Purple.mp4" href="video/Purple.mp4" media-type="video/mp4"/>
+    <item id="Red.mp4" href="video/Red.mp4" media-type="video/mp4"/>
+    <item id="She.mp4" href="video/She.mp4" media-type="video/mp4"/>
+    <item id="That.mp4" href="video/That.mp4" media-type="video/mp4"/>
+    <item id="These.mp4" href="video/These.mp4" media-type="video/mp4"/>
+    <item id="This.mp4" href="video/This.mp4" media-type="video/mp4"/>
+    <item id="White.mp4" href="video/White.mp4" media-type="video/mp4"/>
+    <item id="Window.mp4" href="video/Window.mp4" media-type="video/mp4"/>
+    <item id="Yellow.mp4" href="video/Yellow.mp4" media-type="video/mp4"/>
+    <item id="desk.png" href="image/desk.png" media-type="image/png"/>
+    <item id="this.png" href="image/this.png" media-type="image/png"/>
+    <item id="window.png" href="image/window.png" media-type="image/png"/>
+    <item id="cupboard.png" href="image/cupboard.png" media-type="image/png"/>
+    <item id="pen.png" href="image/pen.png" media-type="image/png"/>
+    <item id="color.png" href="image/color.png" media-type="image/png"/>
+    <item id="blue.png" href="image/blue.png" media-type="image/png"/>
+    <item id="yellow.png" href="image/yellow.png" media-type="image/png"/>
+    <item id="these.png" href="image/these.png" media-type="image/png"/>
+    <item id="white.png" href="image/white.png" media-type="image/png"/>
+    <item id="bag.png" href="image/bag.png" media-type="image/png"/>
+    <item id="havegot.png" href="image/havegot.png" media-type="image/png"/>
+    <item id="green.png" href="image/green.png" media-type="image/png"/>
+    <item id="indigo.png" href="image/indigo.png" media-type="image/png"/>
+    <item id="red.png" href="image/red.png" media-type="image/png"/>
+    <item id="she.png" href="image/she.png" media-type="image/png"/>
   </manifest>
   <spine>
     <itemref idref="primary_unit2-1"/>
