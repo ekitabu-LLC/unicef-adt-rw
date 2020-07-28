@@ -16,13 +16,6 @@ body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 	border-width:0;
 	text-rendering:optimizeSpeed;
 }
-
-#button1 {
-    top:675px;
-    left:1400px;
-    position: absolute;
-    width:100px;
-}
 p.copyright {
     text-align: center;
     color:#000000;
@@ -30,18 +23,6 @@ p.copyright {
 	font-size:40px;
 	font-style:normal;
 	font-weight:normal;
-}
-button.submit {
-	display:block; 
-    font-size:.8em;
-    margin:auto;
-    padding:.3em;
-    border: dashed 2px #00000;
-    text-align: center;
-	font-family: 'opendyslexic';
-	font-weight: bold;
-	background-color: #C4DDCA;
-	color: #00000;
 }
 .body {
     position:absolute;
@@ -187,7 +168,132 @@ button.submit {
     position:absolute;
     
 }
-
+span.CharOverride-1 {
+	color:#000000;
+	font-family:Lato, sans-serif;
+	font-size:820px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	color:#ff0000;
+	font-family:Lato, sans-serif;
+	font-size:2160px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	color:#000000;
+	font-family:Lato, sans-serif;
+	font-size:1300px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-4 {
+	color:#000000;
+	font-family:Lato, sans-serif;
+	font-size:1200px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-5 {
+	color:#000000;
+	font-family:Lato, sans-serif;
+	font-size:1400px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-6 {
+	color:#a5318a;
+	font-family:Lato, sans-serif;
+	font-size:1160px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-7 {
+	color:#000000;
+	font-family:Lato, sans-serif;
+	font-size:960px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-8 {
+	color:#ffffff;
+	font-family:Lato, sans-serif;
+	font-size:1080px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-9 {
+	color:#ed1c24;
+	font-family:Lato, sans-serif;
+	font-size:1200px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-10 {
+	color:#000000;
+	font-family:Lato, sans-serif;
+	font-size:1200px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-11 {
+	color:#ed1c24;
+	font-family:Lato, sans-serif;
+	font-size:960px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-12 {
+	color:#7dba55;
+	font-family:Lato, sans-serif;
+	font-size:1200px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-13 {
+	color:#f2ea52;
+	font-family:Lato, sans-serif;
+	font-size:1200px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-14 {
+	color:#3b539a;
+	font-family:Lato, sans-serif;
+	font-size:1200px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-15 {
+	color:#595299;
+	font-family:Lato, sans-serif;
+	font-size:1200px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-16 {
+	color:#ff0000;
+	font-family:Lato, sans-serif;
+	font-size:1200px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-17 {
+	color:#e7843c;
+	font-family:Lato, sans-serif;
+	font-size:1200px;
+	font-style:normal;
+	font-weight:bold;
+}
+span.CharOverride-18 {
+	color:#6c559d;
+	font-family:Lato, sans-serif;
+	font-size:1200px;
+	font-style:normal;
+	font-weight:bold;
+}
 #_idContainer000 {
 	-webkit-transform-origin:0% 0%;
 	height:528.65px;
@@ -206,7 +312,15 @@ button.submit {
 	transform-origin:0% 0%;
 	width:1404.50px;
 }
-
+#_idAudio000 {
+	-webkit-transform:translate(1.282%,0.000%) rotate(0.000deg) skew(0.000deg) scale(0.974,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:100.00%;
+	object-fit:fill;
+	transform:translate(1.282%,0.000%) rotate(0.000deg) skew(0.000deg) scale(0.974,1.000);
+	transform-origin:0% 0%;
+	width:100.00%;
+}
 #_idContainer002 {
 	-webkit-transform:translate(1480.000px,60.719px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -436,6 +550,7 @@ button.submit {
 	transform-origin:0% 0%;
 	width:543.00px;
 }
+/* To confirm origin */
 #pg7 {
     left:360px;
     top:10px;
@@ -448,7 +563,7 @@ button.submit {
 	position:absolute;
 	top:305px;
 	transform-origin:0% 0%;
-	width:700.00px;
+	width:700.00px; //Changed by Dobbz
 }
 #_idContainer050 {
 	-webkit-transform-origin:0% 0%;
@@ -995,7 +1110,25 @@ button.submit {
 	width:193.00px;
 }
 
-/* quiz info */
+/*=========== quiz info ========= */
+#button1 {
+    top:675px;
+    left:1400px;
+    position: absolute;
+    width:100px;
+}
+button.submit {
+	display:block; 
+    font-size:.8em;
+    margin:auto;
+    padding:.3em;
+    border: dashed 2px #00000;
+    text-align: center;
+	font-family: 'opendyslexic';
+	font-weight: bold;
+	background-color: #C4DDCA;
+	color: #00000;
+}
 #quiz {
     position: absolute;
     left:350px;
@@ -1250,8 +1383,7 @@ button.submit {
 	top:95px;
 	transform:translate(98.863px,321.379px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:350px;
-    
+	width:350px;   
 }
 #dropwhite {
     left:185px;
@@ -1260,8 +1392,7 @@ button.submit {
 	transform:translate(98.863px,321.379px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:350px;
-    border: 2px solid;
-    
+    border: 2px solid;    
 }
 #dropblue {
     left:185px;
@@ -1269,8 +1400,7 @@ button.submit {
 	top:670px;
 	transform:translate(98.863px,321.379px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:350px;
-    
+	width:350px;   
 }
 #dropgreen {
     left:185px;
@@ -1278,8 +1408,7 @@ button.submit {
 	top:965px;
 	transform:translate(98.863px,321.379px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:350px;
-    
+	width:350px;  
 }
 #dropyellow {
     left:185px;
@@ -1287,8 +1416,7 @@ button.submit {
 	top:1275px;
 	transform:translate(98.863px,321.379px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:350px;
-    
+	width:350px;   
 }
 #dropblack {
     left:185px;
@@ -1296,8 +1424,7 @@ button.submit {
 	top:1580px;
 	transform:translate(98.863px,321.379px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:350px;
-    
+	width:350px;  
 }
 #dropzone2 {
 	top:705px;
@@ -1321,9 +1448,9 @@ button.submit {
     height:225px;
 	text-align: center;
 	color: #000;
-
 	/*background: #fff;*/
 }
+/*============ End of Quiz Info ============*/
 img._idGenObjectAttribute-1 {
     width:350px;
     height:auto;
@@ -1334,7 +1461,7 @@ div._idGenObjectAttribute-1 {
 	overflow:hidden;
 	position:absolute;
 	top:0px;
-	width:55px;
+	width:56px;
 }
 img.fullpg {
     height:100.00%;
@@ -1353,8 +1480,55 @@ img._idGenObjectAttribute-3 {
 	position:absolute;
 	top:0px;
 }
+div._idGenButton div._idGen-Appearance-Normal {
+	visibility:visible;
+}
+div._idGenButton div._idGen-Appearance-Rollover {
+	visibility:hidden;
+}
+div._idGenButton div._idGen-Appearance-Click {
+	visibility:hidden;
+}
+div._idGenButton {
+	cursor:pointer;
+}
+div._idGenButton._idGenStateHover div._idGen-Appearance-Normal {
+	visibility:hidden;
+}
+div._idGenButton._idGenStateHover div._idGen-Appearance-Rollover {
+	visibility:visible;
+}
+div._idGenButton._idGenStateHover div._idGen-Appearance-Click {
+	visibility:hidden;
+}
+div._idGenButton._idGenStateClick div._idGen-Appearance-Normal {
+	visibility:hidden;
+}
+div._idGenButton._idGenStateClick div._idGen-Appearance-Rollover {
+	visibility:hidden;
+}
+div._idGenButton._idGenStateClick div._idGen-Appearance-Click {
+	visibility:visible;
+}
+div._idGenStateHide div._idGen-Appearance-Normal {
+	visibility:hidden;
+}
+div._idGenStateHide div._idGen-Appearance-Rollover {
+	visibility:hidden;
+}
+div._idGenStateHide div._idGen-Appearance-Click {
+	visibility:hidden;
+}
+div._idGenStateHide, div._idGenStateHide *{
+	visibility:hidden;
+}
 
-/*new code to use below */
+/* ================= Media Overlay Highlighting Color =================*/
+.-epub-media-overlay-active {
+    background-color: #ff9800;
+}
+
+/* ================= Related to Audio ================= */
 
 #_idAudio000 {
 	-webkit-transform:translate(0.000%,0.000%) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -1364,6 +1538,7 @@ img._idGenObjectAttribute-3 {
 	transform:translate(0.000%,0.000%) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:100.00%;
+	display: none;
 }
 #_idContainer000a {
 	-webkit-transform:translate(256.000px,358.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -1457,4 +1632,339 @@ div._idGenStateHide div._idGen-Appearance-Click {
 }
 div._idGenStateHide, div._idGenStateHide *{
 	visibility:hidden;
+}
+
+/* Related to sign videos */
+
+#_idContainer176 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:1100px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+#_idContainer177 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:0px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+#_idContainer178 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:800px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+#_idContainer179 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:0px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+#_idContainer180 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:75px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:1100px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+#_idContainer181 {
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:56.16px;
+	left:0px;
+	position:absolute;
+	top:300px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:56.16px;
+}
+
+#_idContainer182 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:900px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+#_idContainer183 {
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:56.16px;
+	left:0px;
+	position:absolute;
+	top:200px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:56.16px;
+}
+
+#_idContainer184 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:1000px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2100px;
+}
+
+div._idGenObjectAttribute-4 {
+	height:800px;
+	left:100px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:2000px;
+}
+
+div._idGenObjectAttribute-5 {
+	height:800px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:2400px;
+}
+
+div._idGenObjectAttribute-6 {
+	height:800px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:2400px;
+}
+
+div._idGenObjectAttribute-7 {
+	height:800px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:50px;
+	width:1600px;
+}
+
+div._idGenObjectAttribute-8 {
+	height:1100px;
+	left:300px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:2100px;
+}
+
+div._idGenObjectAttribute-9 {
+	height:800px;
+	left:100px;
+	overflow:hidden;
+	position:absolute;
+	top:180px;
+	width:2000px;
+}
+
+div._idGenObjectAttribute-10 {
+	height:1100px;
+	left:375px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	width:1800px;
+}
+
+
+
+#_idVideo000 {
+	-webkit-transform-origin:0% 0%;
+	height:auto;
+	object-fit:fill;
+	transform-origin:0% 0%;
+	width:50%;
+}
+
+/* Popup container - can be anything you want */
+.popup {
+  display: block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+	top:1700px;
+   left:400px;
+ color:#000000;
+	font-family:Lato, sans-serif;
+	font-size:40px;
+}
+
+/* The actual popup */
+.popup .popuptext {
+  visibility: hidden;
+  background-color: #fff transparent transparent transparent;
+  width:1000px;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 50px 0;
+  position: fixed;
+  z-index: 1;
+  bottom: 75%;
+  left: 825px;
+  top: 1687px;
+  margin-left: -80px;
+}
+
+/* The actual popup for videos in upper part of screen */
+.popup .popuptextup4 {
+  visibility: hidden;
+  background-color: #fff transparent transparent transparent;
+  width:1400px;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 50px 0;
+  position: fixed;
+  z-index: 1;
+  bottom: 75%;
+  left: 200px;
+  top: 950px;
+  margin-left: -80px;
+}
+
+.popup .popuptextup5 {
+  visibility: hidden;
+  background-color: #fff transparent transparent transparent;
+  width:1400px;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 50px 0;
+  position: fixed;
+  z-index: 1;
+  bottom: 75%;
+  left: 200px;
+  top: 1040px;
+  margin-left: -80px;
+}
+
+
+.popup .popuptextup6 {
+  visibility: hidden;
+  background-color: #fff;
+  width:1200px;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 50px 0;
+  position: fixed;
+  z-index: 1;
+  bottom: 75%;
+  left: 300px;
+  top: 695px;
+  margin-left: -80px;
+}
+
+.popup .popuptextup7 {
+  visibility: hidden;
+  background-color: #fff transparent transparent transparent;
+  width:1400px;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 50px 0;
+  position: fixed;
+  z-index: 1;
+  bottom: 75%;
+  left: 200px;
+  top: 690px;
+  margin-left: -80px;
+}
+
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+  visibility: visible;
+  -webkit-animation: fadeIn 1s;
+  animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+  from {opacity: 0;} 
+  to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity:1 ;}
 }
