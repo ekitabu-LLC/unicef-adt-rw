@@ -388,7 +388,6 @@ p.copyright6 {
 	transform-origin:0% 0%;
 	width:552.00px;
 }
-
 #_idContainer020, #_idContainer022, #_idContainer036, #_idContainer038, #_idContainer057, #_idContainer059, #_idContainer074, #_idContainer076, #_idContainer090, #_idContainer092 {
 	-webkit-transform:translate(1475.000px,59.999px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -721,7 +720,6 @@ p.copyright6 {
 	transform-origin:0% 0%;
 	width:258.00px;
 }
-
 div._idGenObjectAttribute-1 {
 	height:55px;
 	left:0px;
@@ -730,7 +728,6 @@ div._idGenObjectAttribute-1 {
 	top:0px;
 	width:56px;
 }
-
 img.fullpg {
     height:100.00%;
 	width:100.00%;
@@ -791,12 +788,13 @@ div._idGenStateHide, div._idGenStateHide *{
 	visibility:hidden;
 }
 
+
 /* ================= Media Overlay Highlighting Color =================*/
 .-epub-media-overlay-active {
     background-color: #ff9800;
 }
 
-/* ================= new code to use below ================= */
+/* ================= Related to Audio ================= */
 
 #_idAudio000 {
 	-webkit-transform:translate(0.000%,0.000%) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -806,6 +804,7 @@ div._idGenStateHide, div._idGenStateHide *{
 	transform:translate(0.000%,0.000%) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:100.00%;
+	display: none;
 }
 #_idContainer000a {
 	-webkit-transform:translate(256.000px,358.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -826,33 +825,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:1200.00px;
-
-/* Related to sign videos */
-
-#_idContainer122 {
-	-webkit-transform-origin:0% 0%;
-	height:61.45px;
-	left:300px;
-	position:absolute;
-	top:1375px;
-	transform-origin:0% 0%;
-	width:54.00px;
-}
-
-#_idContainer123 {
-	-webkit-transform-origin:0% 0%;
-	height:0px;
-	left:0px;
-	position:absolute;
-	top:0px;
-	transform-origin:0% 0%;
-	width:0.00px;
-}
-
-#_idContainer124 {
-	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
-	-webkit-transform-origin:0% 0%;
-	height:56.16px;
 	left:0px;
 	position:absolute;
 	top:0px;
@@ -864,14 +836,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:60px;
-	width:56.16px;
-
-}
-
-#_idContainer125 {
-	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
-	-webkit-transform-origin:0% 0%;
-	height:56.16px;
 	left:0px;
 	position:absolute;
 	top:0px;
@@ -934,6 +898,52 @@ div._idGenStateHide div._idGen-Appearance-Click {
 }
 div._idGenStateHide, div._idGenStateHide *{
 	visibility:hidden;
+}
+
+/* Related to sign videos */
+
+#_idContainer122 {
+	-webkit-transform-origin:0% 0%;
+	height:61.45px;
+	left:300px;
+	position:absolute;
+	top:1375px;
+	transform-origin:0% 0%;
+	width:54.00px;
+}
+
+#_idContainer123 {
+	-webkit-transform-origin:0% 0%;
+	height:0px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform-origin:0% 0%;
+	width:0.00px;
+}
+
+#_idContainer124 {
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:56.16px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:56.16px;
+
+}
+
+#_idContainer125 {
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:56.16px;
+	left:0px;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
 	width:56.16px;
 }
 

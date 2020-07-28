@@ -1,4 +1,4 @@
-@font-face {
+t-face {
 	font-family:Lato;
 	font-style:normal;
 	font-weight:bold;
@@ -1109,8 +1109,7 @@ span.CharOverride-18 {
 	top:95px;
 	transform:translate(98.863px,321.379px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:350px;
-    
+	width:350px;   
 }
 #dropwhite {
     left:185px;
@@ -1119,8 +1118,7 @@ span.CharOverride-18 {
 	transform:translate(98.863px,321.379px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:350px;
-    border: 2px solid;
-    
+    border: 2px solid;    
 }
 #dropblue {
     left:185px;
@@ -1128,8 +1126,7 @@ span.CharOverride-18 {
 	top:670px;
 	transform:translate(98.863px,321.379px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:350px;
-    
+	width:350px;   
 }
 #dropgreen {
     left:185px;
@@ -1137,8 +1134,7 @@ span.CharOverride-18 {
 	top:965px;
 	transform:translate(98.863px,321.379px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:350px;
-    
+	width:350px;  
 }
 #dropyellow {
     left:185px;
@@ -1146,8 +1142,7 @@ span.CharOverride-18 {
 	top:1275px;
 	transform:translate(98.863px,321.379px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:350px;
-    
+	width:350px;   
 }
 #dropblack {
     left:185px;
@@ -1155,8 +1150,7 @@ span.CharOverride-18 {
 	top:1580px;
 	transform:translate(98.863px,321.379px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:350px;
-    
+	width:350px;  
 }
 #dropzone2 {
 	top:705px;
@@ -1180,7 +1174,6 @@ span.CharOverride-18 {
     height:225px;
 	text-align: center;
 	color: #000;
-
 	/*background: #fff;*/
 }
 img._idGenObjectAttribute-1 {
@@ -1260,7 +1253,7 @@ div._idGenStateHide, div._idGenStateHide *{
     background-color: #ff9800;
 }
 
-/* ================= new code to use below ================= */
+/* ================= Related to Audio ================= */
 
 #_idAudio000 {
 	-webkit-transform:translate(0.000%,0.000%) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -1270,6 +1263,7 @@ div._idGenStateHide, div._idGenStateHide *{
 	transform:translate(0.000%,0.000%) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:100.00%;
+	display: none;
 }
 #_idContainer000a {
 	-webkit-transform:translate(256.000px,358.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
@@ -1278,34 +1272,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	background-size:contain;
 	height:144.00px;
 	left:0px;
-
-/* Related to sign videos */
-
-#_idContainer176 {
-	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
-	-webkit-transform-origin:0% 0%;
-	background-image:url(../image/8.png);
-	background-repeat:no-repeat;
-	background-size:contain;
-	height:800px;
-	left:150px;
-	overflow:hidden;
-	position:absolute;
-	text-align:left;
-	top:1100px;
-	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
-	transform-origin:0% 0%;
-	width:2000px;
-}
-
-#_idContainer177 {
-	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
-	-webkit-transform-origin:0% 0%;
-	background-image:url(../image/8.png);
-	background-repeat:no-repeat;
-	background-size:contain;
-	height:800px;
-	left:150px;
 	overflow:hidden;
 	position:absolute;
 	text-align:left;
@@ -1391,6 +1357,39 @@ div._idGenStateHide div._idGen-Appearance-Click {
 }
 div._idGenStateHide, div._idGenStateHide *{
 	visibility:hidden;
+}
+
+/* Related to sign videos */
+
+#_idContainer176 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:1100px;
+	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:2000px;
+}
+
+#_idContainer177 {
+	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	background-image:url(../image/8.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	height:800px;
+	left:150px;
+	overflow:hidden;
+	position:absolute;
+	text-align:left;
+	top:0px;
 	transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:2000px;
