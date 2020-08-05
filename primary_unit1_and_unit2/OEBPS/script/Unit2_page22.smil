@@ -1,0 +1,10 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq id="seq000001" epub:textref="../primary_unit2-11.xhtml">
+      <par id="par000001">
+        <text src="../primary_unit2-11.xhtml#c01w00001"/>
+        <audio src="../audio/Unit2_page22.mp3" clipBegin="00:00:00.000" clipEnd="00:00:35.880"/>
+      </par>
+    </seq>
+  </body>
+</smil>
