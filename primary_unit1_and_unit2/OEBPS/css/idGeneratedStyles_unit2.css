@@ -50,7 +50,6 @@ p.copyright {
 }
 .title {
     position:absolute;
-    
     color:#a5318a;
 	font-family:Lato, sans-serif;
 	font-size:55px;
@@ -166,7 +165,6 @@ p.copyright {
 	font-style:normal;
 	font-weight:normal;
     position:absolute;
-    
 }
 span.CharOverride-1 {
 	color:#000000;
@@ -1109,8 +1107,15 @@ span.CharOverride-18 {
 	transform-origin:0% 0%;
 	width:193.00px;
 }
-
 /*=========== quiz info ========= */
+input[type=button], input[type=submit], input[type=reset] {
+    width: 100px;
+    height: 40px;
+    border-radius: 3px;
+    background-color: lightblue;
+    font-weight: 700;
+    font-size: 1.5em;
+}
 #button1 {
     top:675px;
     left:1400px;
@@ -1119,7 +1124,7 @@ span.CharOverride-18 {
 }
 button.submit {
 	display:block; 
-    font-size:.8em;
+    font-size:.10em;
     margin:auto;
     padding:.3em;
     border: dashed 2px #00000;
@@ -1144,21 +1149,6 @@ button.submit {
     left:350px;
     top:1120px;
 }
-#answer1 {
-    position: absolute;
-    top:615px;
-    left:1050px;
-}
-#answer2 {
-    position: absolute;
-    top:40px;
-    left:1050px;
-}
-#answer3 {
-    position: absolute;
-    top:45px;
-    left:1050px;
-}
 #quiz4 {
     position: absolute;
     left:350px;
@@ -1174,34 +1164,83 @@ button.submit {
     left:350px;
     top:1950px;
 }
+#answer1 {
+	position: absolute;
+    top: 605px;
+    left: 1000px;
+    width: 150px;
+    height: 60px;
+    border-radius: 6px;
+    background-color: lightblue;
+    font-weight: 525;
+    font-size: 2.4em;
+}
+#answer2 {
+    position: absolute;
+    top:25px;
+    left:1000px;
+    width: 150px;
+    height: 60px;
+    border-radius: 6px;
+    background-color: lightblue;
+    font-weight: 525;
+    font-size: 2.4em;
+}
+#answer3 {
+    position: absolute;
+    top:30px;
+    left:1000px;
+    width: 150px;
+    height: 60px;
+    border-radius: 6px;
+    background-color: lightblue;
+    font-weight: 525;
+    font-size: 2.4em;
+}
 #answer4{
     position: absolute;
-    top:760px;
-    left:1050px;
+    top: 730px;
+    left: 1000px;
+    width: 150px;
+    height: 60px;
+    border-radius: 6px;
+    background-color: lightblue;
+    font-weight: 525;
+    font-size: 2.4em;
 }
 #answer5{
     position: absolute;
-    top:330px;
-    left:1050px;
+    top:300px;
+    left:1000px;
+    width: 150px;
+    height: 60px;
+    border-radius: 6px;
+    background-color: lightblue;
+    font-weight: 525;
+    font-size: 2.4em;
 }
 #answer6 {
     position: absolute;
-    top:180px;
-    left:1050px;
+    top:160px;
+    left:1000px;
+    width: 150px;
+    height: 60px;
+    border-radius: 6px;
+    background-color: lightblue;
+    font-weight: 525;
+    font-size: 2.4em;
 }
 #block-1 {
 	top:590px;
 	position:relative;
 	left:10px;
 	width:150px;
-
 }
 #block-2 {
 	top:590px;
 	position:absolute;
 	left:405px;
 	width:150px;
-
 }
 #block-3 {
     top:590px;
@@ -1214,14 +1253,12 @@ button.submit {
 	position:relative;
 	left:10px;
 	width:150px;
-
 }
 #block-5 {
 	top:20px;
 	position:absolute;
 	left:405px;
 	width:150px;
-
 }
 #block-6 {
     top:20px;
@@ -1234,14 +1271,12 @@ button.submit {
 	position:relative;
 	left:10px;
 	width:150px;
-
 }
 #block-8 {
 	top:20px;
 	position:absolute;
 	left:405px;
 	width:150px;
-
 }
 #block-9 {
     top:20px;
@@ -1250,55 +1285,55 @@ button.submit {
     width:150px;
 }
 #block-11 {
-    top:745px;
+    top:725px;
     position: absolute;
     left:10px;
     width:150px;
 }
 #block-12 {
-    top:745px;
+    top:725px;
     position: absolute;
     left:405px;
     width:150px;
 }
 #block-13 {
-    top:745px;
+    top: 725px;
     position: absolute;
-    left:755px;
-    width:150px;
+    left: 755px;
+    width: 150px;
 }
 #block-14 {
-    top:315px;
+    top:295px;
     position: absolute;
     left:10px;
     width:150px;
 }
 #block-15 {
-    top:315px;
+    top:295px;
     position: absolute;
     left:405px;
     width:150px;
 }
 #block-16 {
-    top:315px;
+    top:295px;
     position: absolute;
     left:755px;
     width:150px;
 }
 #block-17 {
-    top:165px;
+    top:155px;
     position: absolute;
     left:10px;
     width:150px;
 }
 #block-18 {
-    top:165px;
+    top:155px;
     position: absolute;
     left:405px;
     width:150px;
 }
 #block-19 {
-    top:165px;
+    top:155px;
     position: absolute;
     left:755px;
     width:150px;
@@ -1307,7 +1342,6 @@ button.submit {
     top:925px;
     position: absolute;
     left:1285px;
-   
 }
 #input7 {
     top:1200px;
@@ -1318,13 +1352,11 @@ button.submit {
     top:1200px;
     position: absolute;
     left:805px;
-   
 }
 #input9 {
     top:1200px;
     position: absolute;
     left:1285px;
-   
 }
 #input10 {
     top:1475px;
@@ -1335,13 +1367,11 @@ button.submit {
     top:1475px;
     position: absolute;
     left:875px;
-   
 }
 #input12 {
     top:1475px;
     position: absolute;
     left:1375px;
-   
 }
 #input13 {
     top:1885px;
@@ -1352,13 +1382,11 @@ button.submit {
     top:1885px;
     position: absolute;
     left:875px;
-   
 }
 #input15 {
     top:1885px;
     position: absolute;
     left:1375px;
-   
 }
 #input16 {
     top:2150px;
@@ -1369,14 +1397,73 @@ button.submit {
     top:2150px;
     position: absolute;
     left:895px;
-   
 }
 #input18 {
     top:2150px;
     position: absolute;
     left:1375px;
-   
 }
+/*======== response ========*/
+ .overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  transition: opacity 500ms;
+  visibility: hidden;
+  opacity: 0;
+}
+.overlay:target {
+  visibility: visible;
+  opacity: 1;
+}
+
+.popup {
+  margin: 70px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 5px;
+  width: 30%;
+  position: relative;
+  transition: all 5s ease-in-out;
+}
+
+.popup h2 {
+  margin-top: 0;
+  color: #333;
+  font-family: Tahoma, Arial, sans-serif;
+}
+.popup .close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  transition: all 200ms;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+.popup .close:hover {
+  color: #06D85F;
+}
+.popup .content {
+  max-height: 30%;
+  overflow: auto;
+}
+
+@media screen and (max-width: 700px){
+  .box{
+    width: 70%;
+  }
+  .popup{
+    width: 70%;
+  }
+}
+
+/*======== drag and drop =========*/
+
 #dropred {
     left:185px;
 	position:absolute;
@@ -1522,14 +1609,11 @@ div._idGenStateHide div._idGen-Appearance-Click {
 div._idGenStateHide, div._idGenStateHide *{
 	visibility:hidden;
 }
-
 /* ================= Media Overlay Highlighting Color =================*/
 .-epub-media-overlay-active {
     background-color: #ff9800;
 }
-
 /* ================= Related to Audio ================= */
-
 #_idAudio000 {
 	-webkit-transform:translate(0.000%,0.000%) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -1586,7 +1670,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	transform-origin:0% 0%;
 	width:60px;
 }
-
 div._idGenObjectStyle-Disabled {
 	background-color:transparent;
 	border-width:0px;
@@ -1633,9 +1716,7 @@ div._idGenStateHide div._idGen-Appearance-Click {
 div._idGenStateHide, div._idGenStateHide *{
 	visibility:hidden;
 }
-
 /* Related to sign videos */
-
 #_idContainer176 {
 	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -1652,7 +1733,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	transform-origin:0% 0%;
 	width:2000px;
 }
-
 #_idContainer177 {
 	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -1669,7 +1749,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	transform-origin:0% 0%;
 	width:2000px;
 }
-
 #_idContainer178 {
 	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -1686,7 +1765,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	transform-origin:0% 0%;
 	width:2000px;
 }
-
 #_idContainer179 {
 	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -1703,7 +1781,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	transform-origin:0% 0%;
 	width:2000px;
 }
-
 #_idContainer180 {
 	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -1720,7 +1797,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	transform-origin:0% 0%;
 	width:2000px;
 }
-
 #_idContainer181 {
 	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -1732,7 +1808,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	transform-origin:0% 0%;
 	width:56.16px;
 }
-
 #_idContainer182 {
 	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -1749,7 +1824,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	transform-origin:0% 0%;
 	width:2000px;
 }
-
 #_idContainer183 {
 	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -1761,7 +1835,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	transform-origin:0% 0%;
 	width:56.16px;
 }
-
 #_idContainer184 {
 	-webkit-transform:translate(75.757px,501.480px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -1778,7 +1851,6 @@ div._idGenStateHide, div._idGenStateHide *{
 	transform-origin:0% 0%;
 	width:2100px;
 }
-
 div._idGenObjectAttribute-4 {
 	height:800px;
 	left:100px;
@@ -1787,7 +1859,6 @@ div._idGenObjectAttribute-4 {
 	top:0px;
 	width:2000px;
 }
-
 div._idGenObjectAttribute-5 {
 	height:800px;
 	left:0px;
@@ -1796,7 +1867,6 @@ div._idGenObjectAttribute-5 {
 	top:0px;
 	width:2400px;
 }
-
 div._idGenObjectAttribute-6 {
 	height:800px;
 	left:0px;
@@ -1805,7 +1875,6 @@ div._idGenObjectAttribute-6 {
 	top:0px;
 	width:2400px;
 }
-
 div._idGenObjectAttribute-7 {
 	height:800px;
 	left:0px;
@@ -1814,7 +1883,6 @@ div._idGenObjectAttribute-7 {
 	top:50px;
 	width:1600px;
 }
-
 div._idGenObjectAttribute-8 {
 	height:1100px;
 	left:300px;
@@ -1823,7 +1891,6 @@ div._idGenObjectAttribute-8 {
 	top:0px;
 	width:2100px;
 }
-
 div._idGenObjectAttribute-9 {
 	height:800px;
 	left:100px;
@@ -1832,7 +1899,6 @@ div._idGenObjectAttribute-9 {
 	top:180px;
 	width:2000px;
 }
-
 div._idGenObjectAttribute-10 {
 	height:1100px;
 	left:375px;
@@ -1841,7 +1907,6 @@ div._idGenObjectAttribute-10 {
 	top:0px;
 	width:1800px;
 }
-
 #_idVideo000 {
 	-webkit-transform-origin:0% 0%;
 	height:auto;
@@ -1849,7 +1914,6 @@ div._idGenObjectAttribute-10 {
 	transform-origin:0% 0%;
 	width:50%;
 }
-
 /* Popup container - can be anything you want */
 .popup {
   display: block;
@@ -1864,7 +1928,6 @@ div._idGenObjectAttribute-10 {
 	font-family:Lato, sans-serif;
 	font-size:40px;
 }
-
 /* The actual popup */
 .popup .popuptext {
   visibility: hidden;
@@ -1881,7 +1944,6 @@ div._idGenObjectAttribute-10 {
   top: 1687px;
   margin-left: -80px;
 }
-
 /* The actual popup for videos in upper part of screen */
 .popup .popuptextup4 {
   visibility: hidden;
@@ -1898,7 +1960,6 @@ div._idGenObjectAttribute-10 {
   top: 950px;
   margin-left: -80px;
 }
-
 .popup .popuptextup5 {
   visibility: hidden;
   background-color: #fff transparent transparent transparent;
@@ -1914,8 +1975,6 @@ div._idGenObjectAttribute-10 {
   top: 1040px;
   margin-left: -80px;
 }
-
-
 .popup .popuptextup6 {
   visibility: hidden;
   background-color: #fff;
@@ -1931,7 +1990,6 @@ div._idGenObjectAttribute-10 {
   top: 695px;
   margin-left: -80px;
 }
-
 .popup .popuptextup7 {
   visibility: hidden;
   background-color: #fff transparent transparent transparent;
@@ -1947,21 +2005,17 @@ div._idGenObjectAttribute-10 {
   top: 690px;
   margin-left: -80px;
 }
-
-
 /* Toggle this class - hide and show the popup */
 .popup .show {
   visibility: visible;
   -webkit-animation: fadeIn 1s;
   animation: fadeIn 1s;
 }
-
 /* Add animation (fade in the popup) */
 @-webkit-keyframes fadeIn {
   from {opacity: 0;} 
   to {opacity: 1;}
 }
-
 @keyframes fadeIn {
   from {opacity: 0;}
   to {opacity:1 ;}
