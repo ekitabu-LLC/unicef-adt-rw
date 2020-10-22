@@ -1513,6 +1513,54 @@ button.submit {
 	transform-origin:0% 0%;
 	width:350px;  
 }
+#dropzone4 {
+	top:1275px;
+    left:900px;
+    border:none;
+	position: absolute;
+	padding: 1em;
+	width: 450px;
+    height:225px;
+	text-align: center;
+	color: #000;
+	/*background: #fff;*/
+}
+#dropzone5 {
+	top:1595px;
+    left:900px;
+    border:none;
+	position: absolute;
+	padding: 1em;
+	width: 450px;
+    height:225px;
+	text-align: center;
+	color: #000;
+	/*background: #fff;*/
+}
+#dropzone6 {
+	top:1900px;
+    left:900px;
+    border:none;
+	position: absolute;
+	padding: 1em;
+	width: 450px;
+    height:225px;
+	text-align: center;
+	color: #000;
+	/*background: #fff;*/
+}
+#dropzone3 {
+	top:995px;
+    left:900px;
+    border:none;
+	position: absolute;
+	padding: 1em;
+	width: 450px;
+    height:225px;
+	text-align: center;
+	color: #000;
+	/*background: #fff;*/
+}
 #dropzone2 {
 	top:705px;
     left:900px;
