@@ -47,8 +47,12 @@
 		<item id="primary_unit1_unit2-26" href="primary_unit1_unit2-26.xhtml" media-type="application/xhtml+xml" />
 		<item id="primary_unit1_unit2-27" href="primary_unit1_unit2-27.xhtml" media-type="application/xhtml+xml" />
 		<item id="primary_unit1_unit2-28" href="primary_unit1_unit2-28.xhtml" media-type="application/xhtml+xml" />
+		<item id="correctAnswer.mp3" href="sound/correctAnswer.mp3" media-type="audio/mpeg"/>
+		<item id="wrongAnswer.mp3" href="sound/wrongAnswer.mp3" media-type="audio/mpeg"/>
 		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
 		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="radio-button.css" href="css/radio-button.css" media-type="text/css" />
+		<item id="drag-drop.css" href="css/drag-drop.css" media-type="text/css" />
 		<item id="Lato-Bold.otf" href="font/Lato-Bold.otf" media-type="application/vnd.ms-opentype" />
 		<item id="Lato-Regular.otf" href="font/Lato-Regular.otf" media-type="application/vnd.ms-opentype" />
 		<item id="black_bag.jpg" href="image/black_bag.jpg" media-type="image/jpeg" />
@@ -104,6 +108,15 @@
 		<item id="yellow_ball.jpg" href="image/yellow_ball.jpg" media-type="image/jpeg" />
 		<item id="yellow_pencil.jpg" href="image/yellow_pencil.jpg" media-type="image/jpeg" />
 		<item id="yellow.jpg" href="image/yellow.jpg" media-type="image/jpeg" />
+		<item id="close.svg" href="image/close.svg" media-type="image/svg+xml" />
+		<item id="check.svg" href="image/check.svg" media-type="image/svg+xml" />
+		<item id="single-choice.js" href="misc/single-choice.js" media-type="text/javascript"/>
+		<item id="dragdrop.js" href="misc/dragdrop.js" media-type="text/javascript"/>
+		<item id="Unit2_page8.mp4" href="video/Unit2_page8.mp4" media-type="video/mp4"/>
+		<item id="Unit2_page10.mp4" href="video/Unit2_page10.mp4" media-type="video/mp4"/>
+		<item id="unit2-6_image.png" href="image/unit2-6_image.png" media-type="image/png"/>
+		
+		
 	</manifest>
 	<spine>
 		<itemref idref="primary_unit1_unit2-1" />

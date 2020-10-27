@@ -1,0 +1,183 @@
+/*begin radio button design ------------------------------------*/
+/* HIDE RADIO */
+[type=radio] { 
+    position: absolute;
+    opacity: 0;
+    width: 0;
+    height: 0;
+  }
+  
+  /* IMAGE STYLES */
+  [type=radio] + .choice-img {
+    cursor: pointer;
+    border: 5px solid white;
+  }
+  
+  /* CHECKED STYLES */
+  [type=radio]:checked + .choice-img {
+    border: 5px solid #aaaaaa;
+    border-radius: 5px;
+  }
+
+   img{
+    width:100%;
+    height:100%;
+  }
+
+  .answer-image{
+      width:100%;
+      z-index: 100;
+      left:0;
+  }
+
+  .choice-img .answer-image{
+    display: none;
+    position: relative;
+  }
+  
+  .eval-answer-true .answer-image{
+    display: inline;
+  }
+
+  .eval-answer-false .answer-image{
+    display: inline;
+  }
+
+  [type=radio]:checked + .eval-answer-true{
+    border-color:green;
+    box-shadow: 0 0 10px green;
+  }
+
+  [type=radio]:checked + .eval-answer-false{
+    border-color:red;
+    box-shadow: 0 0 10px red;
+  }
+/*End radio button design ------------------------------------*/
+
+  /* Submit button CSS */
+
+.submit-btn {
+position: absolute;
+top: 2185px;
+    left: 627px;
+    -moz-box-shadow: 0px 10px 14px -7px #732727;
+    -webkit-box-shadow: 0px 10px 14px -7px #732727;
+    box-shadow: 0px 10px 14px -7px #732727;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #e81c31), color-stop(1, #b31212));
+    background:-moz-linear-gradient(top, #e81c31 5%, #b31212 100%);
+    background:-webkit-linear-gradient(top, #e81c31 5%, #b31212 100%);
+    background:-o-linear-gradient(top, #e81c31 5%, #b31212 100%);
+    background:-ms-linear-gradient(top, #e81c31 5%, #b31212 100%);
+    background:linear-gradient(to bottom, #e81c31 5%, #b31212 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e81c31', endColorstr='#b31212',GradientType=0);
+    background-color:#e81c31;
+	-webkit-border-radius:4px;
+	-moz-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #8f2929;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:33px;
+	font-weight:bold;
+	padding:12px 77px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #8a3d3d;
+}
+.submit-btn:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #b31212), color-stop(1, #e81c31));
+	background:-moz-linear-gradient(top, #b31212 5%, #e81c31 100%);
+	background:-webkit-linear-gradient(top, #b31212 5%, #e81c31 100%);
+	background:-o-linear-gradient(top, #b31212 5%, #e81c31 100%);
+	background:-ms-linear-gradient(top, #b31212 5%, #e81c31 100%);
+	background:linear-gradient(to bottom, #b31212 5%, #e81c31 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b31212', endColorstr='#e81c31',GradientType=0);
+	background-color:#b31212;
+}
+.submit-btn:active {
+  -moz-box-shadow:inset 0px 10px 14px -7px #732727;
+    -webkit-box-shadow:inset 0px 10px 14px -7px #732727;
+    box-shadow:inset 0px 10px 14px -7px #732727;
+
+}
+
+
+body{
+  font-size: 24px;
+  padding-top: 190px;
+  padding-left: 120px;
+  font-family: Lato, sans-serif;
+}
+
+.page-number{
+  position: absolute;
+  top: 2283px;
+  left: 798px;
+  z-index: 1000;
+  color: white;
+  font-size: 50px;
+}
+
+.page-body{
+  width:1415px;
+}
+
+.header-title{
+  color: red;
+    font-size: 43px;
+    line-height: 50px;
+    height: 62px;
+}
+
+.question-body{
+  font-size:36px;
+}
+
+.table-border{
+  border:2px solid black;
+  border-radius: 10px;
+}
+
+.table-header{
+  font-size:36px
+}
+
+.table-header p{
+  text-align: center;
+}
+
+.number-cell{
+  width:200px;
+  font-size: 50px;
+  line-height:200px;
+
+  text-align: center;
+  vertical-align: middle;
+}
+
+.row{
+  border-bottom: 1px solid red;
+  
+}
+
+.display-flex{
+  display: flex;
+}
+
+.flex-grow-1{
+  flex-grow: 1;
+}
+
+.choice-img{
+  width:200px;
+  height:200px;
+  margin-left:100px;
+  
+  position: relative;
+}
+
+.choice-img img{
+  position: absolute;
+  object-fit:contain;
+}
