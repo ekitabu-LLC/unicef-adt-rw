@@ -30,9 +30,9 @@
 			</div>
 			<div class="row display-flex">
 				<div class="flex-grow-1 display-flex">
-					<div class="drop-zone">
-						<img id="white" answer="white" draggable="true" class="dragable-image" src="image/white.jpg"
-							alt="NAME: There is a box. The box is white." />
+					<div class="drop-zone" id="div-white">
+						<img origin="div-white" id="white" answer="white" draggable="true" class="dragable-image"
+							src="image/white.jpg" alt="NAME: There is a box. The box is white." />
 					</div>
 				</div>
 				<div class="flex-grow-1 display-flex">
@@ -44,9 +44,9 @@
 			</div>
 			<div class="row display-flex">
 				<div class="flex-grow-1 display-flex">
-					<div class="drop-zone">
-						<img id="blue" answer="blue" draggable="true" class="dragable-image" src="image/blue.jpg"
-							alt="There is a box. The box is blue." />
+					<div class="drop-zone" id="div-blue">
+						<img origin="div-blue" id="blue" answer="blue" draggable="true" class="dragable-image"
+							src="image/blue.jpg" alt="There is a box. The box is blue." />
 					</div>
 				</div>
 				<div class="flex-grow-1 display-flex">
@@ -58,9 +58,9 @@
 			</div>
 			<div class="row display-flex">
 				<div class="flex-grow-1 display-flex">
-					<div class="drop-zone">
-						<img id="red" answer="red" draggable="true" class="dragable-image" src="image/red.jpg"
-							alt="There is a box. There box is red." />
+					<div class="drop-zone" id="div-red">
+						<img origin="div-red" id="red" answer="red" draggable="true" class="dragable-image"
+							src="image/red.jpg" alt="There is a box. There box is red." />
 					</div>
 				</div>
 				<div class="flex-grow-1 display-flex">
@@ -72,8 +72,8 @@
 			</div>
 			<div class="row display-flex">
 				<div class="flex-grow-1 display-flex">
-					<div class="drop-zone">
-						<img id="black" answer="black" draggable="true" class="dragable-image" src="image/black.jpg"
+					<div class="drop-zone" id="div-black">
+						<img origin="div-black" id="black" answer="black" draggable="true" class="dragable-image" src="image/black.jpg"
 							alt="There is a box. There box is black." />
 					</div>
 				</div>
@@ -86,9 +86,9 @@
 			</div>
 			<div class="row display-flex">
 				<div class="flex-grow-1 display-flex">
-					<div class="drop-zone">
-						<img id="yellow" answer="yellow" draggable="true" class="dragable-image" src="image/yellow.jpg"
-							alt="There is a box. The box is yellow." />
+					<div class="drop-zone" id="div-yellow">
+						<img origin="div-yellow" id="yellow" answer="yellow" draggable="true" class="dragable-image"
+							src="image/yellow.jpg" alt="There is a box. The box is yellow." />
 					</div>
 				</div>
 				<div class="flex-grow-1 display-flex">
@@ -100,9 +100,9 @@
 			</div>
 			<div class="row display-flex">
 				<div class="flex-grow-1 display-flex">
-					<div class="drop-zone">
-						<img id="green" answer="green" draggable="true" class="dragable-image" src="image/green.jpg"
-							alt="There is a box. The box is green." />
+					<div class="drop-zone" id="div-green">
+						<img origin="div-green" id="green" answer="green" draggable="true" class="dragable-image"
+							src="image/green.jpg" alt="There is a box. The box is green." />
 					</div>
 				</div>
 				<div class="flex-grow-1 display-flex">
@@ -115,11 +115,12 @@
 		</div>
 		<div class="display-flex">
 			<div class="flex-grow-1"></div>
-			<video id="_idVideo000" poster="image/unit2-6_image.png" controls="controls" style="width:1015px;"><source src="video/Unit2_page10.mp4" type="video/mp4" /></video>
+			<video id="_idVideo000" poster="image/unit2-6_image.png" controls="controls" style="width:1000px;">
+				<source src="video/Unit2_page10.mp4" type="video/mp4" /></video>
 			<div class="flex-grow-1"></div>
 		</div>
 
-		
+
 		<div class="page-number">
 			<div>
 				<p><span id="_idTextSpan359">22</span></p>
@@ -128,7 +129,11 @@
 		<div id="_idContainer162">
 			<img class=" " src="image/blank_page.jpg" alt="" />
 		</div>
-		<button id="submit-btn" class="submit-btn">Check Answers</button>
+		<button id="submit-btn" class="submit-btn">Answer</button>
+		<button id="reset-btn" class="reset-btn active-btn">Reset</button>
+	</div>
+	<div id="msg-anim">
+		
 	</div>
 </body>
 

@@ -56,10 +56,28 @@
 
   /* Submit button CSS */
 
-.submit-btn {
-position: absolute;
-top: 2185px;
-    left: 627px;
+button{
+  font-family:Arial;
+	font-size:33px;
+	font-weight:bold;
+	padding:12px 77px;
+  text-decoration:none;
+  color:white;
+}
+
+.submit-btn{
+  position: absolute;
+  top: 2185px;
+      left: 489px;
+}
+.reset-btn{
+  position: absolute;
+  top: 2185px;
+  left: 884px;
+}
+
+.reset-btn.active-btn {
+
     -moz-box-shadow: 0px 10px 14px -7px #732727;
     -webkit-box-shadow: 0px 10px 14px -7px #732727;
     box-shadow: 0px 10px 14px -7px #732727;
@@ -78,14 +96,9 @@ top: 2185px;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
-	font-family:Arial;
-	font-size:33px;
-	font-weight:bold;
-	padding:12px 77px;
-	text-decoration:none;
 	text-shadow:0px 1px 0px #8a3d3d;
 }
-.submit-btn:hover {
+.reset-btn.active-btn:hover {
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #b31212), color-stop(1, #e81c31));
 	background:-moz-linear-gradient(top, #b31212 5%, #e81c31 100%);
 	background:-webkit-linear-gradient(top, #b31212 5%, #e81c31 100%);
@@ -95,10 +108,65 @@ top: 2185px;
 	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b31212', endColorstr='#e81c31',GradientType=0);
 	background-color:#b31212;
 }
-.submit-btn:active {
+.reset-btn.active-btn:active {
   -moz-box-shadow:inset 0px 10px 14px -7px #732727;
     -webkit-box-shadow:inset 0px 10px 14px -7px #732727;
     box-shadow:inset 0px 10px 14px -7px #732727;
+
+}
+
+.submit-btn.active-btn {
+
+  -moz-box-shadow: 0px 10px 14px -7px #27733e;
+  -webkit-box-shadow: 0px 10px 14px -7px #277337;
+  box-shadow: 0px 10px 14px -7px #277331;
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #1ce826), color-stop(1, #12b31f));
+  background:-moz-linear-gradient(top, #1ce826 5%, #12b31f 100%);
+  background:-webkit-linear-gradient(top, #1ce826 5%, #12b31f 100%);
+  background:-o-linear-gradient(top, #1ce826 5%, #12b31f 100%);
+  background:-ms-linear-gradient(top, #1ce826 5%, #12b31f 100%);
+  background:linear-gradient(to bottom, #1ce826 5%, #12b31f 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1ce826', endColorstr='#12b31f',GradientType=0);
+  background-color:#1ce826;
+-webkit-border-radius:4px;
+-moz-border-radius:4px;
+border-radius:4px;
+border:1px solid #298f2e;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+text-shadow:0px 1px 0px #3d8a3d;
+}
+.submit-btn.active-btn:hover {
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #17b312), color-stop(1, #1ce837));
+background:-moz-linear-gradient(top, #25b312 5%, #1ce81c 100%);
+background:-webkit-linear-gradient(top, #12b31a 5%, #23e81c 100%);
+background:-o-linear-gradient(top, #25b312 5%, #23e81c 100%);
+background:-ms-linear-gradient(top, #17b312 5%, #3ee81c 100%);
+background:linear-gradient(to bottom, #32b312 5%, #4ce81c 100%);
+filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#32b312', endColorstr='#4ce81c',GradientType=0);
+background-color:#32b312;
+}
+.submit-btn.active-btn:active {
+  -moz-box-shadow:inset 0px 10px 14px -7px #27733e;
+  -webkit-box-shadow:inset 0px 10px 14px -7px #277337;
+  box-shadow:inset 0px 10px 14px -7px #277331;
+
+}
+
+button:disabled,
+button[disabled]  {
+  -moz-box-shadow:inset 0px 10px 14px -7px #cecbcb;
+    -webkit-box-shadow:inset 0px 10px 14px -7px #cecbcb;
+    box-shadow:inset 0px 10px 14px -7px #cecbcb;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #cecbcb), color-stop(1, #cecbcb));
+	background:-moz-linear-gradient(top, #cecbcb 5%, #cecbcb 100%);
+	background:-webkit-linear-gradient(top, #cecbcb 5%, #cecbcb 100%);
+	background:-o-linear-gradient(top, #cecbcb 5%, #cecbcb 100%);
+	background:-ms-linear-gradient(top, #cecbcb 5%, #cecbcb 100%);
+	background:linear-gradient(to bottom, #cecbcb 5%, #cecbcb 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b31212', endColorstr='#e81c31',GradientType=0);
+	background-color:#cecbcb;
 
 }
 
@@ -125,13 +193,13 @@ body{
 
 .header-title{
   color: red;
-    font-size: 43px;
-    line-height: 50px;
+    font-size: 60px;
+    line-height: 60px;
     height: 62px;
 }
 
 .question-body{
-  font-size:36px;
+  font-size:48px;
 }
 
 .table-border{
@@ -157,10 +225,12 @@ body{
 }
 
 .row{
-  border-bottom: 1px solid red;
+  border-bottom: 3px solid red;
   
 }
-
+.row:last-child{
+  border-bottom: none;
+}
 .display-flex{
   display: flex;
 }
@@ -180,4 +250,52 @@ body{
 .choice-img img{
   position: absolute;
   object-fit:contain;
+}
+
+
+/*================== congragulation animations ============== */
+
+#msg-anim {
+  position: absolute;
+  top: 1076px;
+  left: 870px;
+  transform: translateX(-50%) translateY(-50%);
+  z-index: 1001;
+  width:1000px;
+}
+
+#msg-anim h1 {
+  font-size: 4.3em;
+  letter-spacing: -4px;
+  font-weight: 700;
+  
+  text-align: center;
+  text-shadow: black 5px 5px;
+}
+
+#msg-anim  h1.correct{
+  color: green;
+}
+
+#msg-anim h1.tryagain{
+  color: red;
+}
+
+.cssanimation, .cssanimation span {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+.cssanimation span { display: inline-block }
+
+.leFlyInBottom span { animation-name: leFlyInBottom }
+@keyframes leFlyInBottom {
+  0% {
+      transform: translate(0px, 80px);
+      opacity: 0
+  }
+  50% {
+      transform: translate(10px, -50px);
+      animation-timing-function: ease-in-out
+  }
 }
