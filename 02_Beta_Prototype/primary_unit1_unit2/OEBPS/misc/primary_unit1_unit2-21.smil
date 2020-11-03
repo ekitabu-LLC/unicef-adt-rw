@@ -1,0 +1,102 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq id="seq000001" epub:textref="../primary_unit1_unit2-21.xhtml">
+      <par id="par000001">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan305"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:00.000" clipEnd="00:00:01.160"/>
+      </par>
+      <par id="par000002">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan306"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:01.160" clipEnd="00:00:02.680"/>
+      </par>
+      <par id="par000003">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan307"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:02.680" clipEnd="00:00:06.960"/>
+      </par>
+      <par id="par000004">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan308"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:06.960" clipEnd="00:00:09.800"/>
+      </par>
+      <par id="par000005">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan309"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:09.800" clipEnd="00:00:14.120"/>
+      </par>
+      <par id="par000006">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan310"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:14.120" clipEnd="00:00:16.840"/>
+      </par>
+      <par id="par000007">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan311"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:16.840" clipEnd="00:00:17.160"/>
+      </par>
+      <par id="par000008">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan312"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:17.160" clipEnd="00:00:20.000"/>
+      </par>
+      <par id="par000009">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan313"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:20.000" clipEnd="00:00:22.880"/>
+      </par>
+      <par id="par000010">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan314"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:22.880" clipEnd="00:00:24.560"/>
+      </par>
+      <par id="par000011">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan315"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:24.560" clipEnd="00:00:27.560"/>
+      </par>
+      <par id="par000012">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan316"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:27.560" clipEnd="00:00:29.680"/>
+      </par>
+      <par id="par000013">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan317"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:29.680" clipEnd="00:00:32.480"/>
+      </par>
+      <par id="par000014">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan318"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:32.480" clipEnd="00:00:34.000"/>
+      </par>
+      <par id="par000015">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan319"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:34.000" clipEnd="00:00:34.280"/>
+      </par>
+      <par id="par000016">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan320"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:34.280" clipEnd="00:00:37.160"/>
+      </par>
+      <par id="par000017">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan321"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:37.160" clipEnd="00:00:37.760"/>
+      </par>
+      <par id="par000018">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan322"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:37.760" clipEnd="00:00:45.600"/>
+      </par>
+      <par id="par000019">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan323"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:45.600" clipEnd="00:00:46.320"/>
+      </par>
+      <par id="par000020">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan324"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:46.320" clipEnd="00:00:46.720"/>
+      </par>
+      <par id="par000021">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan325"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:46.720" clipEnd="00:00:52.800"/>
+      </par>
+      <par id="par000022">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan326"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:52.800" clipEnd="00:00:58.160"/>
+      </par>
+      <par id="par000023">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan327"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:58.160" clipEnd="00:00:59.440"/>
+      </par>
+      <par id="par000024">
+        <text src="../primary_unit1_unit2-21.xhtml#_idTextSpan328"/>
+        <audio src="../sound/primary_unit1_unit2-21.mp3" clipBegin="00:00:59.440" clipEnd="00:01:01.640"/>
+      </par>
+    </seq>
+  </body>
+</smil>
