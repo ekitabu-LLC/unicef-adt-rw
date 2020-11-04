@@ -775,19 +775,19 @@ span.CharOverride-19 {
 	width:399.00px;
 }
 #_idContainer075 {
-	-webkit-transform:translate(150.000px,1036.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(150.000px,905.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:704.00px;
 	left:0px;
 	position:absolute;
 	top:0px;
-	transform:translate(150.000px,1036.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(150.000px,836.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:836.75px;
     z-index:-5;
 }
 #_idContainer076 {
-	-webkit-transform:translate(568.374px,1073.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(368.374px,941.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:67.45px;
 	left:0px;
@@ -798,7 +798,7 @@ span.CharOverride-19 {
 	width:351.00px;
 }
 #_idContainer077 {
-	-webkit-transform:translate(698.874px,309.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(498.874px,209.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:704.00px;
 	left:0px;
@@ -810,7 +810,7 @@ span.CharOverride-19 {
     z-index:-5;
 }
 #_idContainer078 {
-	-webkit-transform:translate(793.374px,458.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(793.374px,358.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:55.45px;
 	left:0px;
@@ -2144,3 +2144,20 @@ img._idGenObjectAttribute-2 {
 	position:absolute;
 	top:0px;
 }
+/* ================= Videos ============================*/
+video {
+	-webkit-transform-origin:0% 0%;
+	width:100%;
+	left:300px;
+	position:absolute;
+	top:1600px;
+	transform-origin:0% 0%;
+	width:54.00px;
+}
+
+/* ================= Media Overlay Highlighting Color =================*/
+.-epub-media-overlay-active {
+    background-color: #ff9800;
+}
+
+
