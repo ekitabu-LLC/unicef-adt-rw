@@ -1,151 +1,236 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
-	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<meta name="cover" content="cover.jpg" />
-		<meta property="ibooks:specified-fonts">true</meta>
-		<dc:title>Success English - Primary 1</dc:title>
-		<dc:creator>ekitabu</dc:creator>
-		<dc:subject>coming</dc:subject>
-		<dc:description>coming</dc:description>
-		<dc:publisher>ekitabu</dc:publisher>
-		<dc:date>2020-10-13T19:31:51Z</dc:date>
-		<dc:rights>coming</dc:rights>
-		<dc:language>en-US</dc:language>
-		<meta property="dcterms:modified">2020-10-13T19:31:51Z</meta>
-		<dc:identifier id="bookid">urn:uuid:32E36F00-F91E-46FF-8430-D4E425909BE2</dc:identifier>
-		<!--fixed-layout options-->
-		<meta property="rendition:layout">pre-paginated</meta>
-		<meta property="rendition:orientation">portrait</meta>
-		<meta property="rendition:spread">none</meta>
-	</metadata>
-	<manifest>
-		<item id="primary_unit1_unit2-1" href="primary_unit1_unit2-1.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-2" href="primary_unit1_unit2-2.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-3" href="primary_unit1_unit2-3.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-4" href="primary_unit1_unit2-4.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-5" href="primary_unit1_unit2-5.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-6" href="primary_unit1_unit2-6.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-7" href="primary_unit1_unit2-7.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-8" href="primary_unit1_unit2-8.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-9" href="primary_unit1_unit2-9.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-10" href="primary_unit1_unit2-10.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-11" href="primary_unit1_unit2-11.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-12" href="primary_unit1_unit2-12.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-13" href="primary_unit1_unit2-13.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-14" href="primary_unit1_unit2-14.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-15" href="primary_unit1_unit2-15.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-16" href="primary_unit1_unit2-16.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-17" href="primary_unit1_unit2-17.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-18" href="primary_unit1_unit2-18.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-19" href="primary_unit1_unit2-19.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-20" href="primary_unit1_unit2-20.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-21" href="primary_unit1_unit2-21.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-22" href="primary_unit1_unit2-22.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-23" href="primary_unit1_unit2-23.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-24" href="primary_unit1_unit2-24.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-25" href="primary_unit1_unit2-25.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-26" href="primary_unit1_unit2-26.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-27" href="primary_unit1_unit2-27.xhtml" media-type="application/xhtml+xml" />
-		<item id="primary_unit1_unit2-28" href="primary_unit1_unit2-28.xhtml" media-type="application/xhtml+xml" />
-		<item id="correctAnswer.mp3" href="sound/correctAnswer.mp3" media-type="audio/mpeg"/>
-		<item id="wrongAnswer.mp3" href="sound/wrongAnswer.mp3" media-type="audio/mpeg"/>
-		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
-		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
-		<item id="radio-button.css" href="css/radio-button.css" media-type="text/css" />
-		<item id="drag-drop.css" href="css/drag-drop.css" media-type="text/css" />
-		<item id="Lato-Bold.otf" href="font/Lato-Bold.otf" media-type="application/vnd.ms-opentype" />
-		<item id="Lato-Regular.otf" href="font/Lato-Regular.otf" media-type="application/vnd.ms-opentype" />
-		<item id="black_bag.jpg" href="image/black_bag.jpg" media-type="image/jpeg" />
-		<item id="black_pen.jpg" href="image/black_pen.jpg" media-type="image/jpeg" />
-		<item id="black.jpg" href="image/black.jpg" media-type="image/jpeg" />
-		<item id="blank_page.jpg" href="image/blank_page.jpg" media-type="image/jpeg" />
-		<item id="blue_bag.jpg" href="image/blue_bag.jpg" media-type="image/jpeg" />
-		<item id="blue_pen.jpg" href="image/blue_pen.jpg" media-type="image/jpeg" />
-		<item id="blue_ruler.jpg" href="image/blue_ruler.jpg" media-type="image/jpeg" />
-		<item id="blue.jpg" href="image/blue.jpg" media-type="image/jpeg" />
-		<item id="cover.jpg" href="image/cover.jpg" media-type="image/jpeg" properties="cover-image" />
-		<item id="green_ruler.jpg" href="image/green_ruler.jpg" media-type="image/jpeg" />
-		<item id="green.jpg" href="image/green.jpg" media-type="image/jpeg" />
-		<item id="p1.jpg" href="image/p1.jpg" media-type="image/jpeg" />
-		<item id="Page_17.jpg" href="image/Page_17.jpg" media-type="image/jpeg" />
-		<item id="page14.jpg" href="image/page14.jpg" media-type="image/jpeg" />
-		<item id="pg1a.jpg" href="image/pg1a.jpg" media-type="image/jpeg" />
-		<item id="pg2.jpg" href="image/pg2.jpg" media-type="image/jpeg" />
-		<item id="pg2a.jpg" href="image/pg2a.jpg" media-type="image/jpeg" />
-		<item id="pg3.jpg" href="image/pg3.jpg" media-type="image/jpeg" />
-		<item id="pg3a.jpg" href="image/pg3a.jpg" media-type="image/jpeg" />
-		<item id="pg4.jpg" href="image/pg4.jpg" media-type="image/jpeg" />
-		<item id="pg4a.jpg" href="image/pg4a.jpg" media-type="image/jpeg" />
-		<item id="pg5.jpg" href="image/pg5.jpg" media-type="image/jpeg" />
-		<item id="pg5a.jpg" href="image/pg5a.jpg" media-type="image/jpeg" />
-		<item id="pg6.jpg" href="image/pg6.jpg" media-type="image/jpeg" />
-		<item id="pg6a.jpg" href="image/pg6a.jpg" media-type="image/jpeg" />
-		<item id="pg7.jpg" href="image/pg7.jpg" media-type="image/jpeg" />
-		<item id="pg7a.jpg" href="image/pg7a.jpg" media-type="image/jpeg" />
-		<item id="pg7b.jpg" href="image/pg7b.jpg" media-type="image/jpeg" />
-		<item id="pg7c.jpg" href="image/pg7c.jpg" media-type="image/jpeg" />
-		<item id="pg8.jpg" href="image/pg8.jpg" media-type="image/jpeg" />
-		<item id="pg8a.jpg" href="image/pg8a.jpg" media-type="image/jpeg" />
-		<item id="pg8b.jpg" href="image/pg8b.jpg" media-type="image/jpeg" />
-		<item id="pg9.jpg" href="image/pg9.jpg" media-type="image/jpeg" />
-		<item id="pg9a.jpg" href="image/pg9a.jpg" media-type="image/jpeg" />
-		<item id="pg9b.jpg" href="image/pg9b.jpg" media-type="image/jpeg" />
-		<item id="pg10.jpg" href="image/pg10.jpg" media-type="image/jpeg" />
-		<item id="pg10a.jpg" href="image/pg10a.jpg" media-type="image/jpeg" />
-		<item id="pg10b.jpg" href="image/pg10b.jpg" media-type="image/jpeg" />
-		<item id="pg13.jpg" href="image/pg13.jpg" media-type="image/jpeg" />
-		<item id="pg13a.jpg" href="image/pg13a.jpg" media-type="image/jpeg" />
-		<item id="pg13b.jpg" href="image/pg13b.jpg" media-type="image/jpeg" />
-		<item id="pg14a.jpg" href="image/pg14a.jpg" media-type="image/jpeg" />
-		<item id="pg15.jpg" href="image/pg15.jpg" media-type="image/jpeg" />
-		<item id="red_ball.jpg" href="image/red_ball.jpg" media-type="image/jpeg" />
-		<item id="red_book.jpg" href="image/red_book.jpg" media-type="image/jpeg" />
-		<item id="red_pencil.jpg" href="image/red_pencil.jpg" media-type="image/jpeg" />
-		<item id="red.jpg" href="image/red.jpg" media-type="image/jpeg" />
-		<item id="table.jpg" href="image/table.jpg" media-type="image/jpeg" />
-		<item id="unit_page.jpg" href="image/unit_page.jpg" media-type="image/jpeg" />
-		<item id="white.jpg" href="image/white.jpg" media-type="image/jpeg" />
-		<item id="yellow_ball.jpg" href="image/yellow_ball.jpg" media-type="image/jpeg" />
-		<item id="yellow_pencil.jpg" href="image/yellow_pencil.jpg" media-type="image/jpeg" />
-		<item id="yellow.jpg" href="image/yellow.jpg" media-type="image/jpeg" />
-		<item id="close.svg" href="image/close.svg" media-type="image/svg+xml" />
-		<item id="check.svg" href="image/check.svg" media-type="image/svg+xml" />
-		<item id="single-choice.js" href="misc/single-choice.js" media-type="text/javascript"/>
-		<item id="dragdrop.js" href="misc/dragdrop.js" media-type="text/javascript"/>
-		<item id="Unit2_page8.mp4" href="video/Unit2_page8.mp4" media-type="video/mp4"/>
-		<item id="Unit2_page10.mp4" href="video/Unit2_page10.mp4" media-type="video/mp4"/>
-		<item id="unit2-6_image.png" href="image/unit2-6_image.png" media-type="image/png"/>
-		
-		
-	</manifest>
-	<spine>
-		<itemref idref="primary_unit1_unit2-1" />
-		<itemref idref="primary_unit1_unit2-2" />
-		<itemref idref="primary_unit1_unit2-3" />
-		<itemref idref="primary_unit1_unit2-4" />
-		<itemref idref="primary_unit1_unit2-5" />
-		<itemref idref="primary_unit1_unit2-6" />
-		<itemref idref="primary_unit1_unit2-7" />
-		<itemref idref="primary_unit1_unit2-8" />
-		<itemref idref="primary_unit1_unit2-9" />
-		<itemref idref="primary_unit1_unit2-10" />
-		<itemref idref="primary_unit1_unit2-11" />
-		<itemref idref="primary_unit1_unit2-12" />
-		<itemref idref="primary_unit1_unit2-13" />
-		<itemref idref="primary_unit1_unit2-14" />
-		<itemref idref="primary_unit1_unit2-15" />
-		<itemref idref="primary_unit1_unit2-16" />
-		<itemref idref="primary_unit1_unit2-17" />
-		<itemref idref="primary_unit1_unit2-18" />
-		<itemref idref="primary_unit1_unit2-19" />
-		<itemref idref="primary_unit1_unit2-20" />
-		<itemref idref="primary_unit1_unit2-21" />
-		<itemref idref="primary_unit1_unit2-22" />
-		<itemref idref="primary_unit1_unit2-23" />
-		<itemref idref="primary_unit1_unit2-24" />
-		<itemref idref="primary_unit1_unit2-25" />
-		<itemref idref="primary_unit1_unit2-26" />
-		<itemref idref="primary_unit1_unit2-27" />
-		<itemref idref="primary_unit1_unit2-28" />
-	</spine>
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <meta name="cover" content="cover.jpg" />
+    <meta property="ibooks:specified-fonts">true</meta>
+    <dc:title>Success English - Primary 1</dc:title>
+    <dc:creator>ekitabu</dc:creator>
+    <dc:subject>coming</dc:subject>
+    <dc:description>coming</dc:description>
+    <dc:publisher>ekitabu</dc:publisher>
+    <dc:date>2020-10-13T19:31:51Z</dc:date>
+    <dc:rights>coming</dc:rights>
+    <dc:language>en-US</dc:language>
+    <meta property="dcterms:modified">2020-11-02T17:58:04Z</meta>
+    <dc:identifier id="bookid">urn:uuid:32E36F00-F91E-46FF-8430-D4E425909BE2</dc:identifier>
+    <meta property="rendition:layout">pre-paginated</meta>
+    <meta property="rendition:orientation">portrait</meta>
+    <meta property="rendition:spread">none</meta>
+    <meta property="media:narrator">eKitabu</meta>
+    <meta property="media:active-class">-epub-media-overlay-active</meta>
+    <meta property="media:playback-active-class">-epub-media-overlay-playing</meta>
+    <meta property="media:duration">0:02:00.291</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-3.smil">0:00:48.680</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-4.smil">0:00:36.960</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-5.smil">0:00:19.632</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-6.smil">0:00:30.408</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-7.smil">0:00:47.448</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-8.smil">0:00:22.560</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-9.smil">0:00:32.040</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-10.smil">0:00:35.016</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-11.smil">0:00:51.120</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-12.smil">0:00:25.512</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-13.smil">0:00:36.648</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-14.smil">0:00:36.648</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-15.smil">0:00:35.520</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-16.smil">0:00:32.280</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-17.smil">0:00:50.136</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-18.smil">0:00:26.448</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-19.smil">0:00:54.120</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-20.smil">0:00:28.800</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-21.smil">0:00:01.656</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-22.smil">0:00:20.448</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-23.smil">0:00:37.440</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-24.smil">0:00:35.880</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-25.smil">0:00:46.512</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-26.smil">0:00:29.496</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-27.smil">0:00:58.440</meta>
+    <meta property="media:duration" refines="#primary_unit1_unit2-28.smil">0:00:42.072</meta>
+    <meta content="1.1.0" name="Sigil version" />
+  </metadata>
+  <manifest>
+    <item id="primary_unit1_unit2-1" href="primary_unit1_unit2-1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="primary_unit1_unit2-2" href="primary_unit1_unit2-2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="primary_unit1_unit2-3" href="primary_unit1_unit2-3.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-3.smil"/>
+    <item id="primary_unit1_unit2-4" href="primary_unit1_unit2-4.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-4.smil"/>
+    <item id="primary_unit1_unit2-5" href="primary_unit1_unit2-5.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-5.smil"/>
+    <item id="primary_unit1_unit2-6" href="primary_unit1_unit2-6.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-6.smil"/>
+    <item id="primary_unit1_unit2-7" href="primary_unit1_unit2-7.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-7.smil"/>
+    <item id="primary_unit1_unit2-8" href="primary_unit1_unit2-8.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-8.smil"/>
+    <item id="primary_unit1_unit2-9" href="primary_unit1_unit2-9.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-9.smil"/>
+    <item id="primary_unit1_unit2-10" href="primary_unit1_unit2-10.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-10.smil"/>
+    <item id="primary_unit1_unit2-11" href="primary_unit1_unit2-11.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-11.smil"/>
+    <item id="primary_unit1_unit2-12" href="primary_unit1_unit2-12.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-12.smil"/>
+    <item id="primary_unit1_unit2-13" href="primary_unit1_unit2-13.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-13.smil"/>
+    <item id="primary_unit1_unit2-14" href="primary_unit1_unit2-14.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-14.smil"/>
+    <item id="primary_unit1_unit2-15" href="primary_unit1_unit2-15.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-15.smil"/>
+    <item id="primary_unit1_unit2-16" href="primary_unit1_unit2-16.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-16.smil"/>
+    <item id="primary_unit1_unit2-17" href="primary_unit1_unit2-17.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-17.smil"/>
+    <item id="primary_unit1_unit2-18" href="primary_unit1_unit2-18.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-18.smil"/>
+    <item id="primary_unit1_unit2-19" href="primary_unit1_unit2-19.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-19.smil"/>
+    <item id="primary_unit1_unit2-20" href="primary_unit1_unit2-20.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-20.smil"/>
+    <item id="primary_unit1_unit2-21" href="primary_unit1_unit2-21.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-21.smil"/>
+    <item id="primary_unit1_unit2-22" href="primary_unit1_unit2-22.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-22.smil"/>
+    <item id="primary_unit1_unit2-23" href="primary_unit1_unit2-23.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-23.smil" properties="scripted"/>
+    <item id="primary_unit1_unit2-24" href="primary_unit1_unit2-24.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-24.smil" properties="scripted"/>
+    <item id="primary_unit1_unit2-25" href="primary_unit1_unit2-25.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-25.smil"/>
+    <item id="primary_unit1_unit2-26" href="primary_unit1_unit2-26.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-26.smil"/>
+    <item id="primary_unit1_unit2-27" href="primary_unit1_unit2-27.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-27.smil"/>
+    <item id="primary_unit1_unit2-28" href="primary_unit1_unit2-28.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-28.smil"/>
+    <item id="correctAnswer.mp3" href="sound/correctAnswer.mp3" media-type="audio/mpeg"/>
+    <item id="wrongAnswer.mp3" href="sound/wrongAnswer.mp3" media-type="audio/mpeg"/>
+    <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css"/>
+    <item id="radio-button.css" href="css/radio-button.css" media-type="text/css"/>
+    <item id="drag-drop.css" href="css/drag-drop.css" media-type="text/css"/>
+    <item id="Lato-Bold.otf" href="font/Lato-Bold.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="Lato-Regular.otf" href="font/Lato-Regular.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="black_bag.jpg" href="image/black_bag.jpg" media-type="image/jpeg"/>
+    <item id="black_pen.jpg" href="image/black_pen.jpg" media-type="image/jpeg"/>
+    <item id="black.jpg" href="image/black.jpg" media-type="image/jpeg"/>
+    <item id="blank_page.jpg" href="image/blank_page.jpg" media-type="image/jpeg"/>
+    <item id="blue_bag.jpg" href="image/blue_bag.jpg" media-type="image/jpeg"/>
+    <item id="blue_pen.jpg" href="image/blue_pen.jpg" media-type="image/jpeg"/>
+    <item id="blue_ruler.jpg" href="image/blue_ruler.jpg" media-type="image/jpeg"/>
+    <item id="blue.jpg" href="image/blue.jpg" media-type="image/jpeg"/>
+    <item id="cover.jpg" href="image/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="green_ruler.jpg" href="image/green_ruler.jpg" media-type="image/jpeg"/>
+    <item id="green.jpg" href="image/green.jpg" media-type="image/jpeg"/>
+    <item id="p1.jpg" href="image/p1.jpg" media-type="image/jpeg"/>
+    <item id="Page_17.jpg" href="image/Page_17.jpg" media-type="image/jpeg"/>
+    <item id="page14.jpg" href="image/page14.jpg" media-type="image/jpeg"/>
+    <item id="pg1a.jpg" href="image/pg1a.jpg" media-type="image/jpeg"/>
+    <item id="pg2.jpg" href="image/pg2.jpg" media-type="image/jpeg"/>
+    <item id="pg2a.jpg" href="image/pg2a.jpg" media-type="image/jpeg"/>
+    <item id="pg3.jpg" href="image/pg3.jpg" media-type="image/jpeg"/>
+    <item id="pg3a.jpg" href="image/pg3a.jpg" media-type="image/jpeg"/>
+    <item id="pg4.jpg" href="image/pg4.jpg" media-type="image/jpeg"/>
+    <item id="pg4a.jpg" href="image/pg4a.jpg" media-type="image/jpeg"/>
+    <item id="pg5.jpg" href="image/pg5.jpg" media-type="image/jpeg"/>
+    <item id="pg5a.jpg" href="image/pg5a.jpg" media-type="image/jpeg"/>
+    <item id="pg6.jpg" href="image/pg6.jpg" media-type="image/jpeg"/>
+    <item id="pg6a.jpg" href="image/pg6a.jpg" media-type="image/jpeg"/>
+    <item id="pg7.jpg" href="image/pg7.jpg" media-type="image/jpeg"/>
+    <item id="pg7a.jpg" href="image/pg7a.jpg" media-type="image/jpeg"/>
+    <item id="pg7b.jpg" href="image/pg7b.jpg" media-type="image/jpeg"/>
+    <item id="pg7c.jpg" href="image/pg7c.jpg" media-type="image/jpeg"/>
+    <item id="pg8.jpg" href="image/pg8.jpg" media-type="image/jpeg"/>
+    <item id="pg8a.jpg" href="image/pg8a.jpg" media-type="image/jpeg"/>
+    <item id="pg8b.jpg" href="image/pg8b.jpg" media-type="image/jpeg"/>
+    <item id="pg9.jpg" href="image/pg9.jpg" media-type="image/jpeg"/>
+    <item id="pg9a.jpg" href="image/pg9a.jpg" media-type="image/jpeg"/>
+    <item id="pg9b.jpg" href="image/pg9b.jpg" media-type="image/jpeg"/>
+    <item id="pg10.jpg" href="image/pg10.jpg" media-type="image/jpeg"/>
+    <item id="pg10a.jpg" href="image/pg10a.jpg" media-type="image/jpeg"/>
+    <item id="pg10b.jpg" href="image/pg10b.jpg" media-type="image/jpeg"/>
+    <item id="pg13.jpg" href="image/pg13.jpg" media-type="image/jpeg"/>
+    <item id="pg13a.jpg" href="image/pg13a.jpg" media-type="image/jpeg"/>
+    <item id="pg13b.jpg" href="image/pg13b.jpg" media-type="image/jpeg"/>
+    <item id="pg14a.jpg" href="image/pg14a.jpg" media-type="image/jpeg"/>
+    <item id="pg15.jpg" href="image/pg15.jpg" media-type="image/jpeg"/>
+    <item id="red_ball.jpg" href="image/red_ball.jpg" media-type="image/jpeg"/>
+    <item id="red_book.jpg" href="image/red_book.jpg" media-type="image/jpeg"/>
+    <item id="red_pencil.jpg" href="image/red_pencil.jpg" media-type="image/jpeg"/>
+    <item id="red.jpg" href="image/red.jpg" media-type="image/jpeg"/>
+    <item id="table.jpg" href="image/table.jpg" media-type="image/jpeg"/>
+    <item id="unit_page.jpg" href="image/unit_page.jpg" media-type="image/jpeg"/>
+    <item id="white.jpg" href="image/white.jpg" media-type="image/jpeg"/>
+    <item id="yellow_ball.jpg" href="image/yellow_ball.jpg" media-type="image/jpeg"/>
+    <item id="yellow_pencil.jpg" href="image/yellow_pencil.jpg" media-type="image/jpeg"/>
+    <item id="yellow.jpg" href="image/yellow.jpg" media-type="image/jpeg"/>
+    <item id="close.svg" href="image/close.svg" media-type="image/svg+xml"/>
+    <item id="check.svg" href="image/check.svg" media-type="image/svg+xml"/>
+    <item id="single-choice.js" href="misc/single-choice.js" media-type="text/javascript"/>
+    <item id="dragdrop.js" href="misc/dragdrop.js" media-type="text/javascript"/>
+    <item id="Unit2_page8.mp4" href="video/Unit2_page8.mp4" media-type="video/mp4"/>
+    <item id="Unit2_page10.mp4" href="video/Unit2_page10.mp4" media-type="video/mp4"/>
+    <item id="unit2-6_image.png" href="image/unit2-6_image.png" media-type="image/png"/>
+    <item id="primary_unit1_unit2-3.smil" href="misc/primary_unit1_unit2-3.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-4.smil" href="misc/primary_unit1_unit2-4.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-5.smil" href="misc/primary_unit1_unit2-5.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-6.smil" href="misc/primary_unit1_unit2-6.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-7.smil" href="misc/primary_unit1_unit2-7.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-8.smil" href="misc/primary_unit1_unit2-8.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-9.smil" href="misc/primary_unit1_unit2-9.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-10.smil" href="misc/primary_unit1_unit2-10.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-11.smil" href="misc/primary_unit1_unit2-11.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-12.smil" href="misc/primary_unit1_unit2-12.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-13.smil" href="misc/primary_unit1_unit2-13.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-14.smil" href="misc/primary_unit1_unit2-14.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-15.smil" href="misc/primary_unit1_unit2-15.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-16.smil" href="misc/primary_unit1_unit2-16.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-17.smil" href="misc/primary_unit1_unit2-17.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-18.smil" href="misc/primary_unit1_unit2-18.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-19.smil" href="misc/primary_unit1_unit2-19.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-20.smil" href="misc/primary_unit1_unit2-20.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-21.smil" href="misc/primary_unit1_unit2-21.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-22.smil" href="misc/primary_unit1_unit2-22.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-23.smil" href="misc/primary_unit1_unit2-23.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-24.smil" href="misc/primary_unit1_unit2-24.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-25.smil" href="misc/primary_unit1_unit2-25.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-26.smil" href="misc/primary_unit1_unit2-26.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-27.smil" href="misc/primary_unit1_unit2-27.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-28.smil" href="misc/primary_unit1_unit2-28.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-3.mp3" href="sound/primary_unit1_unit2-3.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-7.mp3" href="sound/primary_unit1_unit2-7.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-8.mp3" href="sound/primary_unit1_unit2-8.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-9.mp3" href="sound/primary_unit1_unit2-9.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-10.mp3" href="sound/primary_unit1_unit2-10.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-11.mp3" href="sound/primary_unit1_unit2-11.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-12.mp3" href="sound/primary_unit1_unit2-12.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-13.mp3" href="sound/primary_unit1_unit2-13.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-14.mp3" href="sound/primary_unit1_unit2-14.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-15.mp3" href="sound/primary_unit1_unit2-15.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-16.mp3" href="sound/primary_unit1_unit2-16.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-17.mp3" href="sound/primary_unit1_unit2-17.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-18.mp3" href="sound/primary_unit1_unit2-18.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-19.mp3" href="sound/primary_unit1_unit2-19.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-20.mp3" href="sound/primary_unit1_unit2-20.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-21.mp3" href="sound/primary_unit1_unit2-21.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-22.mp3" href="sound/primary_unit1_unit2-22.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-23.mp3" href="sound/primary_unit1_unit2-23.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-24.mp3" href="sound/primary_unit1_unit2-24.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-25.mp3" href="sound/primary_unit1_unit2-25.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-26.mp3" href="sound/primary_unit1_unit2-26.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-27.mp3" href="sound/primary_unit1_unit2-27.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-28.mp3" href="sound/primary_unit1_unit2-28.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-4.mp3" href="sound/primary_unit1_unit2-4.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-4-img.mp3" href="sound/primary_unit1_unit2-4-img.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-5.mp3" href="sound/primary_unit1_unit2-5.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-5-img.mp3" href="sound/primary_unit1_unit2-5-img.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-6.mp3" href="sound/primary_unit1_unit2-6.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-6-img.mp3" href="sound/primary_unit1_unit2-6-img.mp3" media-type="audio/mpeg"/>
+    <item id="black_pen1.jpg" href="image/black_pen1.jpg" media-type="image/jpeg"/>
+    <item id="blue_pen1.jpg" href="image/blue_pen1.jpg" media-type="image/jpeg"/>
+  </manifest>
+  <spine>
+    <itemref idref="primary_unit1_unit2-1"/>
+    <itemref idref="primary_unit1_unit2-2"/>
+    <itemref idref="primary_unit1_unit2-3"/>
+    <itemref idref="primary_unit1_unit2-4"/>
+    <itemref idref="primary_unit1_unit2-5"/>
+    <itemref idref="primary_unit1_unit2-6"/>
+    <itemref idref="primary_unit1_unit2-7"/>
+    <itemref idref="primary_unit1_unit2-8"/>
+    <itemref idref="primary_unit1_unit2-9"/>
+    <itemref idref="primary_unit1_unit2-10"/>
+    <itemref idref="primary_unit1_unit2-11"/>
+    <itemref idref="primary_unit1_unit2-12"/>
+    <itemref idref="primary_unit1_unit2-13"/>
+    <itemref idref="primary_unit1_unit2-14"/>
+    <itemref idref="primary_unit1_unit2-15"/>
+    <itemref idref="primary_unit1_unit2-16"/>
+    <itemref idref="primary_unit1_unit2-17"/>
+    <itemref idref="primary_unit1_unit2-18"/>
+    <itemref idref="primary_unit1_unit2-19"/>
+    <itemref idref="primary_unit1_unit2-20"/>
+    <itemref idref="primary_unit1_unit2-21"/>
+    <itemref idref="primary_unit1_unit2-22"/>
+    <itemref idref="primary_unit1_unit2-23"/>
+    <itemref idref="primary_unit1_unit2-24"/>
+    <itemref idref="primary_unit1_unit2-25"/>
+    <itemref idref="primary_unit1_unit2-26"/>
+    <itemref idref="primary_unit1_unit2-27"/>
+    <itemref idref="primary_unit1_unit2-28"/>
+  </spine>
 </package>
