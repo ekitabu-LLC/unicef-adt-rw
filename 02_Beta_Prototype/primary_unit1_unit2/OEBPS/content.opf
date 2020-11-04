@@ -21,32 +21,32 @@
   <manifest>
     <item id="primary_unit1_unit2-1" href="primary_unit1_unit2-1.xhtml" media-type="application/xhtml+xml"/>
     <item id="primary_unit1_unit2-2" href="primary_unit1_unit2-2.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-3" href="primary_unit1_unit2-3.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-4" href="primary_unit1_unit2-4.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-5" href="primary_unit1_unit2-5.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-6" href="primary_unit1_unit2-6.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-7" href="primary_unit1_unit2-7.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-8" href="primary_unit1_unit2-8.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-9" href="primary_unit1_unit2-9.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-10" href="primary_unit1_unit2-10.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-11" href="primary_unit1_unit2-11.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-12" href="primary_unit1_unit2-12.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-13" href="primary_unit1_unit2-13.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-14" href="primary_unit1_unit2-14.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-15" href="primary_unit1_unit2-15.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-16" href="primary_unit1_unit2-16.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-17" href="primary_unit1_unit2-17.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-18" href="primary_unit1_unit2-18.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-19" href="primary_unit1_unit2-19.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-20" href="primary_unit1_unit2-20.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-21" href="primary_unit1_unit2-21.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-22" href="primary_unit1_unit2-22.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-23" href="primary_unit1_unit2-23.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-24" href="primary_unit1_unit2-24.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-25" href="primary_unit1_unit2-25.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-26" href="primary_unit1_unit2-26.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-27" href="primary_unit1_unit2-27.xhtml" media-type="application/xhtml+xml"/>
-    <item id="primary_unit1_unit2-28" href="primary_unit1_unit2-28.xhtml" media-type="application/xhtml+xml"/>
+    <item id="primary_unit1_unit2-3" href="primary_unit1_unit2-3.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-3.smil"/>
+    <item id="primary_unit1_unit2-4" href="primary_unit1_unit2-4.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-4.smil"/>
+    <item id="primary_unit1_unit2-5" href="primary_unit1_unit2-5.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-5.smil"/>
+    <item id="primary_unit1_unit2-6" href="primary_unit1_unit2-6.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-6.smil"/>
+    <item id="primary_unit1_unit2-7" href="primary_unit1_unit2-7.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-7.smil"/>
+    <item id="primary_unit1_unit2-8" href="primary_unit1_unit2-8.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-8.smil"/>
+    <item id="primary_unit1_unit2-9" href="primary_unit1_unit2-9.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-9.smil"/>
+    <item id="primary_unit1_unit2-10" href="primary_unit1_unit2-10.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-10.smil"/>
+    <item id="primary_unit1_unit2-11" href="primary_unit1_unit2-11.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-11.smil"/>
+    <item id="primary_unit1_unit2-12" href="primary_unit1_unit2-12.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-12.smil"/>
+    <item id="primary_unit1_unit2-13" href="primary_unit1_unit2-13.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-13.smil"/>
+    <item id="primary_unit1_unit2-14" href="primary_unit1_unit2-14.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-14.smil"/>
+    <item id="primary_unit1_unit2-15" href="primary_unit1_unit2-15.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-15.smil"/>
+    <item id="primary_unit1_unit2-16" href="primary_unit1_unit2-16.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-16.smil"/>
+    <item id="primary_unit1_unit2-17" href="primary_unit1_unit2-17.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-17.smil"/>
+    <item id="primary_unit1_unit2-18" href="primary_unit1_unit2-18.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-18.smil"/>
+    <item id="primary_unit1_unit2-19" href="primary_unit1_unit2-19.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-19.smil"/>
+    <item id="primary_unit1_unit2-20" href="primary_unit1_unit2-20.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-20.smil"/>
+    <item id="primary_unit1_unit2-21" href="primary_unit1_unit2-21.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-21.smil"/>
+    <item id="primary_unit1_unit2-22" href="primary_unit1_unit2-22.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-22.smil"/>
+    <item id="primary_unit1_unit2-23" href="primary_unit1_unit2-23.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-23.smil" properties="scripted"/>
+    <item id="primary_unit1_unit2-24" href="primary_unit1_unit2-24.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-24.smil" properties="scripted"/>
+    <item id="primary_unit1_unit2-25" href="primary_unit1_unit2-25.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-25.smil"/>
+    <item id="primary_unit1_unit2-26" href="primary_unit1_unit2-26.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-26.smil"/>
+    <item id="primary_unit1_unit2-27" href="primary_unit1_unit2-27.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-27.smil"/>
+    <item id="primary_unit1_unit2-28" href="primary_unit1_unit2-28.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-28.smil"/>
     <item id="correctAnswer.mp3" href="sound/correctAnswer.mp3" media-type="audio/mpeg"/>
     <item id="wrongAnswer.mp3" href="sound/wrongAnswer.mp3" media-type="audio/mpeg"/>
     <item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
@@ -112,70 +112,66 @@
     <item id="check.svg" href="image/check.svg" media-type="image/svg+xml"/>
     <item id="single-choice.js" href="misc/single-choice.js" media-type="text/javascript"/>
     <item id="dragdrop.js" href="misc/dragdrop.js" media-type="text/javascript"/>
-    <item id="unit2-6_image.png" href="image/unit2-6_image.png" media-type="image/png"/>
-    <item id="Bag.mp4" href="video/Bag.mp4" media-type="video/mp4"/>
-    <item id="Between.mp4" href="video/Between.mp4" media-type="video/mp4"/>
-    <item id="Birthday.mp4" href="video/Birthday.mp4" media-type="video/mp4"/>
-    <item id="Blue.mp4" href="video/Blue.mp4" media-type="video/mp4"/>
-    <item id="Color.mp4" href="video/Color.mp4" media-type="video/mp4"/>
-    <item id="Cupboard.mp4" href="video/Cupboard.mp4" media-type="video/mp4"/>
-    <item id="Desk.mp4" href="video/Desk.mp4" media-type="video/mp4"/>
-    <item id="Glossary.mp4" href="video/Glossary.mp4" media-type="video/mp4"/>
-    <item id="Green.mp4" href="video/Green.mp4" media-type="video/mp4"/>
-    <item id="Havegot.mp4" href="video/Havegot.mp4" media-type="video/mp4"/>
-    <item id="He.mp4" href="video/He.mp4" media-type="video/mp4"/>
-    <item id="Indigo.mp4" href="video/Indigo.mp4" media-type="video/mp4"/>
-    <item id="Pen.mp4" href="video/Pen.mp4" media-type="video/mp4"/>
-    <item id="Purple.mp4" href="video/Purple.mp4" media-type="video/mp4"/>
-    <item id="Red.mp4" href="video/Red.mp4" media-type="video/mp4"/>
-    <item id="She.mp4" href="video/She.mp4" media-type="video/mp4"/>
-    <item id="That.mp4" href="video/That.mp4" media-type="video/mp4"/>
-    <item id="These.mp4" href="video/These.mp4" media-type="video/mp4"/>
-    <item id="This.mp4" href="video/This.mp4" media-type="video/mp4"/>
-    <item id="Unit1_GoodAfternoon.mp4" href="video/Unit1_GoodAfternoon.mp4" media-type="video/mp4"/>
-    <item id="Unit1_GoodEvening.mp4" href="video/Unit1_GoodEvening.mp4" media-type="video/mp4"/>
-    <item id="Unit1_GoodMorning.mp4" href="video/Unit1_GoodMorning.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page1.mp4" href="video/Unit1_page1.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page2.mp4" href="video/Unit1_page2.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page3.mp4" href="video/Unit1_page3.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page4.mp4" href="video/Unit1_page4.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page5.mp4" href="video/Unit1_page5.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page6.mp4" href="video/Unit1_page6.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page7.mp4" href="video/Unit1_page7.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page8.mp4" href="video/Unit1_page8.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page9.mp4" href="video/Unit1_page9.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page10.mp4" href="video/Unit1_page10.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page11_12.mp4" href="video/Unit1_page11_12.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page11_merge.mp4" href="video/Unit1_page11_merge.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page12.mp4" href="video/Unit1_page12.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page12_merge.mp4" href="video/Unit1_page12_merge.mp4" media-type="video/mp4"/>
-    <item id="Unit1_page13.mp4" href="video/Unit1_page13.mp4" media-type="video/mp4"/>
-    <item id="Unit1_People.mp4" href="video/Unit1_People.mp4" media-type="video/mp4"/>
-    <item id="Unit1_Pupil.mp4" href="video/Unit1_Pupil.mp4" media-type="video/mp4"/>
-    <item id="Unit1_Tamborine.mp4" href="video/Unit1_Tamborine.mp4" media-type="video/mp4"/>
-    <item id="Unit1_Teacher.mp4" href="video/Unit1_Teacher.mp4" media-type="video/mp4"/>
-    <item id="Unit1_ToC.mp4" href="video/Unit1_ToC.mp4" media-type="video/mp4"/>
-    <item id="Unit2_Classroom_Objects.mp4" href="video/Unit2_Classroom_Objects.mp4" media-type="video/mp4"/>
-    <item id="Unit2_page1.mp4" href="video/Unit2_page1.mp4" media-type="video/mp4"/>
-    <item id="Unit2_page2.mp4" href="video/Unit2_page2.mp4" media-type="video/mp4"/>
-    <item id="Unit2_page3.mp4" href="video/Unit2_page3.mp4" media-type="video/mp4"/>
-    <item id="Unit2_page4.mp4" href="video/Unit2_page4.mp4" media-type="video/mp4"/>
-    <item id="Unit2_page5.mp4" href="video/Unit2_page5.mp4" media-type="video/mp4"/>
-    <item id="Unit2_page6.mp4" href="video/Unit2_page6.mp4" media-type="video/mp4"/>
-    <item id="Unit2_page7.mp4" href="video/Unit2_page7.mp4" media-type="video/mp4"/>
     <item id="Unit2_page8.mp4" href="video/Unit2_page8.mp4" media-type="video/mp4"/>
-    <item id="Unit2_page9.mp4" href="video/Unit2_page9.mp4" media-type="video/mp4"/>
     <item id="Unit2_page10.mp4" href="video/Unit2_page10.mp4" media-type="video/mp4"/>
-    <item id="Unit2_page11.mp4" href="video/Unit2_page11.mp4" media-type="video/mp4"/>
-    <item id="Unit2_page12.mp4" href="video/Unit2_page12.mp4" media-type="video/mp4"/>
-    <item id="Unit2_page13.mp4" href="video/Unit2_page13.mp4" media-type="video/mp4"/>
-    <item id="Unit2_page14.mp4" href="video/Unit2_page14.mp4" media-type="video/mp4"/>
-    <item id="White.mp4" href="video/White.mp4" media-type="video/mp4"/>
-    <item id="Window.mp4" href="video/Window.mp4" media-type="video/mp4"/>
-    <item id="Yellow.mp4" href="video/Yellow.mp4" media-type="video/mp4"/>
-    <item id="creativa-popup.js" href="misc/creativa-popup.js" media-type="application/javascript"/>
-    <item id="glossary.js" href="misc/glossary.js" media-type="application/javascript"/>
-    <item id="creativa-popup.css" href="css/creativa-popup.css" media-type="text/css"/>
+    <item id="unit2-6_image.png" href="image/unit2-6_image.png" media-type="image/png"/>
+    <item id="primary_unit1_unit2-3.smil" href="misc/primary_unit1_unit2-3.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-4.smil" href="misc/primary_unit1_unit2-4.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-5.smil" href="misc/primary_unit1_unit2-5.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-6.smil" href="misc/primary_unit1_unit2-6.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-7.smil" href="misc/primary_unit1_unit2-7.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-8.smil" href="misc/primary_unit1_unit2-8.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-9.smil" href="misc/primary_unit1_unit2-9.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-10.smil" href="misc/primary_unit1_unit2-10.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-11.smil" href="misc/primary_unit1_unit2-11.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-12.smil" href="misc/primary_unit1_unit2-12.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-13.smil" href="misc/primary_unit1_unit2-13.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-14.smil" href="misc/primary_unit1_unit2-14.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-15.smil" href="misc/primary_unit1_unit2-15.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-16.smil" href="misc/primary_unit1_unit2-16.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-17.smil" href="misc/primary_unit1_unit2-17.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-18.smil" href="misc/primary_unit1_unit2-18.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-19.smil" href="misc/primary_unit1_unit2-19.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-20.smil" href="misc/primary_unit1_unit2-20.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-21.smil" href="misc/primary_unit1_unit2-21.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-22.smil" href="misc/primary_unit1_unit2-22.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-23.smil" href="misc/primary_unit1_unit2-23.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-24.smil" href="misc/primary_unit1_unit2-24.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-25.smil" href="misc/primary_unit1_unit2-25.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-26.smil" href="misc/primary_unit1_unit2-26.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-27.smil" href="misc/primary_unit1_unit2-27.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-28.smil" href="misc/primary_unit1_unit2-28.smil" media-type="application/smil+xml"/>
+    <item id="primary_unit1_unit2-3.mp3" href="sound/primary_unit1_unit2-3.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-7.mp3" href="sound/primary_unit1_unit2-7.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-8.mp3" href="sound/primary_unit1_unit2-8.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-9.mp3" href="sound/primary_unit1_unit2-9.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-10.mp3" href="sound/primary_unit1_unit2-10.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-11.mp3" href="sound/primary_unit1_unit2-11.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-12.mp3" href="sound/primary_unit1_unit2-12.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-13.mp3" href="sound/primary_unit1_unit2-13.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-14.mp3" href="sound/primary_unit1_unit2-14.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-15.mp3" href="sound/primary_unit1_unit2-15.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-16.mp3" href="sound/primary_unit1_unit2-16.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-17.mp3" href="sound/primary_unit1_unit2-17.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-18.mp3" href="sound/primary_unit1_unit2-18.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-19.mp3" href="sound/primary_unit1_unit2-19.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-20.mp3" href="sound/primary_unit1_unit2-20.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-21.mp3" href="sound/primary_unit1_unit2-21.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-22.mp3" href="sound/primary_unit1_unit2-22.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-23.mp3" href="sound/primary_unit1_unit2-23.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-24.mp3" href="sound/primary_unit1_unit2-24.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-25.mp3" href="sound/primary_unit1_unit2-25.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-26.mp3" href="sound/primary_unit1_unit2-26.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-27.mp3" href="sound/primary_unit1_unit2-27.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-28.mp3" href="sound/primary_unit1_unit2-28.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-4.mp3" href="sound/primary_unit1_unit2-4.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-4-img.mp3" href="sound/primary_unit1_unit2-4-img.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-5.mp3" href="sound/primary_unit1_unit2-5.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-5-img.mp3" href="sound/primary_unit1_unit2-5-img.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-6.mp3" href="sound/primary_unit1_unit2-6.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-6-img.mp3" href="sound/primary_unit1_unit2-6-img.mp3" media-type="audio/mpeg"/>
+    <item id="black_pen1.jpg" href="image/black_pen1.jpg" media-type="image/jpeg"/>
+    <item id="blue_pen1.jpg" href="image/blue_pen1.jpg" media-type="image/jpeg"/>
   </manifest>
   <spine>
     <itemref idref="primary_unit1_unit2-1"/>

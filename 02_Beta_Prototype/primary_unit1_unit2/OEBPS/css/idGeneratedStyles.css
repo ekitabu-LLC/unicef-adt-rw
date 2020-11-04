@@ -2144,6 +2144,12 @@ img._idGenObjectAttribute-2 {
 	position:absolute;
 	top:0px;
 }
+
+/* ================= Media Overlay Highlighting Color =================*/
+.-epub-media-overlay-active {
+    background-color: #ff9800;
+}
+
 /* ================= Videos ============================*/
 .video {
 	-webkit-transform-origin:0% 0%;
@@ -2195,9 +2201,5 @@ img._idGenObjectAttribute-2 {
 }
 
 
-/* ================= Media Overlay Highlighting Color =================*/
-.-epub-media-overlay-active {
-    background-color: #ff9800;
-}
 
 
