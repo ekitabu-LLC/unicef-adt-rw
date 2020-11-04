@@ -58,6 +58,13 @@ span.CharOverride-5 {
 	font-style:normal;
 	font-weight:normal;
 }
+span.CharOverride-5a {
+	color:#0518F0;
+	font-family:Lato, sans-serif;
+	font-size:50px;
+	font-style:normal;
+	font-weight:normal;
+}
 span.CharOverride-6 {
 	color:#a5318a;
 	font-family:Lato, sans-serif;
@@ -775,19 +782,19 @@ span.CharOverride-19 {
 	width:399.00px;
 }
 #_idContainer075 {
-	-webkit-transform:translate(150.000px,905.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(150.000px,1036.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:704.00px;
 	left:0px;
 	position:absolute;
 	top:0px;
-	transform:translate(150.000px,836.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(150.000px,1036.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:836.75px;
     z-index:-5;
 }
 #_idContainer076 {
-	-webkit-transform:translate(368.374px,941.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(568.374px,1073.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:67.45px;
 	left:0px;
@@ -798,7 +805,7 @@ span.CharOverride-19 {
 	width:351.00px;
 }
 #_idContainer077 {
-	-webkit-transform:translate(498.874px,209.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(698.874px,309.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:704.00px;
 	left:0px;
@@ -810,7 +817,7 @@ span.CharOverride-19 {
     z-index:-5;
 }
 #_idContainer078 {
-	-webkit-transform:translate(793.374px,358.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(793.374px,458.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:55.45px;
 	left:0px;
@@ -1338,39 +1345,38 @@ span.CharOverride-19 {
 	width:93.00px;
 }
 #_idContainer140 {
-	-webkit-transform:translate(1197.999px,1283.284px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(1197.999px,1283.284px) rotate(315.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
-	height:220.44px;
+	height:300.44px;
 	left:0px;
 	position:absolute;
 	top:0px;
-	transform:translate(1197.999px,1283.284px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(1197.999px,1283.284px) rotate(315.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:200.00px;
+	width:40.00px;
 }
 #_idContainer141 {
-	-webkit-transform:translate(739.458px,1279.473px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(739.458px,1279.473px) rotate(315.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
-	height:220.83px;
+	height:305.83px;
 	left:0px;
 	position:absolute;
 	top:0px;
-	transform:translate(739.458px,1279.473px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(739.458px,1279.473px) rotate(315.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:200.00px;
+	width:40.00px;
 }
 #_idContainer142 {
-	-webkit-transform:translate(249.634px,1283.284px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(249.634px,1283.284px) rotate(315.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
-	transform:translate(249.634px,1283.284px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
-	transform-origin:0% 0%;
-	height:220.44px;
+	height:300.44px;
 	left:0px;
 	position:absolute;
 	top:0px;
-	width:200.00px;
+	transform:translate(249.634px,1283.284px) rotate(315.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	width:40.00px;
 }
-
 #_idContainer143 {
 	-webkit-transform:translate(129.000px,1342.189px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
@@ -1570,13 +1576,13 @@ span.CharOverride-19 {
 	width:543.00px;
 }
 #_idContainer163 {
-	-webkit-transform:translate(1025.011px,1909.397px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(1025.011px,1996.948px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:73.45px;
 	left:0px;
 	position:absolute;
 	top:0px;
-	transform:translate(1025.011px,1909.397px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(1025.011px,1996.948px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:234.00px;
 }
@@ -1592,13 +1598,13 @@ span.CharOverride-19 {
 	width:323.04px;
 }
 #_idContainer165 {
-	-webkit-transform:translate(1024.011px,1606.543px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(1024.011px,1693.771px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:73.45px;
 	left:0px;
 	position:absolute;
 	top:0px;
-	transform:translate(1024.011px,1606.543px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(1024.011px,1693.771px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:234.00px;
 }
@@ -1614,13 +1620,13 @@ span.CharOverride-19 {
 	width:323.04px;
 }
 #_idContainer167 {
-	-webkit-transform:translate(1024.011px,1303.690px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(1024.011px,1390.771px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:73.45px;
 	left:0px;
 	position:absolute;
 	top:0px;
-	transform:translate(1024.011px,1303.690px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(1024.011px,1390.771px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:234.00px;
 }
@@ -1636,13 +1642,13 @@ span.CharOverride-19 {
 	width:323.04px;
 }
 #_idContainer169 {
-	-webkit-transform:translate(1033.765px,1000.240px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(1033.765px,1087.791px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:73.45px;
 	left:0px;
 	position:absolute;
 	top:0px;
-	transform:translate(1033.765px,1000.240px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(1033.765px,1087.791px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:234.00px;
 }
@@ -1658,13 +1664,13 @@ span.CharOverride-19 {
 	width:323.04px;
 }
 #_idContainer171 {
-	-webkit-transform:translate(1033.765px,716.240px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(1033.765px,808.791px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:73.45px;
 	left:0px;
 	position:absolute;
 	top:0px;
-	transform:translate(1033.765px,716.240px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(1033.765px,808.791px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:234.00px;
 }
@@ -1680,13 +1686,13 @@ span.CharOverride-19 {
 	width:323.04px;
 }
 #_idContainer173 {
-	-webkit-transform:translate(1033.765px,424.791px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(1033.765px,505.791px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
-	height:241.04px;
+	height:73.45px;
 	left:0px;
 	position:absolute;
 	top:0px;
-	transform:translate(1033.765px,424.791px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(1033.765px,505.791px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:234.00px;
 }
@@ -2144,34 +2150,48 @@ img._idGenObjectAttribute-2 {
 	position:absolute;
 	top:0px;
 }
-/* ================= Videos ============================*/
-.video {
-	-webkit-transform-origin:0% 0%;
-	width:100%;
-	left:300px;
-	position:absolute;
-	top:1600px;
-	transform-origin:0% 0%;
+/* Popup container - can be anything you want */
+.popup {
+  position: relative;
+  display: block;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  top:1130px;
+    left:375px;
+ color:#000000;
+	font-family:Lato, sans-serif;
+	font-size:40px;
 }
-/* ================= Glosary Popup Videos ============================*/
+
 /* The actual popup */
 .popup .popuptext {
   visibility: hidden;
-  -webkit-transform-origin:0% 0%;
-  width:600px;
-  height: 400px;
-  left:300px;
-  position:absolute;
-  top:900px;
-  transform-origin:0% 0%;
+  background-color: #555;
+    width:500px;
   color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 50px;
+  position: absolute;
   z-index: 1;
+  bottom: 75%;
+  left: 35%;
+  top:50%;
+  margin-left: 50px;
+    margin-bottom:-10%;
 }
 
 /* Popup arrow */
 .popup .popuptext::after {
   content: "";
   position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
   border-style: solid;
   border-color: #555 transparent transparent transparent;
 }
@@ -2193,11 +2213,3 @@ img._idGenObjectAttribute-2 {
   from {opacity: 0;}
   to {opacity:1 ;}
 }
-
-
-/* ================= Media Overlay Highlighting Color =================*/
-.-epub-media-overlay-active {
-    background-color: #ff9800;
-}
-
-
