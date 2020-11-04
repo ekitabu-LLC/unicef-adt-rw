@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package version="3.0" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+<package version="3.0" unique-identifier="bookid" xmlns="http://www.idpf.org/2007/opf" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <meta name="cover" content="cover.jpg" />
     <meta property="ibooks:specified-fonts">true</meta>
@@ -11,7 +11,7 @@
     <dc:date>2020-10-13T19:31:51Z</dc:date>
     <dc:rights>coming</dc:rights>
     <dc:language>en-US</dc:language>
-    <meta property="dcterms:modified">2020-11-02T17:58:04Z</meta>
+    <meta property="dcterms:modified">2020-11-04T13:08:01Z</meta>
     <dc:identifier id="bookid">urn:uuid:32E36F00-F91E-46FF-8430-D4E425909BE2</dc:identifier>
     <meta property="rendition:layout">pre-paginated</meta>
     <meta property="rendition:orientation">portrait</meta>
@@ -20,33 +20,33 @@
     <meta property="media:active-class">-epub-media-overlay-active</meta>
     <meta property="media:playback-active-class">-epub-media-overlay-playing</meta>
     <meta property="media:duration">0:02:00.291</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-3.smil">0:00:48.680</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-4.smil">0:00:36.960</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-5.smil">0:00:19.632</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-6.smil">0:00:30.408</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-7.smil">0:00:47.448</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-8.smil">0:00:22.560</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-9.smil">0:00:32.040</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-10.smil">0:00:35.016</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-11.smil">0:00:51.120</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-12.smil">0:00:25.512</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-13.smil">0:00:36.648</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-14.smil">0:00:36.648</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-15.smil">0:00:35.520</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-16.smil">0:00:32.280</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-17.smil">0:00:50.136</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-18.smil">0:00:26.448</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-19.smil">0:00:54.120</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-20.smil">0:00:28.800</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-21.smil">0:00:01.656</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-22.smil">0:00:20.448</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-23.smil">0:00:37.440</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-24.smil">0:00:35.880</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-25.smil">0:00:46.512</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-26.smil">0:00:29.496</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-27.smil">0:00:58.440</meta>
-    <meta property="media:duration" refines="#primary_unit1_unit2-28.smil">0:00:42.072</meta>
-    <meta content="1.1.0" name="Sigil version" />
+    <meta refines="#primary_unit1_unit2-3.smil" property="media:duration">0:00:48.680</meta>
+    <meta refines="#primary_unit1_unit2-4.smil" property="media:duration">0:00:36.960</meta>
+    <meta refines="#primary_unit1_unit2-5.smil" property="media:duration">0:00:19.632</meta>
+    <meta refines="#primary_unit1_unit2-6.smil" property="media:duration">0:00:30.408</meta>
+    <meta refines="#primary_unit1_unit2-7.smil" property="media:duration">0:00:47.448</meta>
+    <meta refines="#primary_unit1_unit2-8.smil" property="media:duration">0:00:22.560</meta>
+    <meta refines="#primary_unit1_unit2-9.smil" property="media:duration">0:00:32.040</meta>
+    <meta refines="#primary_unit1_unit2-10.smil" property="media:duration">0:00:35.016</meta>
+    <meta refines="#primary_unit1_unit2-11.smil" property="media:duration">0:00:51.120</meta>
+    <meta refines="#primary_unit1_unit2-12.smil" property="media:duration">0:00:25.512</meta>
+    <meta refines="#primary_unit1_unit2-13.smil" property="media:duration">0:00:36.648</meta>
+    <meta refines="#primary_unit1_unit2-14.smil" property="media:duration">0:00:36.648</meta>
+    <meta refines="#primary_unit1_unit2-15.smil" property="media:duration">0:00:35.520</meta>
+    <meta refines="#primary_unit1_unit2-16.smil" property="media:duration">0:00:32.280</meta>
+    <meta refines="#primary_unit1_unit2-17.smil" property="media:duration">0:00:50.136</meta>
+    <meta refines="#primary_unit1_unit2-18.smil" property="media:duration">0:00:26.448</meta>
+    <meta refines="#primary_unit1_unit2-19.smil" property="media:duration">0:00:54.120</meta>
+    <meta refines="#primary_unit1_unit2-20.smil" property="media:duration">0:00:28.800</meta>
+    <meta refines="#primary_unit1_unit2-21.smil" property="media:duration">0:00:01.656</meta>
+    <meta refines="#primary_unit1_unit2-22.smil" property="media:duration">0:00:20.448</meta>
+    <meta refines="#primary_unit1_unit2-23.smil" property="media:duration">0:00:37.440</meta>
+    <meta refines="#primary_unit1_unit2-24.smil" property="media:duration">0:00:35.880</meta>
+    <meta refines="#primary_unit1_unit2-25.smil" property="media:duration">0:00:46.512</meta>
+    <meta refines="#primary_unit1_unit2-26.smil" property="media:duration">0:00:29.496</meta>
+    <meta refines="#primary_unit1_unit2-27.smil" property="media:duration">0:00:58.440</meta>
+    <meta refines="#primary_unit1_unit2-28.smil" property="media:duration">0:00:42.072</meta>
+    <meta name="Sigil version" content="1.1.0" />
   </metadata>
   <manifest>
     <item id="primary_unit1_unit2-1" href="primary_unit1_unit2-1.xhtml" media-type="application/xhtml+xml"/>
@@ -171,17 +171,8 @@
     <item id="primary_unit1_unit2-26.smil" href="misc/primary_unit1_unit2-26.smil" media-type="application/smil+xml"/>
     <item id="primary_unit1_unit2-27.smil" href="misc/primary_unit1_unit2-27.smil" media-type="application/smil+xml"/>
     <item id="primary_unit1_unit2-28.smil" href="misc/primary_unit1_unit2-28.smil" media-type="application/smil+xml"/>
-    <item id="primary_unit1_unit2-3.mp3" href="sound/primary_unit1_unit2-3.mp3" media-type="audio/mpeg"/>
-    <item id="primary_unit1_unit2-7.mp3" href="sound/primary_unit1_unit2-7.mp3" media-type="audio/mpeg"/>
     <item id="primary_unit1_unit2-8.mp3" href="sound/primary_unit1_unit2-8.mp3" media-type="audio/mpeg"/>
-    <item id="primary_unit1_unit2-9.mp3" href="sound/primary_unit1_unit2-9.mp3" media-type="audio/mpeg"/>
-    <item id="primary_unit1_unit2-10.mp3" href="sound/primary_unit1_unit2-10.mp3" media-type="audio/mpeg"/>
-    <item id="primary_unit1_unit2-11.mp3" href="sound/primary_unit1_unit2-11.mp3" media-type="audio/mpeg"/>
-    <item id="primary_unit1_unit2-12.mp3" href="sound/primary_unit1_unit2-12.mp3" media-type="audio/mpeg"/>
-    <item id="primary_unit1_unit2-13.mp3" href="sound/primary_unit1_unit2-13.mp3" media-type="audio/mpeg"/>
     <item id="primary_unit1_unit2-14.mp3" href="sound/primary_unit1_unit2-14.mp3" media-type="audio/mpeg"/>
-    <item id="primary_unit1_unit2-15.mp3" href="sound/primary_unit1_unit2-15.mp3" media-type="audio/mpeg"/>
-    <item id="primary_unit1_unit2-16.mp3" href="sound/primary_unit1_unit2-16.mp3" media-type="audio/mpeg"/>
     <item id="primary_unit1_unit2-17.mp3" href="sound/primary_unit1_unit2-17.mp3" media-type="audio/mpeg"/>
     <item id="primary_unit1_unit2-18.mp3" href="sound/primary_unit1_unit2-18.mp3" media-type="audio/mpeg"/>
     <item id="primary_unit1_unit2-19.mp3" href="sound/primary_unit1_unit2-19.mp3" media-type="audio/mpeg"/>
@@ -202,6 +193,26 @@
     <item id="primary_unit1_unit2-6-img.mp3" href="sound/primary_unit1_unit2-6-img.mp3" media-type="audio/mpeg"/>
     <item id="black_pen1.jpg" href="image/black_pen1.jpg" media-type="image/jpeg"/>
     <item id="blue_pen1.jpg" href="image/blue_pen1.jpg" media-type="image/jpeg"/>
+    <item id="primary_unit1_unit2-7.mp3" href="sound/primary_unit1_unit2-7.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-7-img.mp3" href="sound/primary_unit1_unit2-7-img.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-9.mp3" href="sound/primary_unit1_unit2-9.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-9-img.mp3" href="sound/primary_unit1_unit2-9-img.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-10.mp3" href="sound/primary_unit1_unit2-10.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-10-img.mp3" href="sound/primary_unit1_unit2-10-img.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-3.mp3" href="sound/primary_unit1_unit2-3.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-3-img.mp3" href="sound/primary_unit1_unit2-3-img.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-11.mp3" href="sound/primary_unit1_unit2-11.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-11-img.mp3" href="sound/primary_unit1_unit2-11-img.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-12.mp3" href="sound/primary_unit1_unit2-12.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-12-img.mp3" href="sound/primary_unit1_unit2-12-img.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-13.mp3" href="sound/primary_unit1_unit2-13.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-13-img.mp3" href="sound/primary_unit1_unit2-13-img.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-16.mp3" href="sound/primary_unit1_unit2-16.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-16-img-1.mp3" href="sound/primary_unit1_unit2-16-img-1.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-16-img-2.mp3" href="sound/primary_unit1_unit2-16-img-2.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-15.mp3" href="sound/primary_unit1_unit2-15.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-15-img-1.mp3" href="sound/primary_unit1_unit2-15-img-1.mp3" media-type="audio/mpeg"/>
+    <item id="primary_unit1_unit2-15-img-2.mp3" href="sound/primary_unit1_unit2-15-img-2.mp3" media-type="audio/mpeg"/>
   </manifest>
   <spine>
     <itemref idref="primary_unit1_unit2-1"/>
