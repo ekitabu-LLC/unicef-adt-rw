@@ -134,6 +134,10 @@
     font-weight: 600;
 }
 
+.glossary-item {
+    text-decoration: underline;
+}
+
 /* ----------------------------
 -------- ANIMATIONS -----------
 ---------------------------- */
