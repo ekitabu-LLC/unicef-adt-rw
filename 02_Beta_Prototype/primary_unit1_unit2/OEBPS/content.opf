@@ -4,18 +4,35 @@
     <meta name="cover" content="cover.jpg" />
     <meta property="ibooks:specified-fonts">true</meta>
     <dc:title>Success English - Primary 1</dc:title>
-    <dc:creator>ekitabu</dc:creator>
-    <dc:subject>coming</dc:subject>
-    <dc:description>coming</dc:description>
+    <dc:creator>REB</dc:creator>
+    <dc:subject>English</dc:subject>
+    <dc:description>English P1 Book</dc:description>
     <dc:publisher>ekitabu</dc:publisher>
-    <dc:date>2020-10-13T19:31:51Z</dc:date>
-    <dc:rights>coming</dc:rights>
+    <dc:date>2019</dc:date>
+    <dc:rights>Copyright ©2019RwandaEducationBoard Allrightsreserved. This book is the property of Rwanda Education Board. Credit should be given to REB when the source of this book is quoted</dc:rights>
     <dc:language>en-US</dc:language>
-    <meta property="dcterms:modified">2020-11-05T02:32:59Z</meta>
+    <meta property="dcterms:modified">2020-11-09T18:13:42Z</meta>
     <dc:identifier id="bookid">urn:uuid:32E36F00-F91E-46FF-8430-D4E425909BE2</dc:identifier>
     <meta property="rendition:layout">pre-paginated</meta>
     <meta property="rendition:orientation">portrait</meta>
     <meta property="rendition:spread">none</meta>
+    <meta property="ibooks:version">1.1</meta>
+    <meta property="schema:accessibilityHazard">none</meta>
+    <meta property="schema:accessibilityFeature">alternativeText</meta>
+    <meta property="schema:accessibilityFeature">structuralNavigation</meta>
+    <meta property="schema:accessibilityFeature">tableOfContents</meta>
+    <meta property="schema:accessibilityFeature">signedLanguage</meta>
+    <meta property="schema:accessibilityFeature">synchronizedAudioText</meta>
+    <meta property="schema:accessibilityFeature">pageNavigation</meta>
+    <meta property="schema:accessMode">textual</meta>
+    <meta property="schema:accessMode">visual</meta>
+    <meta property="schema:accessibilityAPI">ARIA</meta>
+    <meta property="schema:accessModeSufficient">textual</meta>
+    <meta property="schema:accessModeSufficient">visual</meta>
+    <meta property="schema:accessModeSufficient">auditory</meta>
+    <meta property="schema:accessModeSufficient">textual,visual</meta>
+    <meta property="schema:accessModeSufficient">textual,auditory</meta>
+    <meta property="schema:accessibilitySummary">This title is a well-marked up and structured book, which is fully accessible. The book contains signed videos in Rwandan Sign Language embedded and media overlay implementation. All images have sufficient image descriptions.</meta>
     <meta property="media:narrator">eKitabu</meta>
     <meta property="media:active-class">-epub-media-overlay-active</meta>
     <meta property="media:playback-active-class">-epub-media-overlay-playing</meta>
@@ -71,8 +88,8 @@
     <item id="primary_unit1_unit2-20" href="primary_unit1_unit2-20.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-20.smil"/>
     <item id="primary_unit1_unit2-21" href="primary_unit1_unit2-21.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-21.smil"/>
     <item id="primary_unit1_unit2-22" href="primary_unit1_unit2-22.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-22.smil"/>
-    <item id="primary_unit1_unit2-23" href="primary_unit1_unit2-23.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="primary_unit1_unit2-23.smil"/>
-    <item id="primary_unit1_unit2-24" href="primary_unit1_unit2-24.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="primary_unit1_unit2-24.smil"/>
+    <item id="primary_unit1_unit2-23" href="primary_unit1_unit2-23.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-23.smil" properties="scripted"/>
+    <item id="primary_unit1_unit2-24" href="primary_unit1_unit2-24.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-24.smil" properties="scripted"/>
     <item id="primary_unit1_unit2-25" href="primary_unit1_unit2-25.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-25.smil"/>
     <item id="primary_unit1_unit2-26" href="primary_unit1_unit2-26.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-26.smil"/>
     <item id="primary_unit1_unit2-27" href="primary_unit1_unit2-27.xhtml" media-type="application/xhtml+xml" media-overlay="primary_unit1_unit2-27.smil"/>
@@ -271,6 +288,9 @@
     <item id="primary_unit1_unit2-16.mp3" href="sound/primary_unit1_unit2-16.mp3" media-type="audio/mpeg"/>
     <item id="primary_unit1_unit2-16-img-1.mp3" href="sound/primary_unit1_unit2-16-img-1.mp3" media-type="audio/mpeg"/>
     <item id="primary_unit1_unit2-16-img-2.mp3" href="sound/primary_unit1_unit2-16-img-2.mp3" media-type="audio/mpeg"/>
+    <item id="creativa-popup.css" href="css/creativa-popup.css" media-type="text/css"/>
+    <item id="creativa-popup.js" href="misc/creativa-popup.js" media-type="application/javascript"/>
+    <item id="glossary.js" href="misc/glossary.js" media-type="application/javascript"/>
   </manifest>
   <spine>
     <itemref idref="primary_unit1_unit2-1"/>
