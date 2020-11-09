@@ -783,17 +783,17 @@ span.CharOverride-19 {
 	top:0px;
 	transform:translate(150.000px,836.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:836.75px;
+	width:816.75px;
     z-index:-5;
 }
 #_idContainer076 {
-	-webkit-transform:translate(368.374px,941.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform:translate(348.374px,941.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	-webkit-transform-origin:0% 0%;
 	height:67.45px;
 	left:0px;
 	position:absolute;
 	top:0px;
-	transform:translate(568.374px,1073.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(568.374px,873.551px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
 	width:351.00px;
 }
@@ -804,9 +804,9 @@ span.CharOverride-19 {
 	left:0px;
 	position:absolute;
 	top:0px;
-	transform:translate(698.874px,309.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(718.874px,309.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
 	transform-origin:0% 0%;
-	width:825.00px;
+	width:815.00px;
     z-index:-5;
 }
 #_idContainer078 {
@@ -2137,7 +2137,7 @@ span.CharOverride-19 {
 img._idGenObjectAttribute-1 {
 	height:100.00%;
 	min-width:100%;
-	width:100.00%;
+	width: 100%;
 }
 img._idGenObjectAttribute-2 {
 	left:0px;
