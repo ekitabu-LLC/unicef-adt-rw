@@ -87,7 +87,7 @@ function popup(title, text, icon, image, video, options) {
                             <p class="ct-popup-text" id="ct-popup-text-` + totalPopups + `"></p>
                             <div class="ct-popup-options" id="ct-popup-options-` + totalPopups + `"></div>
                             <div class="ct-popup-video" id="ct-popup-video-` + totalPopups + `">
-                                <video controls="controls" autoplay="autoplay" width="600px"><source src="video/`+ video +`" type="video/mp4" /></video>
+                                <video controls="controls" autoplay="autoplay" width="100%"><source src="video/`+ video +`" type="video/mp4" /></video>
                             </div>
                         </div>
                         <div class="ct-popup-close-icon" id="ct-popup-close-icon-` + totalPopups + `" onclick="closePopup(` + totalPopups + `)"><div class="ct-popup-close-icon-line-first"><div class="ct-popup-close-icon-line-second"></div></div></div>

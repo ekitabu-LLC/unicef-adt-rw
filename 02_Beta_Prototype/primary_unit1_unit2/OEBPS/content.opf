@@ -11,7 +11,7 @@
     <dc:date>2020-10-13T19:31:51Z</dc:date>
     <dc:rights>coming</dc:rights>
     <dc:language>en-US</dc:language>
-    <meta property="dcterms:modified">2020-11-05T02:32:59Z</meta>
+    <meta property="dcterms:modified">2020-11-09T14:50:16Z</meta>
     <dc:identifier id="bookid">urn:uuid:32E36F00-F91E-46FF-8430-D4E425909BE2</dc:identifier>
     <meta property="rendition:layout">pre-paginated</meta>
     <meta property="rendition:orientation">portrait</meta>
@@ -46,7 +46,7 @@
     <meta refines="#primary_unit1_unit2-26.smil" property="media:duration">0:00:29.496</meta>
     <meta refines="#primary_unit1_unit2-27.smil" property="media:duration">0:00:58.440</meta>
     <meta refines="#primary_unit1_unit2-28.smil" property="media:duration">0:00:42.072</meta>
-    <meta name="Sigil version" content="1.1.0" />
+    <meta name="Sigil version" content="1.3.0" />
   </metadata>
   <manifest>
     <item id="primary_unit1_unit2-1" href="primary_unit1_unit2-1.xhtml" media-type="application/xhtml+xml"/>
@@ -271,6 +271,9 @@
     <item id="primary_unit1_unit2-16.mp3" href="sound/primary_unit1_unit2-16.mp3" media-type="audio/mpeg"/>
     <item id="primary_unit1_unit2-16-img-1.mp3" href="sound/primary_unit1_unit2-16-img-1.mp3" media-type="audio/mpeg"/>
     <item id="primary_unit1_unit2-16-img-2.mp3" href="sound/primary_unit1_unit2-16-img-2.mp3" media-type="audio/mpeg"/>
+    <item id="creativa-popup.css" href="css/creativa-popup.css" media-type="text/css"/>
+    <item id="creativa-popup.js" href="misc/creativa-popup.js" media-type="application/javascript"/>
+    <item id="glossary.js" href="misc/glossary.js" media-type="application/javascript"/>
   </manifest>
   <spine>
     <itemref idref="primary_unit1_unit2-1"/>
