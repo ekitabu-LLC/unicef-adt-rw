@@ -2,44 +2,44 @@
   <body>
     <seq id="seq000001" epub:textref="../primary_unit1_unit2-22.xhtml">
       <par id="par000001">
-        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan329"/>
-        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:00.000" clipEnd="00:00:02.120"/>
-      </par>
+        <text src="../primary_unit1_unit2-22.xhtml#img-description"/>
+        <audio src="../sound/primary_unit1_unit2-22-img.mp3" clipBegin="00:00:00.000" clipEnd="00:00:10.754"/>
+      </par> 
       <par id="par000002">
-        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan330"/>
-        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:02.120" clipEnd="00:00:04.120"/>
+        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan334"/>
+        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:00.000" clipEnd="00:00:00.000"/>
       </par>
       <par id="par000003">
-        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan331"/>
-        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:04.120" clipEnd="00:00:07.640"/>
+        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan335"/>
+        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:00.000" clipEnd="00:00:04.520"/>
       </par>
       <par id="par000004">
-        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan332"/>
-        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:07.640" clipEnd="00:00:12.000"/>
+        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan336"/>
+        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:04.520" clipEnd="00:00:05.200"/>
       </par>
       <par id="par000005">
-        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan333"/>
-        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:12.000" clipEnd="00:00:12.720"/>
+        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan337"/>
+        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:05.200" clipEnd="00:00:05.600"/>
       </par>
       <par id="par000006">
-        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan334"/>
-        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:12.720" clipEnd="00:00:14.760"/>
+        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan338"/>
+        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:05.600" clipEnd="00:00:07.680"/>
       </par>
       <par id="par000007">
-        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan335"/>
-        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:14.760" clipEnd="00:00:15.320"/>
+        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan330"/>
+        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:07.680" clipEnd="00:00:08.200"/>
       </par>
       <par id="par000008">
-        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan336"/>
-        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:15.320" clipEnd="00:00:18.440"/>
+        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan331"/>
+        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:08.200" clipEnd="00:00:08.400"/>
       </par>
       <par id="par000009">
-        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan337"/>
-        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:18.440" clipEnd="00:00:19.000"/>
+        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan332"/>
+        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:08.400" clipEnd="00:00:08.840"/>
       </par>
       <par id="par000010">
-        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan338"/>
-        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:19.000" clipEnd="00:00:20.440"/>
+        <text src="../primary_unit1_unit2-22.xhtml#_idTextSpan333"/>
+        <audio src="../sound/primary_unit1_unit2-22.mp3" clipBegin="00:00:08.840" clipEnd="00:00:09.680"/>
       </par>
     </seq>
   </body>

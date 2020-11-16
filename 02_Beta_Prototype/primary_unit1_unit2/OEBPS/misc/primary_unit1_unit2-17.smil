@@ -2,92 +2,96 @@
   <body>
     <seq id="seq000001" epub:textref="../primary_unit1_unit2-17.xhtml">
       <par id="par000001">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan252"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:00.000" clipEnd="00:00:05.800"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan272"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:00.000" clipEnd="00:00:00.760"/>
       </par>
       <par id="par000002">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan253"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:05.800" clipEnd="00:00:07.200"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan273"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:00.760" clipEnd="00:00:01.000"/>
       </par>
       <par id="par000003">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan254"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:07.200" clipEnd="00:00:11.000"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan270"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:01.000" clipEnd="00:00:05.240"/>
       </par>
       <par id="par000004">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan255"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:11.000" clipEnd="00:00:11.480"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan271"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:05.240" clipEnd="00:00:07.400"/>
       </par>
       <par id="par000005">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan256"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:11.480" clipEnd="00:00:17.560"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan267"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:07.400" clipEnd="00:00:07.880"/>
       </par>
       <par id="par000006">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan257"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:17.560" clipEnd="00:00:20.080"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan268"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:07.880" clipEnd="00:00:08.000"/>
       </par>
       <par id="par000007">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan258"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:20.080" clipEnd="00:00:24.280"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan269"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:08.000" clipEnd="00:00:12.320"/>
       </par>
       <par id="par000008">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan259"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:24.280" clipEnd="00:00:25.160"/>
-      </par>
+        <text src="../primary_unit1_unit2-17.xhtml#img-description-1"/>
+        <audio src="../sound/primary_unit1_unit2-17-img-1.mp3" clipBegin="00:00:00.000" clipEnd="00:00:07.176"/>
+      </par> 
       <par id="par000009">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan260"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:25.160" clipEnd="00:00:27.160"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan264"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:12.320" clipEnd="00:00:12.920"/>
       </par>
       <par id="par000010">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan261"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:27.160" clipEnd="00:00:30.080"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan265"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:12.920" clipEnd="00:00:17.160"/>
       </par>
       <par id="par000011">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan262"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:30.080" clipEnd="00:00:33.040"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan266"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:17.160" clipEnd="00:00:17.680"/>
       </par>
       <par id="par000012">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan263"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:33.040" clipEnd="00:00:33.480"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan260"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:17.680" clipEnd="00:00:18.080"/>
       </par>
       <par id="par000013">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan264"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:33.480" clipEnd="00:00:35.920"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan261"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:18.080" clipEnd="00:00:20.680"/>
       </par>
       <par id="par000014">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan265"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:35.920" clipEnd="00:00:36.160"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan262"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:20.680" clipEnd="00:00:21.120"/>
       </par>
       <par id="par000015">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan266"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:36.160" clipEnd="00:00:36.840"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan263"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:21.120" clipEnd="00:00:23.360"/>
       </par>
       <par id="par000016">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan267"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:36.840" clipEnd="00:00:37.760"/>
-      </par>
+        <text src="../primary_unit1_unit2-17.xhtml#img-description-2"/>
+        <audio src="../sound/primary_unit1_unit2-17-img-2.mp3" clipBegin="00:00:00.000" clipEnd="00:00:12.384"/>
+      </par> 
       <par id="par000017">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan268"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:37.760" clipEnd="00:00:40.000"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan257"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:23.360" clipEnd="00:00:25.000"/>
       </par>
       <par id="par000018">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan269"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:40.000" clipEnd="00:00:40.520"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan258"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:25.000" clipEnd="00:00:25.480"/>
       </par>
       <par id="par000019">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan270"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:40.520" clipEnd="00:00:44.400"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan259"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:25.480" clipEnd="00:00:27.720"/>
       </par>
       <par id="par000020">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan271"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:44.400" clipEnd="00:00:48.640"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan253"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:27.720" clipEnd="00:00:28.800"/>
       </par>
       <par id="par000021">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan272"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:48.640" clipEnd="00:00:49.360"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan254"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:28.800" clipEnd="00:00:29.120"/>
       </par>
       <par id="par000022">
-        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan273"/>
-        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:49.360" clipEnd="00:00:50.120"/>
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan255"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:29.120" clipEnd="00:00:29.560"/>
+      </par>
+      <par id="par000023">
+        <text src="../primary_unit1_unit2-17.xhtml#_idTextSpan256"/>
+        <audio src="../sound/primary_unit1_unit2-17.mp3" clipBegin="00:00:29.560" clipEnd="00:00:30.680"/>
       </par>
     </seq>
   </body>
