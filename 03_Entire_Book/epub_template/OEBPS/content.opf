@@ -14,7 +14,7 @@
     <dc:rights xml:lang="en" id="en_rights">Copyright © 2019 Rwanda Education Board All rights reserved. This book is the property of Rwanda Education Board. Credit should be given to REB when the source of this book is quoted</dc:rights>
     <dc:source>Title: English P1 Book, Publisher: REB, Author: REB, Year: 2019, Rwanda</dc:source>
     <meta property="rendition:layout">pre-paginated</meta>
-    <meta property="rendition:orientation">landscape</meta>
+    <meta property="rendition:orientation">portrait</meta>
     <meta property="rendition:spread">none</meta>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:version">1.1</meta>
@@ -40,6 +40,8 @@
     <item id="normal_page.xhtml" href="Text/normal_page.xhtml" media-type="application/xhtml+xml"/>
     <item id="page_with_tables.xhtml" href="Text/page_with_tables.xhtml" media-type="application/xhtml+xml"/>
     <item id="sample_video.mp4" href="Video/sample_video.mp4" media-type="video/mp4"/>
+    <item id="unit1_page1_01.jpg" href="Images/unit1_page1_01.jpg" media-type="image/jpeg"/>
+    <item id="unit1_page1_02.jpg" href="Images/unit1_page1_02.jpg" media-type="image/jpeg"/>
   </manifest>
   <spine>
     <itemref idref="cover.xhtml"/>
