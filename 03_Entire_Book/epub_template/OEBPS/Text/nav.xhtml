@@ -6,6 +6,8 @@
   <title></title>
   <meta charset="utf-8"/>
   <meta name="viewport" content="width=1000,height=1300" />
+  <script type="text/javascript" src="../Misc/jquery3.5.1.js"></script>
+  <script type="text/javascript" src="../Misc/book.js"></script>
   <link href="../Styles/styles.css" rel="stylesheet" type="text/css"/>
 </head>
 <body epub:type="frontmatter" style="width:800px;height:1200px">
@@ -16,7 +18,7 @@
     <h1 class="red-color content-header">Table of Contents</h1>
     <ol>
       <li>
-        <a href="cover.xhtml">Start</a>
+        <button class="show-video" video="../Video/sample_video.mp4" poster="../Images/unit2-6_image.png">Show Video</button>
       </li>
       <li>
         <a href="cover.xhtml"><span class="blue-color">Normal Page:</span> a page to be used as a reference</a>
@@ -38,6 +40,11 @@
     </ol>
   </nav>
 </div>
+</div>
+<div id="video-player">
+  <video id="_idVideo000" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
+    <source src="../Video/sample_video.mp4" type="video/mp4" />
+  </video>
 </div>
 </body>
 </html>

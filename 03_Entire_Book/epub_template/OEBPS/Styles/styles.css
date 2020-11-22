@@ -22,6 +22,26 @@ body{
     box-sizing: border-box;
 }
 
+#video-player{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    display: block;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 99;
+    text-align: center;
+    display: none;
+}
+
+#video-player video{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .page-style{
     margin-left:auto;
     margin-right:auto;

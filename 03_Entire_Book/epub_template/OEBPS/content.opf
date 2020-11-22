@@ -32,6 +32,8 @@
     <meta content="1.1.0" name="Sigil version" />
   </metadata>
   <manifest>
+    <item id="jquery3.5.1.js" href="Misc/jquery3.5.1.js" media-type="application/javascript"/>
+    <item id="jquery3.5.1.js" href="Misc/book.js" media-type="application/javascript"/>
     <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="copyright.xhtml" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
     <item id="styles.css" href="Styles/styles.css" media-type="text/css"/>
@@ -42,6 +44,7 @@
     <item id="sample_video.mp4" href="Video/sample_video.mp4" media-type="video/mp4"/>
     <item id="unit1_page1_01.jpg" href="Images/unit1_page1_01.jpg" media-type="image/jpeg"/>
     <item id="unit1_page1_02.jpg" href="Images/unit1_page1_02.jpg" media-type="image/jpeg"/>
+    <item id="unit2-6_image.png" href="Images/unit2-6_image.png" media-type="image/png"/>
   </manifest>
   <spine>
     <itemref idref="cover.xhtml"/>
