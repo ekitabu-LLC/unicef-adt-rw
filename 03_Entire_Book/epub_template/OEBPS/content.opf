@@ -14,7 +14,7 @@
     <dc:rights xml:lang="en" id="en_rights">Copyright © 2019 Rwanda Education Board All rights reserved. This book is the property of Rwanda Education Board. Credit should be given to REB when the source of this book is quoted</dc:rights>
     <dc:source>Title: English P1 Book, Publisher: REB, Author: REB, Year: 2019, Rwanda</dc:source>
     <meta property="rendition:layout">pre-paginated</meta>
-    <meta property="rendition:orientation">landscape</meta>
+    <meta property="rendition:orientation">portrait</meta>
     <meta property="rendition:spread">none</meta>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:version">1.1</meta>
@@ -32,6 +32,8 @@
     <meta content="1.1.0" name="Sigil version" />
   </metadata>
   <manifest>
+    <item id="jquery3.5.1.js" href="Misc/jquery3.5.1.js" media-type="application/javascript"/>
+    <item id="jquery3.5.1.js" href="Misc/book.js" media-type="application/javascript"/>
     <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="copyright.xhtml" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
     <item id="styles.css" href="Styles/styles.css" media-type="text/css"/>
@@ -40,6 +42,9 @@
     <item id="normal_page.xhtml" href="Text/normal_page.xhtml" media-type="application/xhtml+xml"/>
     <item id="page_with_tables.xhtml" href="Text/page_with_tables.xhtml" media-type="application/xhtml+xml"/>
     <item id="sample_video.mp4" href="Video/sample_video.mp4" media-type="video/mp4"/>
+    <item id="unit1_page1_01.jpg" href="Images/unit1_page1_01.jpg" media-type="image/jpeg"/>
+    <item id="unit1_page1_02.jpg" href="Images/unit1_page1_02.jpg" media-type="image/jpeg"/>
+    <item id="unit2-6_image.png" href="Images/unit2-6_image.png" media-type="image/png"/>
   </manifest>
   <spine>
     <itemref idref="cover.xhtml"/>
