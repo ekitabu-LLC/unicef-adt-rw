@@ -35,11 +35,33 @@ body{
     display: none;
 }
 
-#video-player video{
+#video-player div{
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.video-span{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#videoclose{
+    color:white;
+    font-weight: bold;
+    padding:5px 20px;
+    font-size: 20px;
+    line-height: 20px;
+    background-color: red;
+    border:none;
+    border:1px solid black;
+    box-shadow: 0px 10px 13px -7px #000000;
+    cursor: pointer;
+    position: absolute;
+    right: 0;
+    display: block;
+    margin-top: -40px;
 }
 
 .page-style{
@@ -263,6 +285,8 @@ tr, td { padding: 0; border: 1px solid black;}
     width:100%;
     border-radius: 10px;
 }
+
+
 
 .bubble
 {
