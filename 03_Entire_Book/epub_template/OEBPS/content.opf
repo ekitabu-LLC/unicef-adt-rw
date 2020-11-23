@@ -45,6 +45,12 @@
     <item id="unit1_page1_01.jpg" href="Images/unit1_page1_01.jpg" media-type="image/jpeg"/>
     <item id="unit1_page1_02.jpg" href="Images/unit1_page1_02.jpg" media-type="image/jpeg"/>
     <item id="unit2-6_image.png" href="Images/unit2-6_image.png" media-type="image/png"/>
+    <item id="white.jpg" href="Images/white.jpg" media-type="image/jpeg"/>
+    <item id="yellow.jpg" href="Images/yellow.jpg" media-type="image/jpeg"/>
+    <item id="red.jpg" href="Images/red.jpg" media-type="image/jpeg"/>
+    <item id="green.jpg" href="Images/green.jpg" media-type="image/jpeg"/>
+    <item id="blue.jpg" href="Images/blue.jpg" media-type="image/jpeg"/>
+    <item id="black.jpg" href="Images/black.jpg" media-type="image/jpeg"/>
   </manifest>
   <spine>
     <itemref idref="cover.xhtml"/>

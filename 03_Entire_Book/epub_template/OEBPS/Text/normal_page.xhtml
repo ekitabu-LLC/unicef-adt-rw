@@ -11,7 +11,7 @@
 </head>
 
 <body style="width:800px;height:1200px">
-  <div class="page-style ">
+  <div class="page-style">
     <div class="page-content">
       <div class="page-title"></div> 
       <div class="content-section">
@@ -21,7 +21,7 @@
             <span class="video-span show-video" video="../Video/sample_video.mp4" poster="../Images/unit2-6_image.png">Good afternoon,</span> children.
           </div>
           <div class="bubble blue-bubble left-10 height-60 skew20" style="width:350px; top:240px; left:395px;">
-            Good afternoon, Teacher.
+           <p> Good afternoon, Teacher.</p> 
           </div>
         </div>  
       </div>
@@ -37,14 +37,15 @@
       </div>
     </div>
     <div class="page-number">5</div>
+    <div id="video-player">
+      <div>
+      <button id="videoclose">X</button>
+      <video id="_idVideo000" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
+        <source src="../Video/sample_video.mp4" type="video/mp4" />
+      </video>
+    </div>
+    </div>
   </div>
-  <div id="video-player">
-    <div>
-    <button id="videoclose">X</button>
-    <video id="_idVideo000" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
-      <source src="../Video/sample_video.mp4" type="video/mp4" />
-    </video>
-  </div>
-  </div>
+  
 </body>
 </html>
