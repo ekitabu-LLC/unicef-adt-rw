@@ -1,0 +1,13 @@
+.body-part{
+    height: 600px;
+    position: relative;
+    text-align: center;
+}
+
+.body-part img{
+    height: 100%;
+}
+
+.line-pointer{
+    border-bottom: 2px solid black;
+}
