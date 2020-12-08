@@ -116,6 +116,7 @@
     <item id="unit06_page42-01" href="Text/unit06_page42-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit06_page42-02" href="Text/unit06_page42-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit06_page43-01" href="Text/unit06_page43-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="unit06_page43-02" href="Text/unit06_page43-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit06_page44-01" href="Text/unit06_page44-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit06_page44-02" href="Text/unit06_page44-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit07_page45-01" href="Text/unit07_page45-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
@@ -144,13 +145,9 @@
     <item id="unit09_page59-02" href="Text/unit09_page59-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit09_page60-01" href="Text/unit09_page60-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit09_page61-01" href="Text/unit09_page61-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-    <item id="unit09_page61-02" href="Text/unit09_page61-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit09_page62-01" href="Text/unit09_page62-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-    <item id="unit09_page62-02" href="Text/unit09_page62-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit09_page63-01" href="Text/unit09_page63-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-    <item id="unit09_page63-02" href="Text/unit09_page63-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit09_page64-01" href="Text/unit09_page64-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-    <item id="unit09_page64-02" href="Text/unit09_page64-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit09_page65-01" href="Text/unit09_page65-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit09_page65-02" href="Text/unit09_page65-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit09_page66-01" href="Text/unit09_page66-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
@@ -310,6 +307,7 @@
     <item id="unit06_page42-01.mp4" href="Video/unit06_page42-01.mp4" media-type="video/mp4"/>
     <item id="unit06_page42-02.mp4" href="Video/unit06_page42-02.mp4" media-type="video/mp4"/>
     <item id="unit06_page43-01.mp4" href="Video/unit06_page43-01.mp4" media-type="video/mp4"/>
+    <item id="unit06_page43-02.mp4" href="Video/unit06_page43-02.mp4" media-type="video/mp4"/>
     <item id="unit06_page44-01.mp4" href="Video/unit06_page44-01.mp4" media-type="video/mp4"/>
     <item id="unit06_page44-02.mp4" href="Video/unit06_page44-02.mp4" media-type="video/mp4"/>
     <item id="unit07_page45-01.mp4" href="Video/unit07_page45-01.mp4" media-type="video/mp4"/>
@@ -338,13 +336,9 @@
     <item id="unit09_page59-02.mp4" href="Video/unit09_page59-02.mp4" media-type="video/mp4"/>
     <item id="unit09_page60-01.mp4" href="Video/unit09_page60-01.mp4" media-type="video/mp4"/>
     <item id="unit09_page61-01.mp4" href="Video/unit09_page61-01.mp4" media-type="video/mp4"/>
-    <item id="unit09_page61-02.mp4" href="Video/unit09_page61-02.mp4" media-type="video/mp4"/>
     <item id="unit09_page62-01.mp4" href="Video/unit09_page62-01.mp4" media-type="video/mp4"/>
-    <item id="unit09_page62-02.mp4" href="Video/unit09_page62-02.mp4" media-type="video/mp4"/>
     <item id="unit09_page63-01.mp4" href="Video/unit09_page63-01.mp4" media-type="video/mp4"/>
-    <item id="unit09_page63-02.mp4" href="Video/unit09_page63-02.mp4" media-type="video/mp4"/>
     <item id="unit09_page64-01.mp4" href="Video/unit09_page64-01.mp4" media-type="video/mp4"/>
-    <item id="unit09_page64-02.mp4" href="Video/unit09_page64-02.mp4" media-type="video/mp4"/>
     <item id="unit09_page65-01.mp4" href="Video/unit09_page65-01.mp4" media-type="video/mp4"/>
     <item id="unit09_page65-02.mp4" href="Video/unit09_page65-02.mp4" media-type="video/mp4"/>
     <item id="unit09_page66-01.mp4" href="Video/unit09_page66-01.mp4" media-type="video/mp4"/>
@@ -723,6 +717,7 @@
     <itemref idref="unit06_page42-01"/>
     <itemref idref="unit06_page42-02"/>
     <itemref idref="unit06_page43-01"/>
+    <itemref idref="unit06_page43-02"/>
     <itemref idref="unit06_page44-01"/>
     <itemref idref="unit06_page44-02"/>
     <itemref idref="unit07_page45-01"/>
@@ -751,13 +746,9 @@
     <itemref idref="unit09_page59-02"/>
     <itemref idref="unit09_page60-01"/>
     <itemref idref="unit09_page61-01"/>
-    <itemref idref="unit09_page61-02"/>
     <itemref idref="unit09_page62-01"/>
-    <itemref idref="unit09_page62-02"/>
     <itemref idref="unit09_page63-01"/>
-    <itemref idref="unit09_page63-02"/>
     <itemref idref="unit09_page64-01"/>
-    <itemref idref="unit09_page64-02"/>
     <itemref idref="unit09_page65-01"/>
     <itemref idref="unit09_page65-02"/>
     <itemref idref="unit09_page66-01"/>
