@@ -5,7 +5,11 @@
 <head>
   <title></title>
   <meta name="viewport" content="width=1000,height=1300" />
+  <script type="text/javascript" src="../Misc/jquery3.5.1.js"></script>
+  <script type="text/javascript" src="../Misc/book.js"></script>
+  <script type="text/javascript" src="../Misc/match-color.js"></script>
   <link href="../Styles/styles.css" rel="stylesheet" type="text/css" />
+  <link href="../Styles/match-color.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body style="width:1000px;height:1300px">
@@ -20,34 +24,62 @@
             <td><span class="red-color">Name</span></td>
           </tr>
           <tr>
-            <td><img origin="div-white" id="white" answer="white" draggable="true" class="rect-img dragable-image"
-							src="../Images/white.jpg" alt="NAME: There is a box. The box is white." /></td>
-            <td><span>Red</span></td>
+            <td class="drop-zone" id="div-white">
+              <img origin="div-white" id="white" answer="white" draggable="true" class="rect-img dragable-image"
+              src="../Images/white.jpg" alt="NAME: There is a box. The box is white." />
+            </td>
+            <td class="target-drop">
+              <img src="../Images/check.svg" class="mark-class" />
+              <p answer="black" class="answer-drop body_ctr ">Black</p>
+            </td>
           </tr>
           <tr>
-            <td><img origin="div-blue" id="blue" answer="blue" draggable="true" class="rect-img dragable-image"
+            <td class="drop-zone" id="div-blue">
+              <img origin="div-blue" id="blue" answer="blue" draggable="true" class="rect-img dragable-image"
 							src="../Images/blue.jpg" alt="There is a box. The box is blue." /></td>
-            <td><span>Black</span></td>
+            <td class="target-drop">
+              <img src="../Images/check.svg" class="mark-class" />
+              <p answer="yellow" class="answer-drop body_ctr ">Yellow</p></td>
           </tr>
           <tr>
-            <td><img origin="div-red" id="red" answer="red" draggable="true" class="rect-img dragable-image"
+            <td class="drop-zone" id="div-red">
+              <img origin="div-red" id="red" answer="red" draggable="true" class="rect-img dragable-image"
 							src="../Images/red.jpg" alt="There is a box. The box is red." /></td>
-            <td><span>Blue</span></td>
+            <td class="target-drop">
+              <img src="../Images/check.svg" class="mark-class" />
+              <p answer="blue" class="answer-drop body_ctr ">Blue</p>
+            </td>
           </tr>
           <tr>
-            <td><img origin="div-black" id="black" answer="black" draggable="true" class="rect-img dragable-image" src="../Images/black.jpg"
+            <td class="drop-zone" id="div-black">
+              <img origin="div-black" id="black" answer="black" draggable="true" class="rect-img dragable-image" src="../Images/black.jpg"
 							alt="There is a box. The box is black." /></td>
-            <td><span>White</span></td>
+            <td class="target-drop">
+              <img src="../Images/check.svg" class="mark-class" />
+              <p answer="green" class="answer-drop body_ctr ">Green</p>
+            </td>
           </tr>
           <tr>
-            <td><img origin="div-yellow" id="yellow" answer="yellow" draggable="true" class="rect-img dragable-image"
+            <td class="drop-zone" id="div-yellow">
+              <img origin="div-yellow" id="yellow" answer="yellow" draggable="true" class="rect-img dragable-image"
 							src="../Images/yellow.jpg" alt="There is a box. The box is yellow." /></td>
-            <td><span>Green</span></td>
+            <td class="target-drop">
+              <img src="../Images/check.svg" class="mark-class" />
+              <p answer="white" class="answer-drop body_ctr ">White</p>
+            </td>
           </tr>
           <tr>
-            <td><img origin="div-green" id="green" answer="green" draggable="true" class="rect-img dragable-image"
+            <td class="drop-zone" id="div-green">
+              <img origin="div-green" id="green" answer="green" draggable="true" class="rect-img dragable-image"
 							src="../Images/green.jpg" alt="There is a box. The box is green." /></td>
-            <td><span>Yellow</span></td>
+            <td  class="target-drop">
+              <img src="../Images/check.svg" class="mark-class" />
+              <p answer="red" class="answer-drop body_ctr ">Red</p>
+            </td>
+          </tr>
+          <tr>
+            <td><button class="btn-reset" id="btn-reset">Reset</button></td>
+            <td><button class="btn-answer" id="btn-answer">Answer</button></td>
           </tr>
         </table>
       </div>
@@ -62,6 +94,9 @@
       </div>
     </div>
     <div class="page-number">5</div>
+  </div>
+  <div id="msg-anim">
+		
   </div>
 </div>
 </body>

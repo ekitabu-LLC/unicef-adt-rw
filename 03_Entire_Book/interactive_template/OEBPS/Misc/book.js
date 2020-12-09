@@ -33,6 +33,7 @@ function prepareVideoElements() {
 }
 
 function animateSequence(correct) {
+    playSound(correct);
     if (correct)
         document.getElementById("msg-anim").innerHTML = '<h1 class="cssanimation sequence leFlyInBottom correct">CONGRATULATIONS</h1>';
     else
@@ -59,6 +60,9 @@ function animateSequence(correct) {
 }
 
 function playSound(correct = true) {
-    var audio = new Audio('sound/correctAnswer.mp3');
+    if(correct)
+    var audio = new Audio('../Sounds/correctAnswer.mp3');
+    else
+    var audio = new Audio('../Sounds/wrongAnswer.mp3');
     audio.play();
 }

@@ -305,6 +305,22 @@ textarea:focus, input:focus{
 }
 /*=================================end drop down*/
 
+button:disabled,
+button[disabled],button:disabled:hover  {
+  -moz-box-shadow:inset 0px 10px 14px -7px #cecbcb;
+    -webkit-box-shadow:inset 0px 10px 14px -7px #cecbcb;
+    box-shadow:inset 0px 10px 14px -7px #cecbcb;
+    background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #cecbcb), color-stop(1, #cecbcb));
+	background:-moz-linear-gradient(top, #cecbcb 5%, #cecbcb 100%);
+	background:-webkit-linear-gradient(top, #cecbcb 5%, #cecbcb 100%);
+	background:-o-linear-gradient(top, #cecbcb 5%, #cecbcb 100%);
+	background:-ms-linear-gradient(top, #cecbcb 5%, #cecbcb 100%);
+	background:linear-gradient(to bottom, #cecbcb 5%, #cecbcb 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#b31212', endColorstr='#e81c31',GradientType=0);
+	background-color:#cecbcb;
+
+}
+
 body,html{
     clear: both;
     margin: 0;
