@@ -205,6 +205,9 @@ h1,h2{
 
 h1{
     font-size:40px;
+    line-height: 1.3em;
+margin:0;
+font-weight:bold;
 }
 
 h2{
@@ -218,7 +221,7 @@ margin:0;
     border:1px solid red;
     border-radius: 5px;
     background-color:#cfd944;
-    width: 120px;
+    width: 140px;
     line-height: 50px;
     font-weight: bold;
     font-size: 40px;
@@ -831,8 +834,3 @@ table.t2 td.l{text-align:left;}
 
 
 
-h1.h1{font-size:40px;
-    line-height: 1.3em;
-margin-top:0;
-margin-bottom:0;font-weight:bold;
-}
