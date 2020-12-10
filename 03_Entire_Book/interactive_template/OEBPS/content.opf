@@ -33,14 +33,38 @@
   </metadata>
   <manifest>
     <item id="jquery3.5.1.js" href="Misc/jquery3.5.1.js" media-type="application/javascript"/>
-    <item id="jquery3.5.1.js" href="Misc/book.js" media-type="application/javascript"/>
+    <item id="book.js" href="Misc/book.js" media-type="application/javascript"/>
+	<item id="fill-in-blank.js" href="Misc/fill-in-blank.js" media-type="application/javascript"/>
+	<item id="tell-a-story.js" href="Misc/tell-a-story.js" media-type="application/javascript"/>
+	<item id="true-false.js" href="Misc/true-false.js" media-type="application/javascript"/>
+  	<item id="jquery-nice-select.js" href="Misc/jquery-nice-select.js" media-type="application/javascript"/>
+    <item id="single-choice.js" href="Misc/single-choice.js" media-type="application/javascript"/>
+    <item id="match-color.js" href="Misc/match-color.js" media-type="application/javascript"/>
+
     <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="copyright.xhtml" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
+    
+    
     <item id="styles.css" href="Styles/styles.css" media-type="text/css"/>
+    <item id="nice-select.css" href="Styles/nice-select.css" media-type="text/css"/>
+	<item id="custom-style.css" href="Styles/custom-style.css" media-type="text/css"/>
+  <item id="match-color.css" href="Styles/match-color.css" media-type="text/css"/>
+  <item id="single-choice.css" href="Styles/single-choice.css" media-type="text/css"/>
+
     <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
     <item id="unit_intro.xhtml" href="Text/unit_intro.xhtml" media-type="application/xhtml+xml"/>
     <item id="normal_page.xhtml" href="Text/normal_page.xhtml" media-type="application/xhtml+xml"/>
     <item id="page_with_tables.xhtml" href="Text/page_with_tables.xhtml" media-type="application/xhtml+xml"/>
+
+<item id="body-parts.xhtml" href="Text/body-parts.xhtml" media-type="application/xhtml+xml"/>
+<item id="fill_in_the_blank.xhtml" href="Text/fill_in_the_blank.xhtml" media-type="application/xhtml+xml"/>
+<item id="tell-a-story.xhtml" href="Text/tell-a-story.xhtml" media-type="application/xhtml+xml"/>
+<item id="tell-the-time.xhtml" href="Text/tell-the-time.xhtml" media-type="application/xhtml+xml"/>
+<item id="true-false-2.xhtml" href="Text/true-false-2.xhtml" media-type="application/xhtml+xml"/>
+<item id="true-false.xhtml" href="Text/true-false.xhtml" media-type="application/xhtml+xml"/>
+<item id="dropdown.xhtml" href="Text/dropdown.xhtml" media-type="application/xhtml+xml"/>
+<item id="single-choice.xhtml" href="Text/single-choice.xhtml" media-type="application/xhtml+xml"/>
+
     <item id="sample_video.mp4" href="Video/sample_video.mp4" media-type="video/mp4"/>
     <item id="unit1_page1_01.jpg" href="Images/unit1_page1_01.jpg" media-type="image/jpeg"/>
     <item id="unit1_page1_02.jpg" href="Images/unit1_page1_02.jpg" media-type="image/jpeg"/>
@@ -51,6 +75,50 @@
     <item id="green.jpg" href="Images/green.jpg" media-type="image/jpeg"/>
     <item id="blue.jpg" href="Images/blue.jpg" media-type="image/jpeg"/>
     <item id="black.jpg" href="Images/black.jpg" media-type="image/jpeg"/>
+	<item id="unit4_page23_05.jpg" href="Images/unit4_page23_05.jpg" media-type="image/jpeg"/>
+	<item id="unit6_page40_01.jpg" href="Images/unit6_page40_01.jpg" media-type="image/jpeg"/>
+	<item id="unit6_page40_02.jpg" href="Images/unit6_page40_02.jpg" media-type="image/jpeg"/>
+	<item id="unit6_page41_01.jpg" href="Images/unit6_page41_01.jpg" media-type="image/jpeg"/>
+	<item id="unit6_page41_02.jpg" href="Images/unit6_page41_02.jpg" media-type="image/jpeg"/>
+	<item id="unit6_page41_03.jpg" href="Images/unit6_page41_03.jpg" media-type="image/jpeg"/>
+
+  <item id="unit6_page43_01.jpg" href="Images/unit6_page43_01.jpg" media-type="image/jpeg"/>
+  <item id="unit6_page43_02.jpg" href="Images/unit6_page43_02.jpg" media-type="image/jpeg"/>
+  <item id="unit6_page43_03.jpg" href="Images/unit6_page43_03.jpg" media-type="image/jpeg"/>
+  <item id="unit6_page43_04.jpg" href="Images/unit6_page43_04.jpg" media-type="image/jpeg"/>
+  <item id="unit6_page43_05.jpg" href="Images/unit6_page43_05.jpg" media-type="image/jpeg"/>
+  <item id="unit6_page43_06.jpg" href="Images/unit6_page43_06.jpg" media-type="image/jpeg"/>
+  <item id="unit6_page43_07.jpg" href="Images/unit6_page43_07.jpg" media-type="image/jpeg"/>
+
+	<item id="unit9_page63_01.jpg" href="Images/unit9_page63_01.jpg" media-type="image/jpeg"/>
+	<item id="unit9_page63_02.jpg" href="Images/unit9_page63_02.jpg" media-type="image/jpeg"/>
+	<item id="unit9_page63_03.jpg" href="Images/unit9_page63_03.jpg" media-type="image/jpeg"/>
+	<item id="unit10_page70_01.jpg" href="Images/unit10_page70_01.jpg" media-type="image/jpeg"/>
+	<item id="unit10_page70_02.jpg" href="Images/unit10_page70_02.jpg" media-type="image/jpeg"/>
+	<item id="unit10_page70_03.jpg" href="Images/unit10_page70_03.jpg" media-type="image/jpeg"/>
+	<item id="unit10_page70_04.jpg" href="Images/unit10_page70_04.jpg" media-type="image/jpeg"/>
+	<item id="unit10_page70_05.jpg" href="Images/unit10_page70_05.jpg" media-type="image/jpeg"/>
+	<item id="unit10_page70_06.jpg" href="Images/unit10_page70_06.jpg" media-type="image/jpeg"/>
+
+  <item id="black_bag.jpg" href="Images/black_bag.jpg" media-type="image/jpeg"/>
+  <item id="black_pen.jpg" href="Images/black_pen.jpg" media-type="image/jpeg"/>
+<item id="blue_bag.jpg" href="Images/blue_bag.jpg" media-type="image/jpeg"/>
+    <item id="blue_pen.jpg" href="Images/blue_pen.jpg" media-type="image/jpeg"/>
+    <item id="blue_ruler.jpg" href="Images/blue_ruler.jpg" media-type="image/jpeg"/>
+     <item id="green_ruler.jpg" href="Images/green_ruler.jpg" media-type="image/jpeg"/>
+     <item id="red_ball.jpg" href="Images/red_ball.jpg" media-type="image/jpeg"/>
+    <item id="red_book.jpg" href="Images/red_book.jpg" media-type="image/jpeg"/>
+    <item id="red_pencil.jpg" href="Images/red_pencil.jpg" media-type="image/jpeg"/>
+        <item id="yellow_ball.jpg" href="Images/yellow_ball.jpg" media-type="image/jpeg"/>
+    <item id="yellow_pencil.jpg" href="Images/yellow_pencil.jpg" media-type="image/jpeg"/>
+    <item id="table.jpg" href="Images/table.jpg" media-type="image/jpeg"/>
+
+	<item id="close.svg" href="Images/close.svg" media-type="image/svg+xml"/>
+    <item id="check.svg" href="Images/check.svg" media-type="image/svg+xml"/>
+
+    <item id="correctAnswer.mp3" href="Sounds/correctAnswer.mp3" media-type="audio/mpeg"/>
+    <item id="wrongAnswer.mp3" href="Sounds/wrongAnswer.mp3" media-type="audio/mpeg"/>
+
   </manifest>
   <spine>
     <itemref idref="cover.xhtml"/>
@@ -59,5 +127,13 @@
     <itemref idref="unit_intro.xhtml"/>
     <itemref idref="normal_page.xhtml"/>
     <itemref idref="page_with_tables.xhtml"/>
+	<itemref idref="fill_in_the_blank.xhtml"/>
+	<itemref idref="tell-the-time.xhtml"/>
+	<itemref idref="body-parts.xhtml"/>
+	<itemref idref="true-false.xhtml"/>
+	<itemref idref="true-false-2.xhtml"/>
+	<itemref idref="tell-a-story.xhtml"/>
+  <itemref idref="dropdown.xhtml"/>
+  <itemref idref="single-choice.xhtml"/>
   </spine>
 </package>
