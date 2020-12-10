@@ -2,6 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/02_Beta_Prototype/primary_unit1_unit2.epub
-/*.epub
+.vscode
+*.epub
