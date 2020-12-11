@@ -12,17 +12,21 @@ function prepareVideoElements() {
 
     $(".show-video").click(function () {
         videoSrc.attr("src", $(this).attr("video"))
+        videoElement.get(0).pause();
         videoElement.attr("poster", $(this).attr("poster"))
+        videoElement.get(0).load();
         videoContainer.show();
     })
 
     $("#videoclose").click(function (event) {
         event.stopPropagation();
+        videoElement.get(0).pause();
         videoContainer.hide();
 
     });
 
     videoContainer.click(function () {
+        videoElement.get(0).pause();
         videoContainer.hide();
     });
 
