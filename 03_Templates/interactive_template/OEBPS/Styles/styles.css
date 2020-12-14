@@ -37,6 +37,39 @@ p{
 .flex-vertical{
     flex-direction: column;
 }
+/*==============================start tell a story   */
+.image-container{
+    flex-grow: 1;
+    margin:10px 10px;
+    
+    height:200px;
+    text-align: center;
+}
+
+.image-container img{
+    max-width:236px;
+    max-height:200px;
+    width: auto;
+    height: auto;
+}
+
+.full-image{
+    max-width: 780px;
+    max-height: 810px;
+    
+    width: auto;
+    height: auto;
+}
+
+.correct-tell-story{
+    border-color:green;
+}
+
+.wrong-tell-story{
+    border-color:red;
+}
+
+/* ================================ end tell a story*/
 /*===================================== Fill in blank area */
 textarea:focus, input:focus{
     outline: none;
@@ -163,39 +196,7 @@ textarea:focus, input:focus{
     }
   }
 /*========================================== end fill in blank */
-/*==============================start tell a story   */
-.image-container{
-    flex-grow: 1;
-    margin:10px 10px;
-    
-    height:200px;
-    text-align: center;
-}
 
-.image-container img{
-    max-width:236px;
-    max-height:200px;
-    width: auto;
-    height: auto;
-}
-
-.full-image{
-    max-width: 780px;
-    max-height: 810px;
-    
-    width: auto;
-    height: auto;
-}
-
-.correct-tell-story{
-    border-color:green;
-}
-
-.wrong-tell-story{
-    border-color:red;
-}
-
-/* ================================ end tell a story*/
 /*================================true false section */
 .true-false-answer{
     display:flex;
