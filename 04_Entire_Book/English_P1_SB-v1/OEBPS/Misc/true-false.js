@@ -27,10 +27,10 @@ function prepareTrueFalse(){
     });
 
     $(".btn-reset").click(function(){
-        $(".image-container").each(function(){
-            $(this).removeClass("correct-tell-story");
-            $(this).removeClass("wrong-tell-story");
-            $(this).append( $("#"+$(this).attr("original")));
+        $(".answer-section-click").each(function(){
+            $(this).parent().find(".active").removeClass("active");
+            $(this).parent().attr("selected-answer","");
+            $(this).parent().removeClass("answered");
         });
     });
 }

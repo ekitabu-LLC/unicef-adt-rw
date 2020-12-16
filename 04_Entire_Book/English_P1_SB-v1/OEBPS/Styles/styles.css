@@ -100,7 +100,23 @@ body{
 }
 
 .display-flex{
+
     display:flex;
+}
+
+.center{
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.middle{
+    vertical-align: middle;
+    align-items: center;
+}
+
+.flex-vertical{
+    flex-direction: column;
 }
 
 
@@ -273,7 +289,7 @@ margin:0;
 
 .content-section{
     flex-grow: 1;
-
+    max-height: 810px;
     padding:5px 10px;
 }
 
@@ -299,7 +315,6 @@ tr, td { padding: 0; border: 2px solid black;}
 }
 
 .content-section table td{
-    width:50%;
     text-align: center;
     font-size: 30px;
 }
