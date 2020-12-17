@@ -11,6 +11,10 @@
 	src : url("../font/Lato-Regular.ttf");
 }
 
+img {
+    -webkit-user-drag: auto;
+    }
+
 p{
     margin:0 0;
 }
