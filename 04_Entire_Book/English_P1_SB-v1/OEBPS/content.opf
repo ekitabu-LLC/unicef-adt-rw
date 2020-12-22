@@ -34,7 +34,14 @@
   <manifest>
     <item id="jquery3.5.1.js" href="Misc/jquery3.5.1.js" media-type="application/javascript"/>
     <item id="book.js" href="Misc/book.js" media-type="application/javascript"/>
+    <item id="fill-in-blank.js" href="Misc/fill-in-blank.js" media-type="application/javascript"/>
+    <item id="match-color.js" href="Misc/match-color.js" media-type="application/javascript"/>
+    <item id="single-choice.js" href="Misc/single-choice.js" media-type="application/javascript"/>
+    <item id="tell-a-story.js" href="Misc/tell-a-story.js" media-type="application/javascript"/>
+    <item id="true-false.js" href="Misc/true-false.js" media-type="application/javascript"/>
     <item id="styles.css" href="Styles/styles.css" media-type="text/css"/>
+    <item id="match-color.css" href="Styles/match-color.css" media-type="text/css"/>
+    <item id="single-choice.css" href="Styles/single-choice.css" media-type="text/css"/>
     <item id="f-Lato-Bold" href="font/Lato-Bold.ttf" media-type="application/vnd.ms-opentype"/>
     <item id="f-Lato-Regular" href="font/Lato-Regular.ttf" media-type="application/vnd.ms-opentype"/>
 
@@ -356,6 +363,8 @@
     <item id="white.mp4" href="Video/white.mp4" media-type="video/mp4"/>
     <item id="window.mp4" href="Video/window.mp4" media-type="video/mp4"/>
     <item id="yellow.mp4" href="Video/yellow.mp4" media-type="video/mp4"/>
+    <item id="correctAnswer.mp3" href="Sounds/correctAnswer.mp3" media-type="audio/mpeg"/>
+    <item id="wrongAnswer.mp3" href="Sounds/wrongAnswer.mp3" media-type="audio/mpeg"/>
 
 
     <item id="unit2-6_image.png" href="Images/unit2-6_image.png" media-type="image/png"/>
@@ -636,6 +645,8 @@
     <item id="img-unit9_page67_02" href="Images/unit9_page67_02.jpg" media-type="image/jpeg"/>
     <item id="img-white" href="Images/white.jpg" media-type="image/jpeg"/>
     <item id="img-yellow" href="Images/yellow.jpg" media-type="image/jpeg"/>
+    <item id="close.svg" href="Images/close.svg" media-type="image/svg+xml"/>
+    <item id="check.svg" href="Images/check.svg" media-type="image/svg+xml"/>
 
   </manifest>
   <spine>

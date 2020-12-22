@@ -11,6 +11,10 @@
 	src : url("../font/Lato-Regular.ttf");
 }
 
+img {
+    -webkit-user-drag: auto;
+    }
+
 p{
     margin:0 0;
 }
@@ -100,7 +104,23 @@ body{
 }
 
 .display-flex{
+
     display:flex;
+}
+
+.center{
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.middle{
+    vertical-align: middle;
+    align-items: center;
+}
+
+.flex-vertical{
+    flex-direction: column;
 }
 
 
@@ -273,7 +293,7 @@ margin:0;
 
 .content-section{
     flex-grow: 1;
-
+    max-height: 810px;
     padding:5px 10px;
 }
 
@@ -297,9 +317,15 @@ tr, td { padding: 0; border: 2px solid black;}
     width:100%;
     height:100%
 }
+.half-table td{
+    width:50%;
+}
+
+.no-border table,.no-border tr,.no-border td{
+    border-width: 0;
+}
 
 .content-section table td{
-    width:50%;
     text-align: center;
     font-size: 30px;
 }
@@ -365,9 +391,234 @@ border-color: #e9a5a4 transparent;
 display: block;
 width: 0;
 z-index: 0;
-
-
 }
+
+/*===================================== Fill in blank area */
+textarea:focus, input:focus{
+    outline: none;
+}
+
+.img-names {
+    max-width:230px;
+    max-height:95px;
+    width: auto;
+    height: auto;
+  }
+
+  .fill-blank-style{
+      border:none;
+      border-bottom: 2px solid black;
+      width: 50%;
+      font-size: 20px;
+      line-height: 30px;
+      text-align: center;
+  }
+
+  .wrong-fill-blank{
+      color:white;
+
+      background-color:red;
+  }
+
+  .correct-fill-blank{
+    color:white;
+
+    background-color:green;
+}
+
+.btn-reset {
+	box-shadow: 0px 1px 0px 0px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:6px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding: 10px 50px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+}
+.btn-reset:hover {
+	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	background-color:#ffab23;
+}
+.btn-reset:active {
+	position:relative;
+	top:1px;
+}
+
+.btn-answer {
+	box-shadow:inset 0px 1px 0px 0px #f5978e;
+	background:linear-gradient(to bottom, #f24537 5%, #c62d1f 100%);
+	background-color:#f24537;
+	border-radius:6px;
+	border:1px solid #d02718;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding: 10px 50px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #810e05;
+}
+.btn-answer:hover {
+	background:linear-gradient(to bottom, #c62d1f 5%, #f24537 100%);
+	background-color:#c62d1f;
+}
+.btn-answer:active {
+	position:relative;
+	top:1px;
+}
+
+
+#msg-anim {
+    position: absolute;
+    top: 30%;
+    z-index: 1001;
+    width:100%;
+  }
+  
+  #msg-anim h1 {
+    font-size: 4.3em;
+    letter-spacing: -4px;
+    font-weight: 700;
+    
+    text-align: center;
+    text-shadow: black 5px 5px;
+  }
+  
+  #msg-anim  h1.correct{
+    color: green;
+  }
+  
+  #msg-anim h1.tryagain{
+    color: red;
+  }
+  
+  .cssanimation, .cssanimation span {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+  }
+  
+  .cssanimation span { display: inline-block }
+  
+  .leFlyInBottom span { animation-name: leFlyInBottom }
+  @keyframes leFlyInBottom {
+    0% {
+        transform: translate(0px, 80px);
+        opacity: 0
+    }
+    50% {
+        transform: translate(10px, -50px);
+        animation-timing-function: ease-in-out
+    }
+  }
+/*========================================== end fill in blank */
+/*==============================start tell a story   */
+.image-container{
+    flex-grow: 1;
+    margin:10px 10px;  
+    height:200px;
+    text-align: center;
+}
+
+.image-container img{
+    max-width:236px;
+    max-height:200px;
+    width: auto;
+    height: auto;
+}
+
+.full-image{
+    max-width: 780px;
+    max-height: 810px;
+    
+    width: auto;
+    height: auto;
+}
+
+.correct-tell-story{
+    border-color:green;
+}
+
+.wrong-tell-story{
+    border-color:red;
+}
+
+.black-border{
+    border:2px solid black;
+}
+/* ================================ end tell a story*/
+/*================================true false section */
+.true-false-answer{
+    display:flex;
+    flex-direction: row;
+    width:200px;
+    height:50px;
+    line-height: 50px;
+    font-size:40px;
+    color:white;
+    justify-content: center;
+    text-align: center;
+    border:1px solid black;
+    position: relative;
+    
+}
+.true-false-answer div{
+    cursor: pointer;
+}
+
+.true-false-answer.answered .answer-section-click{
+    opacity: 0.2;
+}
+
+.true-false-answer .true-false-eval{
+    display: none;
+}
+
+.true-false-answer.answered .true-false-eval{
+    display: inline-block;
+}
+
+.true-false-answer .true-section{
+    color:green;
+    border-right: 1px solid black;
+}
+.true-false-answer .true-section:hover{
+    background-color: rgba(0, 128, 0, 0.2);
+}
+.true-false-answer .false-section{
+    color:red;
+}
+
+.true-false-answer .false-section:hover{
+    background-color: rgba(255, 0, 0, 0.2);
+}
+.true-false-answer .false-section.active{
+    background-color: rgba(255, 0, 0, 1);
+    color:white;
+    opacity: 1;
+}
+.true-false-answer .true-section.active{
+    background-color: rgba(0, 128, 0, 1);
+    color:white;
+    opacity: 2;
+}
+.true-false-eval{
+    position: absolute;
+    right:-50px;
+}
+
+.true-false-eval img{
+    height:50px;
+}
+/*=================================end true false*/
 
 .red-bubble{
     background-color:#f9e3d8;
