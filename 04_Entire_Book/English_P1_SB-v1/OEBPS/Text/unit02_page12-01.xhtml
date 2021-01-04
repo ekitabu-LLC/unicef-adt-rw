@@ -1,119 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
-<head>
-<title>English P1 Template</title>
-<meta name="viewport" content="width=1000,height=1300" />
-  <script type="text/javascript" src="../Misc/jquery3.5.1.js"></script>
-  <script type="text/javascript" src="../Misc/book.js"></script>
-  <script type="text/javascript" src="../Misc/match-color.js"></script>
-  <link href="../Styles/styles.css" rel="stylesheet" type="text/css" />
-  <link href="../Styles/match-color.css" rel="stylesheet" type="text/css" />
-</head>
-
-<body style="width:1000px;height:1300px">
-<div class="page-body">
-<div class="page-style">
-<div class="page-content">
-<div class="page-title" style="margin-top:20px;"><span id="s0315">Match</span> <span id="s0316">the</span> <span id="s0317">colour</span> <span id="s0318">with</span> <span id="s0319">the</span> <span id="s0320">name</span></div>
-<div class="content-section">
-    <table class="half-table">
-      <tr>
-        <td><span class="red-color">Colour</span></td>
-        <td><span class="red-color">Name</span></td>
-      </tr>
-      <tr>
-        <td class="drop-zone" id="div-white">
-          <img origin="div-white" id="white" answer="white" draggable="true" class="rect-img dragable-image"
-          src="../Images/unit2_page12_01.jpg" alt="NAME: There is a box. The box is white." />
-        </td>
-        <td class="target-drop">
-          <img src="../Images/check.svg" class="mark-class" />
-          <p answer="black" class="answer-drop body_ctr ">Black</p>
-        </td>
-      </tr>
-      <tr>
-        <td class="drop-zone" id="div-blue">
-          <img origin="div-blue" id="blue" answer="blue" draggable="true" class="rect-img dragable-image"
-                        src="../Images/unit2_page12_02.jpg" alt="There is a box. The box is blue." /></td>
-        <td class="target-drop">
-          <img src="../Images/check.svg" class="mark-class" />
-          <p answer="yellow" class="answer-drop body_ctr ">Yellow</p></td>
-      </tr>
-      <tr>
-        <td class="drop-zone" id="div-red">
-          <img origin="div-red" id="red" answer="red" draggable="true" class="rect-img dragable-image"
-                        src="../Images/unit2_page12_03.jpg" alt="There is a box. The box is red." /></td>
-        <td class="target-drop">
-          <img src="../Images/check.svg" class="mark-class" />
-          <p answer="blue" class="answer-drop body_ctr ">Blue</p>
-        </td>
-      </tr>
-      <tr>
-        <td class="drop-zone" id="div-black">
-          <img origin="div-black" id="black" answer="black" draggable="true" class="rect-img dragable-image" src="../Images/unit2_page12_04.jpg"
-                        alt="There is a box. The box is black." /></td>
-        <td class="target-drop">
-          <img src="../Images/check.svg" class="mark-class" />
-          <p answer="green" class="answer-drop body_ctr ">Green</p>
-        </td>
-      </tr>
-      <tr>
-        <td class="drop-zone" id="div-yellow">
-          <img origin="div-yellow" id="yellow" answer="yellow" draggable="true" class="rect-img dragable-image"
-                        src="../Images/unit2_page12_05.jpg" alt="There is a box. The box is yellow." /></td>
-        <td class="target-drop">
-          <img src="../Images/check.svg" class="mark-class" />
-          <p answer="white" class="answer-drop body_ctr ">White</p>
-        </td>
-      </tr>
-      <tr>
-        <td class="drop-zone" id="div-green">
-          <img origin="div-green" id="green" answer="green" draggable="true" class="rect-img dragable-image"
-                        src="../Images/unit2_page12_06.jpg" alt="There is a box. The box is green." /></td>
-        <td  class="target-drop">
-          <img src="../Images/check.svg" class="mark-class" />
-          <p answer="red" class="answer-drop body_ctr ">Red</p>
-        </td>
-      </tr>
-      <tr>
-        <td><button class="btn-reset" id="btn-reset">Reset</button></td>
-        <td><button class="btn-answer" id="btn-answer">Answer</button></td>
-      </tr>
-    </table>
-  </div>
-<div class="video-section">
-
-<div class="display-flex">
-<div class="flex-grow-1"></div>
-<video id="_idVideo000" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
-<source src="../Video/unit02_page12-01.mp4" type="video/mp4" /></video>
-<div class="flex-grow-1"></div>
+  <head>
+    <title>English P1 Template</title>
+    <meta name="viewport" content="width=1000,height=1300"/>
+    <script type="text/javascript" src="../Misc/jquery3.5.1.js"/>
+    <script type="text/javascript" src="../Misc/book.js"/>
+    <script type="text/javascript" src="../Misc/match-color.js"/>
+    <link href="../Styles/styles.css" rel="stylesheet" type="text/css"/>
+    <link href="../Styles/match-color.css" rel="stylesheet" type="text/css"/>
+  </head>
+  <body style="width:1000px;height:1300px">
+    <div class="page-body">
+      <div class="page-style">
+        <div class="page-content">
+          <div class="page-title" style="margin-top:20px;">
+            <span id="s001">Match</span>
+            <span id="s002">the</span>
+            <span id="s003">colour</span>
+            <span id="s004">with</span>
+            <span id="s005">the</span>
+            <span id="s006">name</span>
+          </div>
+          <div class="content-section">
+            <table class="half-table">
+              <tr>
+                <td>
+                  <span class="red-color">Colour</span>
+                </td>
+                <td>
+                  <span class="red-color">Name</span>
+                </td>
+              </tr>
+              <tr>
+                <td class="drop-zone" id="div-white">
+                  <img origin="div-white" id="white" answer="white" draggable="true" class="rect-img dragable-image" src="../Images/unit2_page12_01.jpg" alt="NAME: There is a box. The box is white."/>
+                </td>
+                <td class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class"/>
+                  <p answer="black" class="answer-drop body_ctr ">Black</p>
+                </td>
+              </tr>
+              <tr>
+                <td class="drop-zone" id="div-blue">
+                  <img origin="div-blue" id="blue" answer="blue" draggable="true" class="rect-img dragable-image" src="../Images/unit2_page12_02.jpg" alt="There is a box. The box is blue."/>
+                </td>
+                <td class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class"/>
+                  <p answer="yellow" class="answer-drop body_ctr ">Yellow</p>
+                </td>
+              </tr>
+              <tr>
+                <td class="drop-zone" id="div-red">
+                  <img origin="div-red" id="red" answer="red" draggable="true" class="rect-img dragable-image" src="../Images/unit2_page12_03.jpg" alt="There is a box. The box is red."/>
+                </td>
+                <td class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class"/>
+                  <p answer="blue" class="answer-drop body_ctr ">Blue</p>
+                </td>
+              </tr>
+              <tr>
+                <td class="drop-zone" id="div-black">
+                  <img origin="div-black" id="black" answer="black" draggable="true" class="rect-img dragable-image" src="../Images/unit2_page12_04.jpg" alt="There is a box. The box is black."/>
+                </td>
+                <td class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class"/>
+                  <p answer="green" class="answer-drop body_ctr ">Green</p>
+                </td>
+              </tr>
+              <tr>
+                <td class="drop-zone" id="div-yellow">
+                  <img origin="div-yellow" id="yellow" answer="yellow" draggable="true" class="rect-img dragable-image" src="../Images/unit2_page12_05.jpg" alt="There is a box. The box is yellow."/>
+                </td>
+                <td class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class"/>
+                  <p answer="white" class="answer-drop body_ctr ">White</p>
+                </td>
+              </tr>
+              <tr>
+                <td class="drop-zone" id="div-green">
+                  <img origin="div-green" id="green" answer="green" draggable="true" class="rect-img dragable-image" src="../Images/unit2_page12_06.jpg" alt="There is a box. The box is green."/>
+                </td>
+                <td class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class"/>
+                  <p answer="red" class="answer-drop body_ctr ">Red</p>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <button class="btn-reset" id="btn-reset">Reset</button>
+                </td>
+                <td>
+                  <button class="btn-answer" id="btn-answer">Answer</button>
+                </td>
+              </tr>
+            </table>
+          </div>
+          <div class="video-section">
+            <div class="display-flex">
+              <div class="flex-grow-1"/>
+              <video id="_idVideo000" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
+                <source src="../Video/unit02_page12-01.mp4" type="video/mp4"/>
+              </video>
+              <div class="flex-grow-1"/>
+            </div>
+          </div>
+        </div>
+        <div class="page-number">
+          <span id="s007">12</span>
+        </div>
+        <div id="msg-anim">
 </div>
-</div>
-</div>
-<div class="page-number"><span id="s0329">12</span></div>
-<div id="msg-anim">
-		
-</div>
-<div id="video-player">
-<div>
-<button id="videoclose">X</button>
-<video id="_idVideo000" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
-<source src="../Video/blue.mp4" type="video/mp4" />
-</video>
-<button id="videoclose1">X</button>
-<video id="_idVideo0001" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
-<source src="../Video/green.mp4" type="video/mp4" />
-</video>
-<button id="videoclose2">X</button>
-<video id="_idVideo0002" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
-<source src="../Video/red.mp4" type="video/mp4" />
-</video>
-</div>
-</div>
-</div>
-</div>
-</body>
+        <div id="video-player">
+          <div>
+            <button id="videoclose">X</button>
+            <video id="_idVideo000" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
+              <source src="../Video/blue.mp4" type="video/mp4"/>
+            </video>
+            <button id="videoclose1">X</button>
+            <video id="_idVideo0001" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
+              <source src="../Video/green.mp4" type="video/mp4"/>
+            </video>
+            <button id="videoclose2">X</button>
+            <video id="_idVideo0002" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
+              <source src="../Video/red.mp4" type="video/mp4"/>
+            </video>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
