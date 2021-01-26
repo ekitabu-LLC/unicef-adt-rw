@@ -4,9 +4,11 @@
   <head>
     <title>English P1 Accessible Digital Textbook</title>
     <meta name="viewport" content="width=1000,height=1300"/>
-    <script type="text/javascript" src="../Misc/jquery3.5.1.js"/>
-    <script type="text/javascript" src="../Misc/book.js"/>
-    <link href="../Styles/styles.css" rel="stylesheet" type="text/css"/>
+    <script type="text/javascript" src="../Misc/jquery3.5.1.js"></script>
+    <script type="text/javascript" src="../Misc/book.js"></script>
+    <script type="text/javascript" src="../Misc/match-color.js"></script>
+  <link href="../Styles/styles.css" rel="stylesheet" type="text/css" />
+  <link href="../Styles/match-color.css" rel="stylesheet" type="text/css" />
   </head>
   <body style="width:1000px;height:1300px">
     <div class="page-body">
@@ -23,7 +25,7 @@
             </h2>
           </div>
           <div class="content-section">
-            <table class="t2" style="margin-top:1px;height:92%;">
+            <table class="half-table" style="margin-top:1px;height:92%;">
               <tr>
                 <td class="page-title" style="border:2px solid red;text-align:center;padding-top:10px!important;padding-bottom:10px!important;">
                   <span id="s007">Food</span>
@@ -33,60 +35,71 @@
                 </td>
               </tr>
               <tr>
-                <td style="border:2px solid red;">
-                  <img style="width:12%;" src="../Images/unit5_page36_01.jpg" alt="There is a  bottle of milk."/>
+                <td class="drop-zone" style="border:2px solid red;" id="div-milk">
+                  <img origin="div-milk" style="width:12%;" id="milk" answer="milk" draggable="true" class="rect-img dragable-image" src="../Images/unit5_page36_01.jpg" alt="There is a  bottle of milk."/>
                 </td>
-                <td style="border:2px solid red;text-align:center;padding-left:20px;">
-                  <span id="s009">apple</span>
-                </td>
-              </tr>
-              <tr>
-                <td style="border:2px solid red;">
-                  <img style="width:20%;" src="../Images/unit5_page36_02.jpg" alt="There is a picture of tomato."/>
-                </td>
-                <td style="border:2px solid red;text-align:center;padding-left:20px;">
-                  <span id="s010">rice</span>
+                <td style="border:2px solid red;text-align:center;padding-left:20px;" class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class" />
+                  <p  answer="apple" class="answer-drop body_ctr">apple</p>
                 </td>
               </tr>
               <tr>
-                <td style="border:2px solid red;">
-                  <img style="width:18%;" src="../Images/unit5_page36_03.jpg" alt="There is a picture of an apple."/>
+                <td  class="drop-zone" style="border:2px solid red;" id="div-tomato">
+                  <img origin="div-tomato" style="width:20%;" id="tomato" answer="tomato" draggable="true" class="rect-img dragable-image" src="../Images/unit5_page36_02.jpg" alt="There is a picture of tomato."/>
                 </td>
-                <td style="border:2px solid red;text-align:center;padding-left:20px;">
-                  <span id="s011">chicken</span>
-                </td>
-              </tr>
-              <tr>
-                <td style="border:2px solid red;">
-                  <img style="width:25%;" src="../Images/unit5_page36_04.jpg" alt="There is a plate of beans."/>
-                </td>
-                <td style="border:2px solid red;text-align:center;padding-left:20px;">
-                  <span id="s012">tomato</span>
+                <td style="border:2px solid red;text-align:center;padding-left:20px;" class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class" />
+                  <p answer="rice" class="answer-drop body_ctr">rice</p>
                 </td>
               </tr>
               <tr>
-                <td style="border:2px solid red;">
-                  <img style="width:30%;" src="../Images/unit5_page36_05.jpg" alt="There is a plate of rice."/>
+                <td class="drop-zone" style="border:2px solid red;" id="div-apple">
+                  <img origin="div-apple" style="width:18%;" id="apple" answer="apple" draggable="true" class="rect-img dragable-image" src="../Images/unit5_page36_03.jpg" alt="There is a picture of an apple."/>
                 </td>
-                <td style="border:2px solid red;text-align:center;padding-left:20px;">
-                  <span id="s013">milk</span>
-                </td>
-              </tr>
-              <tr>
-                <td style="border:2px solid red;">
-                  <img style="width:25%;" src="../Images/unit5_page36_06.jpg" alt="There is a fried chicken."/>
-                </td>
-                <td style="border:2px solid red;text-align:center;padding-left:20px;">
-                  <span id="s014">eggs</span>
+                <td style="border:2px solid red;text-align:center;padding-left:20px;" class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class" />
+                  <p  answer="chicken" class="answer-drop body_ctr">chicken</p>
                 </td>
               </tr>
               <tr>
-                <td style="border:2px solid red;">
-                  <img style="width:30%;" src="../Images/unit5_page36_07.jpg" alt="There are two eggs."/>
+                <td class="drop-zone" style="border:2px solid red;" id="div-beans">
+                  <img origin="div-beans" style="width:25%;" id="beans" answer="beans" draggable="true" class="rect-img dragable-image" src="../Images/unit5_page36_04.jpg" alt="There is a plate of beans."/>
                 </td>
-                <td style="border:2px solid red;text-align:center;padding-left:20px;">
-                  <span id="s015">beans</span>
+                <td style="border:2px solid red;text-align:center;padding-left:20px;" class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class" />
+                  <p  answer="tomato" class="answer-drop body_ctr">tomato</p>
                 </td>
+              </tr>
+              <tr>
+                <td class="drop-zone" style="border:2px solid red;" id="div-rice">
+                  <img origin="div-rice" style="width:30%;" id="rice" answer="rice" draggable="true" class="rect-img dragable-image" src="../Images/unit5_page36_05.jpg" alt="There is a plate of rice."/>
+                </td>
+                <td style="border:2px solid red;text-align:center;padding-left:20px;" class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class" />
+                  <p answer="milk" class="answer-drop body_ctr">milk</p>
+                </td>
+              </tr>
+              <tr>
+                <td class="drop-zone" style="border:2px solid red;" id="div-chicken">
+                  <img origin="div-chicken" style="width:25%;" id="chicken" answer="chicken" draggable="true" class="rect-img dragable-image" src="../Images/unit5_page36_06.jpg" alt="There is a fried chicken."/>
+                </td>
+                <td style="border:2px solid red;text-align:center;padding-left:20px;" class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class" />
+                  <p answer="eggs" class="answer-drop body_ctr">eggs</p>
+                </td>
+              </tr>
+              <tr>
+                <td class="drop-zone" style="border:2px solid red;" id="div-eggs">
+                  <img origin="div-eggs" style="width:30%;" id="eggs" answer="eggs" draggable="true" class="rect-img dragable-image" src="../Images/unit5_page36_07.jpg" alt="There are two eggs."/>
+                </td>
+                <td style="border:2px solid red;text-align:center;padding-left:20px;" class="target-drop">
+                  <img src="../Images/check.svg" class="mark-class" />
+                  <p answer="beans" class="answer-drop body_ctr">beans</p>
+                </td>
+              </tr>
+              <tr>
+                <td style="border:2px solid red;text-align:center;padding-left:20px;"><button class="btn-reset" id="btn-reset">Reset</button></td>
+                <td style="border:2px solid red;text-align:center;padding-left:20px;"><button class="btn-answer" id="btn-answer">Answer</button></td>
               </tr>
             </table>
             <div style="position: absolute;top:830px; left:115px;font-size:30px;color:red;">
@@ -109,6 +122,8 @@
         <div class="page-number">
           <span id="s020">36</span>
         </div>
+      </div>
+      <div id="msg-anim">
       </div>
     </div>
   </body>
