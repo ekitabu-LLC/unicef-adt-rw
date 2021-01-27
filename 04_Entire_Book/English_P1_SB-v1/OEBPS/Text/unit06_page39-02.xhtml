@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=1000,height=1300"/>
     <script type="text/javascript" src="../Misc/jquery3.5.1.js"/>
     <script type="text/javascript" src="../Misc/book.js"/>
+    <script type="text/javascript" src="../Misc/fill-in-blank.js"/>
     <link href="../Styles/styles.css" rel="stylesheet" type="text/css"/>
   </head>
   <body style="width:1000px;height:1300px">
@@ -30,12 +31,14 @@
               <div style="position: absolute;top:95px; left:45px;font-size:30px;">
                 <span id="s010">There</span>
                 <span id="s011">are</span>
-                <span id="s012">_______</span>
+                <span id="s012"><input type="text" class="fill-blank fill-blank-style width-200" answer="5"/></span>
                 <span id="s013">red</span>
                 <span id="s014">balls</span>
                 <span id="s015">on</span>
                 <span id="s016">the</span>
                 <span id="s017">floor.</span>
+                <button class="btn-reset">Reset</button>
+                <button class="btn-answer">Answer</button>
               </div>
             </div>
           </div>
@@ -52,6 +55,8 @@
         <div class="page-number">
           <span id="s018">39</span>
         </div>
+      </div>
+      <div id="msg-anim">
       </div>
     </div>
   </body>
