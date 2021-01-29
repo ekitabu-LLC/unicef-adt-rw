@@ -1,4 +1,7 @@
 #!/bin/bash
+checkDependancies(){
+    get 
+}
 getfolder(){ #get folder path
     echo 'Please input folder path with the format /path/to/folder: ' 
     read folder
@@ -6,6 +9,12 @@ getfolder(){ #get folder path
     echo "There are ${#files[@]} files in this folder"
     find $folder -type f | sed -e 's/.*\.//' | sort | uniq -c | sort -n | grep -Ei '(xhtml|xml|html|htm)$')
 }
+#check for nested span tags
+   for f in $files     #loop through files
+    do
+        xmlstarlet sel -N q="http://www.w3.org/1999/xhtml"  -t -v "count(//q:span/span)" $f
+        
+    done
 
 if [[${#files[@]}>0]]; then     #check if folders has xhtml files
     echo "There are ${#files[@]} files in this folder"
