@@ -664,112 +664,112 @@ td {
     transform: skew(-45deg);
 }
 
-.height-10:after {
+.bubble-height-10:after {
     bottom: -10px;
     border-width: 10px 4px 0;
 }
 
-.height-10:before {
+.bubble-height-10:before {
     bottom: -13px;
     border-width: 11px 5px 0;
 }
 
-.height-20:after {
+.bubble-height-20:after {
     bottom: -20px;
     border-width: 20px 4px 0;
 }
 
-.height-20:before {
+.bubble-height-20:before {
     bottom: -23px;
     border-width: 21px 5px 0;
 }
 
-.height-30:after {
+.bubble-height-30:after {
     bottom: -30px;
     border-width: 30px 4px 0;
 }
 
-.height-30:before {
+.bubble-height-30:before {
     bottom: -33px;
     border-width: 31px 5px 0;
 }
 
-.height-40:after {
+.bubble-height-40:after {
     bottom: -40px;
     border-width: 40px 4px 0;
 }
 
-.height-40:before {
+.bubble-height-40:before {
     bottom: -43px;
     border-width: 41px 5px 0;
 }
 
-.height-50:after {
+.bubble-height-50:after {
     bottom: -50px;
     border-width: 50px 4px 0;
 }
 
-.height-50:before {
+.bubble-height-50:before {
     bottom: -53px;
     border-width: 51px 5px 0;
 }
 
-.height-60:after {
+.bubble-height-60:after {
     bottom: -60px;
     border-width: 60px 4px 0;
 }
 
-.height-60:before {
+.bubble-height-60:before {
     bottom: -63px;
     border-width: 61px 5px 0;
 }
 
-.height-70:after {
+.bubble-height-70:after {
     bottom: -70px;
     border-width: 70px 4px 0;
 }
 
-.height-70:before {
+.bubble-height-70:before {
     bottom: -73px;
     border-width: 71px 5px 0;
 }
 
-.height-80:after {
+.bubble-height-80:after {
     bottom: -80px;
     border-width: 80px 4px 0;
 }
 
-.height-80:before {
+.bubble-height-80:before {
     bottom: -83px;
     border-width: 81px 5px 0;
 }
 
-.height-90:after {
+.bubble-height-90:after {
     bottom: -90px;
     border-width: 90px 4px 0;
 }
 
-.height-90:before {
+.bubble-height-90:before {
     bottom: -93px;
     border-width: 91px 5px 0;
 }
 
-.height-100:after {
+.bubble-height-100:after {
     bottom: -100px;
     border-width: 100px 4px 0;
 }
 
-.height-100:before {
+.bubble-height-100:before {
     bottom: -103px;
     border-width: 101px 5px 0;
 }
 
-.height-110:after {
+.bubble-height-110:after {
     bottom: -110px;
     border-width: 110px 4px 0;
 }
 
-.height-110:before {
+.bubble-height-110:before {
     bottom: -113px;
     border-width: 111px 5px 0;
 }
