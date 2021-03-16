@@ -7,6 +7,7 @@ This repository is purposed to track the changes towards the development of the 
 The ADT constitutes the following features:
 - Image descriptions
 - Rwanda Sign Language videos 
+- Glossary
 - Navigation and structural hierachy
 - Interactive questions
   -  Drag-and-drop 
