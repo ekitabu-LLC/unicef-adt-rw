@@ -1,0 +1,34 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+    <seq id="seq000001" epub:textref="../Text/unit01_page02-02.xhtml">
+      <par id="par000001">
+        <text src="../Text/unit01_page02-02.xhtml#s001"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:00.000" clipEnd="00:00:00.600"/>
+      </par>
+      <par id="par000002">
+        <text src="../Text/unit01_page02-02.xhtml#s002"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:00.600" clipEnd="00:00:04.320"/>
+      </par>
+      <par id="par000003">
+        <text src="../Text/unit01_page02-02.xhtml#s003"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:04.320" clipEnd="00:00:06.640"/>
+      </par>
+      <par id="par000004">
+        <text src="../Text/unit01_page02-02.xhtml#s004"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:06.640" clipEnd="00:00:12.960"/>
+      </par>
+      <par id="par000005">
+        <text src="../Text/unit01_page02-02.xhtml#s005"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:12.960" clipEnd="00:00:13.800"/>
+      </par>
+      <par id="par000006">
+        <text src="../Text/unit01_page02-02.xhtml#s006"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:13.800" clipEnd="00:00:14.160"/>
+      </par>
+      <par id="par000007">
+        <text src="../Text/unit01_page02-02.xhtml#s007"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:14.160" clipEnd="00:00:15.120"/>
+      </par>
+    </seq>
+  </body>
+</smil>
