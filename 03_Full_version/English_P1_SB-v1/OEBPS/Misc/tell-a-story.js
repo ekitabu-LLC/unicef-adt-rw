@@ -4,7 +4,6 @@ $(document).ready(function () {
 
 function prepareTellAStory() {
     $(".draggable").on('dragstart', function (ev) {
-        console.log(ev,"startDrag")
         ev.originalEvent.dataTransfer.setData("imgId",JSON.stringify({id:ev.target.id,parentId:ev.target.parentElement.id}) );
     });
 
@@ -14,7 +13,6 @@ function prepareTellAStory() {
 
     $(".drop-zone").on("drop", function (ev) {
         ev.preventDefault();
-        console.log(ev);
         var droppedImg = ev.originalEvent.dataTransfer.getData("imgId");
         var droppedIds = JSON.parse(droppedImg);
         if (ev.target.tagName == "img"){
@@ -22,7 +20,6 @@ function prepareTellAStory() {
             document.getElementById(droppedIds.parentId).appendChild(ev.target);
             
         }else{
-            console.log(ev.originalEvent.target.firstChild)
             ev.originalEvent.target.appendChild(document.getElementById(droppedIds.id));
             document.getElementById(droppedIds.parentId).appendChild(ev.originalEvent.target.firstElementChild);
         }

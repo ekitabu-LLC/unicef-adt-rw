@@ -37,7 +37,7 @@ function drop(ev) {
     var numOfQeustions = document.getElementsByClassName("drop-zone").length
     var answeredQuestions = 0;
     var data = ev.dataTransfer.getData("imgId");
-    if (ev.target.tagName == "span") {
+    if (ev.target.tagName == "p") {
         ev.target.parentElement.appendChild(document.getElementById(data));
     } else {
         ev.target.appendChild(document.getElementById(data));
@@ -50,8 +50,6 @@ function drop(ev) {
             answeredQuestions += 1;
         }
     }
-    console.log(numOfQeustions);
-    console.log(answeredQuestions);
     if (answeredQuestions == numOfQeustions) {
         document.getElementById("btn-answer").disabled = false;
         document.getElementById("btn-answer").classList.add("active-btn");
@@ -76,7 +74,6 @@ function evalAnswers() {
     var answeredQuestions = 0;
     var allCorrect = true;
     var answers = document.getElementsByClassName("answer-drop");
-    console.log(answers);
     for (var i = 0; i < answers.length; i++) {
         var img = answers[i].nextElementSibling;
         if (img) {

@@ -1,3 +1,7 @@
+img {
+    -webkit-user-drag: auto;
+}
+
 @font-face {
     font-family: Lato;
     font-style: normal;
@@ -16,11 +20,6 @@
 .-epub-media-overlay-active {
     background-color: #ff9800;
 }
-
-img {
-    -webkit-user-drag: auto;
-}
-
 p {
     margin: 0 0;
 }
@@ -1276,3 +1275,5 @@ table.t2 td.l {
 .height-200 {
     height: 200px;
 }
+
+.target-drop
