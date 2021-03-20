@@ -74,6 +74,7 @@
     <item id="single-choice.js" href="Misc/single-choice.js" media-type="application/javascript"/>
     <item id="tell-a-story.js" href="Misc/tell-a-story.js" media-type="application/javascript"/>
     <item id="true-false.js" href="Misc/true-false.js" media-type="application/javascript"/>
+    <item id="drag-drop-touch.js" href="Misc/drag-drop-touch.js" media-type="application/javascript"/>
     <item id="styles.css" href="Styles/styles.css" media-type="text/css"/>
     <item id="match-color.css" href="Styles/match-color.css" media-type="text/css"/>
     <item id="single-choice.css" href="Styles/single-choice.css" media-type="text/css"/>
@@ -402,7 +403,7 @@
     <item id="img-blue" href="Images/blue.jpg" media-type="image/jpeg"/>
     <item id="img-green" href="Images/green.jpg" media-type="image/jpeg"/>
     <item id="img-red" href="Images/red.jpg" media-type="image/jpeg"/>
-    <item id="cover.jpg" href="image/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
     <item id="img-unit10_page68_01" href="Images/unit10_page68_01.jpg" media-type="image/jpeg"/>
     <item id="img-unit10_page68_02" href="Images/unit10_page68_02.jpg" media-type="image/jpeg"/>
     <item id="img-unit10_page68_03" href="Images/unit10_page68_03.jpg" media-type="image/jpeg"/>
