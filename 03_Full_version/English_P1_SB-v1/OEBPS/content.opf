@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="3.0" unique-identifier="uuid_id" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
-  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>English P1 Accessible Digital Textbook</dc:title>
     <dc:creator id="creator01">REB</dc:creator>
     <meta property="role" refines="#creator01">aut</meta>
     <meta property="file-as" refines="#creator01">REB</meta>
-    <meta property="dcterms:modified">2021-02-03T16:52:20Z</meta>
+    <meta property="dcterms:modified">2021-03-23T18:06:48Z</meta>
     <dc:date>2019</dc:date>
-    <dc:publisher xml:lang="en-us" id="en_publisher">REB</dc:publisher>
+    <dc:publisher id="en_publisher" xml:lang="en-us">REB</dc:publisher>
     <dc:language>en</dc:language>
     <dc:identifier id="uuid_id">N/A</dc:identifier>
     <meta property="identifier-type" refines="#uuid_id">N/A</meta>
-    <dc:rights xml:lang="en" id="en_rights">Copyright © 2019 Rwanda Education Board All rights reserved. This book is the property of Rwanda Education Board. Credit should be given to REB when the source of this book is quoted</dc:rights>
+    <dc:rights id="en_rights" xml:lang="en">Copyright © 2019 Rwanda Education Board All rights reserved. This book is the property of Rwanda Education Board. Credit should be given to REB when the source of this book is quoted</dc:rights>
     <dc:source>Title: English P1 Book, Publisher: REB, Author: REB, Year: 2019, Rwanda</dc:source>
     <meta property="rendition:layout">pre-paginated</meta>
     <meta property="rendition:orientation">portrait</meta>
@@ -83,129 +83,127 @@
     <item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="copyright" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
     <item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
-    <item id="unit01_page01-01" href="Text/unit01_page01-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit01_page01-02" href="Text/unit01_page01-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit01_page02-01" href="Text/unit01_page02-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page02-01.smil"/>
-    <item id="unit01_page02-02" href="Text/unit01_page02-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page02-02.smil"/>
-    <item id="unit01_page03-01" href="Text/unit01_page03-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page03-01.smil"/>
-    <item id="unit01_page03-02" href="Text/unit01_page03-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page03-02.smil"/>
-    <item id="unit01_page04-01" href="Text/unit01_page04-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page04-01.smil"/>
-    <item id="unit01_page04-02" href="Text/unit01_page04-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page04-02.smil"/>
-    <item id="unit01_page05-01" href="Text/unit01_page05-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page05-01.smil"/>
-    <item id="unit01_page05-02" href="Text/unit01_page05-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page05-02.smil"/>
-    <item id="unit01_page06-01" href="Text/unit01_page06-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page06-01.smil"/>
-    <item id="unit01_page06-02" href="Text/unit01_page06-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page06-02.smil"/>
-    <item id="unit01_page07-01" href="Text/unit01_page07-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page07-01.smil"/>
-    <item id="unit01_page07-02" href="Text/unit01_page07-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page07-02.smil"/>
-    <item id="unit02_page08-01" href="Text/unit02_page08-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit02_page08-01.smil"/>
-    <item id="unit02_page08-02" href="Text/unit02_page08-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit02_page08-02.smil"/>
-    <item id="unit02_page09-01" href="Text/unit02_page09-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit02_page09-01.smil"/>
-    <item id="unit02_page09-02" href="Text/unit02_page09-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit02_page09-02.smil"/>
-    <item id="unit02_page10-01" href="Text/unit02_page10-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit02_page10-01.smil"/>
-    <item id="unit02_page10-02" href="Text/unit02_page10-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit02_page10-02.smil"/>
-    <item id="unit02_page11-01" href="Text/unit02_page11-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit02_page11-01.smil"/>
-    <item id="unit02_page12-01" href="Text/unit02_page12-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit02_page12-01.smil"/>
-    <item id="unit02_page13-01" href="Text/unit02_page13-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit02_page13-01.smil"/>
-    <item id="unit02_page13-02" href="Text/unit02_page13-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit02_page13-02.smil"/>
-    <item id="unit02_page14-01" href="Text/unit02_page14-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit02_page14-01.smil"/>
-    <item id="unit02_page14-02" href="Text/unit02_page14-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit02_page14-02.smil"/>
-    <item id="unit03_page15-01" href="Text/unit03_page15-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit03_page15-02" href="Text/unit03_page15-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit03_page16-01" href="Text/unit03_page16-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit03_page16-02" href="Text/unit03_page16-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit03_page17-01" href="Text/unit03_page17-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit03_page18-01" href="Text/unit03_page18-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit03_page18-02" href="Text/unit03_page18-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit03_page19-01" href="Text/unit03_page19-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit03_page19-02" href="Text/unit03_page19-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit04_page20-01" href="Text/unit04_page20-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit04_page20-02" href="Text/unit04_page20-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit04_page21-01" href="Text/unit04_page21-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit04_page21-02" href="Text/unit04_page21-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit04_page22-01" href="Text/unit04_page22-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit04_page22-02" href="Text/unit04_page22-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit04_page23-01" href="Text/unit04_page23-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit04_page23-02" href="Text/unit04_page23-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit04_page24-01" href="Text/unit04_page24-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit04_page24-02" href="Text/unit04_page24-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit04_page25-01" href="Text/unit04_page25-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit04_page26-01" href="Text/unit04_page26-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit04_page27-01" href="Text/unit04_page27-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit04_page27-02" href="Text/unit04_page27-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit04_page28-01" href="Text/unit04_page28-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit05_page29-01" href="Text/unit05_page29-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit05_page30-01" href="Text/unit05_page30-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit05_page30-02" href="Text/unit05_page30-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit05_page31-01" href="Text/unit05_page31-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit05_page31-02" href="Text/unit05_page31-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit05_page32-01" href="Text/unit05_page32-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit05_page33-01" href="Text/unit05_page33-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit05_page33-02" href="Text/unit05_page33-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit05_page34-01" href="Text/unit05_page34-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit05_page35-01" href="Text/unit05_page35-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit05_page35-02" href="Text/unit05_page35-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit05_page36-01" href="Text/unit05_page36-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit06_page37-01" href="Text/unit06_page37-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit06_page37-02" href="Text/unit06_page37-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit06_page38-01" href="Text/unit06_page38-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit06_page38-02" href="Text/unit06_page38-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit06_page39-01" href="Text/unit06_page39-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit06_page39-02" href="Text/unit06_page39-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit06_page40-01" href="Text/unit06_page40-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit06_page40-02" href="Text/unit06_page40-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit06_page41-01" href="Text/unit06_page41-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit06_page41-02" href="Text/unit06_page41-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit06_page42-01" href="Text/unit06_page42-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit06_page42-02" href="Text/unit06_page42-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit06_page43-01" href="Text/unit06_page43-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit06_page43-02" href="Text/unit06_page43-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit06_page44-01" href="Text/unit06_page44-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit06_page44-02" href="Text/unit06_page44-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit07_page45-01" href="Text/unit07_page45-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit07_page45-02" href="Text/unit07_page45-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit07_page46-01" href="Text/unit07_page46-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit07_page47-01" href="Text/unit07_page47-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit07_page48-01" href="Text/unit07_page48-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit07_page49-01" href="Text/unit07_page49-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit07_page50-01" href="Text/unit07_page50-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit07_page51-01" href="Text/unit07_page51-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit07_page51-02" href="Text/unit07_page51-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit08_page52-01" href="Text/unit08_page52-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit08_page52-02" href="Text/unit08_page52-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit08_page53-01" href="Text/unit08_page53-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit08_page54-01" href="Text/unit08_page54-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit08_page54-02" href="Text/unit08_page54-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit08_page55-01" href="Text/unit08_page55-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit08_page55-02" href="Text/unit08_page55-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit08_page56-01" href="Text/unit08_page56-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit08_page56-02" href="Text/unit08_page56-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit08_page57-01" href="Text/unit08_page57-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit08_page57-02" href="Text/unit08_page57-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit09_page58-01" href="Text/unit09_page58-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit09_page58-02" href="Text/unit09_page58-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit09_page59-01" href="Text/unit09_page59-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit09_page59-02" href="Text/unit09_page59-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit09_page60-01" href="Text/unit09_page60-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit09_page61-01" href="Text/unit09_page61-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit09_page62-01" href="Text/unit09_page62-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit09_page63-01" href="Text/unit09_page63-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit09_page64-01" href="Text/unit09_page64-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit09_page65-01" href="Text/unit09_page65-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit09_page65-02" href="Text/unit09_page65-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit09_page66-01" href="Text/unit09_page66-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit09_page66-02" href="Text/unit09_page66-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit09_page67-01" href="Text/unit09_page67-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit09_page67-02" href="Text/unit09_page67-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit10_page68-01" href="Text/unit10_page68-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit10_page68-02" href="Text/unit10_page68-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit10_page69-01" href="Text/unit10_page69-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
-    <item id="unit10_page69-02" href="Text/unit10_page69-02.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-02.smil"/>
-    <item id="unit10_page70-01" href="Text/unit10_page70-01.xhtml" media-type="application/xhtml+xml" properties="scripted" media-overlay="unit01_page01-01.smil"/>
+    <item id="unit01_page01-01" href="Text/unit01_page01-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit01_page01-02" href="Text/unit01_page01-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit01_page02-01" href="Text/unit01_page02-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page02-01.smil" properties="scripted"/>
+    <item id="unit01_page02-02" href="Text/unit01_page02-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page02-02.smil" properties="scripted"/>
+    <item id="unit01_page03-01" href="Text/unit01_page03-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page03-01.smil" properties="scripted"/>
+    <item id="unit01_page03-02" href="Text/unit01_page03-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page03-02.smil" properties="scripted"/>
+    <item id="unit01_page04-01" href="Text/unit01_page04-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page04-01.smil" properties="scripted"/>
+    <item id="unit01_page04-02" href="Text/unit01_page04-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page04-02.smil" properties="scripted"/>
+    <item id="unit01_page05-01" href="Text/unit01_page05-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page05-01.smil" properties="scripted"/>
+    <item id="unit01_page05-02" href="Text/unit01_page05-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page05-02.smil" properties="scripted"/>
+    <item id="unit01_page06-01" href="Text/unit01_page06-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page06-01.smil" properties="scripted"/>
+    <item id="unit01_page06-02" href="Text/unit01_page06-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page06-02.smil" properties="scripted"/>
+    <item id="unit01_page07-01" href="Text/unit01_page07-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page07-01.smil" properties="scripted"/>
+    <item id="unit01_page07-02" href="Text/unit01_page07-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page07-02.smil" properties="scripted"/>
+    <item id="unit02_page08-01" href="Text/unit02_page08-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit02_page08-01.smil" properties="scripted"/>
+    <item id="unit02_page08-02" href="Text/unit02_page08-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit02_page08-02.smil" properties="scripted"/>
+    <item id="unit02_page09-01" href="Text/unit02_page09-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit02_page09-01.smil" properties="scripted"/>
+    <item id="unit02_page09-02" href="Text/unit02_page09-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit02_page09-02.smil" properties="scripted"/>
+    <item id="unit02_page10-01" href="Text/unit02_page10-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit02_page10-01.smil" properties="scripted"/>
+    <item id="unit02_page10-02" href="Text/unit02_page10-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit02_page10-02.smil" properties="scripted"/>
+    <item id="unit02_page11-01" href="Text/unit02_page11-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit02_page11-01.smil" properties="scripted"/>
+    <item id="unit02_page12-01" href="Text/unit02_page12-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit02_page12-01.smil" properties="scripted"/>
+    <item id="unit02_page13-01" href="Text/unit02_page13-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit02_page13-01.smil" properties="scripted"/>
+    <item id="unit02_page13-02" href="Text/unit02_page13-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit02_page13-02.smil" properties="scripted"/>
+    <item id="unit02_page14-01" href="Text/unit02_page14-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit02_page14-01.smil" properties="scripted"/>
+    <item id="unit02_page14-02" href="Text/unit02_page14-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit02_page14-02.smil" properties="scripted"/>
+    <item id="unit03_page15-01" href="Text/unit03_page15-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit03_page15-02" href="Text/unit03_page15-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit03_page16-01" href="Text/unit03_page16-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit03_page16-02" href="Text/unit03_page16-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit03_page17-01" href="Text/unit03_page17-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit03_page18-01" href="Text/unit03_page18-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit03_page18-02" href="Text/unit03_page18-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit03_page19-01" href="Text/unit03_page19-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit03_page19-02" href="Text/unit03_page19-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit04_page20-01" href="Text/unit04_page20-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit04_page20-02" href="Text/unit04_page20-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit04_page21-01" href="Text/unit04_page21-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit04_page21-02" href="Text/unit04_page21-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit04_page22-01" href="Text/unit04_page22-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit04_page22-02" href="Text/unit04_page22-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit04_page23-01" href="Text/unit04_page23-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit04_page23-02" href="Text/unit04_page23-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit04_page24-01" href="Text/unit04_page24-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit04_page24-02" href="Text/unit04_page24-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit04_page25-01" href="Text/unit04_page25-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit04_page26-01" href="Text/unit04_page26-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit04_page27-01" href="Text/unit04_page27-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit04_page27-02" href="Text/unit04_page27-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit04_page28-01" href="Text/unit04_page28-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit05_page29-01" href="Text/unit05_page29-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit05_page30-01" href="Text/unit05_page30-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit05_page30-02" href="Text/unit05_page30-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit05_page31-01" href="Text/unit05_page31-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit05_page31-02" href="Text/unit05_page31-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit05_page32-01" href="Text/unit05_page32-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit05_page33-01" href="Text/unit05_page33-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit05_page33-02" href="Text/unit05_page33-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit05_page34-01" href="Text/unit05_page34-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit05_page35-01" href="Text/unit05_page35-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit05_page35-02" href="Text/unit05_page35-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit05_page36-01" href="Text/unit05_page36-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit06_page37-01" href="Text/unit06_page37-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit06_page37-02" href="Text/unit06_page37-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit06_page38-01" href="Text/unit06_page38-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit06_page38-02" href="Text/unit06_page38-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit06_page39-01" href="Text/unit06_page39-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit06_page39-02" href="Text/unit06_page39-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit06_page40-01" href="Text/unit06_page40-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit06_page40-02" href="Text/unit06_page40-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit06_page41-01" href="Text/unit06_page41-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit06_page41-02" href="Text/unit06_page41-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit06_page42-01" href="Text/unit06_page42-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit06_page42-02" href="Text/unit06_page42-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit06_page43-01" href="Text/unit06_page43-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit06_page43-02" href="Text/unit06_page43-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit06_page44-01" href="Text/unit06_page44-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit06_page44-02" href="Text/unit06_page44-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit07_page45-01" href="Text/unit07_page45-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit07_page45-02" href="Text/unit07_page45-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit07_page46-01" href="Text/unit07_page46-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit07_page47-01" href="Text/unit07_page47-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit07_page48-01" href="Text/unit07_page48-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit07_page49-01" href="Text/unit07_page49-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit07_page50-01" href="Text/unit07_page50-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit07_page51-01" href="Text/unit07_page51-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit07_page51-02" href="Text/unit07_page51-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit08_page52-01" href="Text/unit08_page52-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit08_page52-02" href="Text/unit08_page52-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit08_page53-01" href="Text/unit08_page53-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit08_page54-01" href="Text/unit08_page54-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit08_page54-02" href="Text/unit08_page54-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit08_page55-01" href="Text/unit08_page55-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit08_page55-02" href="Text/unit08_page55-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit08_page56-01" href="Text/unit08_page56-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit08_page56-02" href="Text/unit08_page56-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit08_page57-01" href="Text/unit08_page57-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit08_page57-02" href="Text/unit08_page57-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit09_page58-01" href="Text/unit09_page58-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit09_page58-02" href="Text/unit09_page58-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit09_page59-01" href="Text/unit09_page59-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit09_page59-02" href="Text/unit09_page59-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit09_page60-01" href="Text/unit09_page60-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit09_page61-01" href="Text/unit09_page61-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit09_page62-01" href="Text/unit09_page62-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit09_page63-01" href="Text/unit09_page63-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit09_page64-01" href="Text/unit09_page64-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit09_page65-01" href="Text/unit09_page65-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit09_page65-02" href="Text/unit09_page65-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit09_page66-01" href="Text/unit09_page66-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit09_page66-02" href="Text/unit09_page66-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit09_page67-01" href="Text/unit09_page67-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit09_page67-02" href="Text/unit09_page67-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit10_page68-01" href="Text/unit10_page68-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit10_page68-02" href="Text/unit10_page68-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit10_page69-01" href="Text/unit10_page69-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
+    <item id="unit10_page69-02" href="Text/unit10_page69-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
+    <item id="unit10_page70-01" href="Text/unit10_page70-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-01.smil" properties="scripted"/>
     <item id="arm.mp4" href="Video/arm.mp4" media-type="video/mp4"/>
-    <item id="bag.mp4" href="Video/bag.mp4" media-type="video/mp4"/>
     <item id="bark.mp4" href="Video/bark.mp4" media-type="video/mp4"/>
     <item id="bed.mp4" href="Video/bed.mp4" media-type="video/mp4"/>
-    <item id="bedroom.mp4" href="Video/bedroom.mp4" media-type="video/mp4"/>
     <item id="bleet.mp4" href="Video/bleet.mp4" media-type="video/mp4"/>
     <item id="blue.mp4" href="Video/blue.mp4" media-type="video/mp4"/>
     <item id="book.mp4" href="Video/book.mp4" media-type="video/mp4"/>
@@ -216,26 +214,20 @@
     <item id="chair.mp4" href="Video/chair.mp4" media-type="video/mp4"/>
     <item id="chest.mp4" href="Video/chest.mp4" media-type="video/mp4"/>
     <item id="chickens.mp4" href="Video/chickens.mp4" media-type="video/mp4"/>
-    <item id="clothes.mp4" href="Video/clothes.mp4" media-type="video/mp4"/>
     <item id="cluck.mp4" href="Video/cluck.mp4" media-type="video/mp4"/>
     <item id="count.mp4" href="Video/count.mp4" media-type="video/mp4"/>
     <item id="cow.mp4" href="Video/cow.mp4" media-type="video/mp4"/>
-    <item id="cupboard.mp4" href="Video/cupboard.mp4" media-type="video/mp4"/>
-    <item id="desk.mp4" href="Video/desk.mp4" media-type="video/mp4"/>
     <item id="dog.mp4" href="Video/dog.mp4" media-type="video/mp4"/>
     <item id="donkey.mp4" href="Video/donkey.mp4" media-type="video/mp4"/>
     <item id="elbow.mp4" href="Video/elbow.mp4" media-type="video/mp4"/>
     <item id="eyes.mp4" href="Video/eyes.mp4" media-type="video/mp4"/>
-    <item id="family.mp4" href="Video/family.mp4" media-type="video/mp4"/>
     <item id="father.mp4" href="Video/father.mp4" media-type="video/mp4"/>
     <item id="favourite.mp4" href="Video/favourite.mp4" media-type="video/mp4"/>
     <item id="finger.mp4" href="Video/finger.mp4" media-type="video/mp4"/>
-    <item id="food.mp4" href="Video/food.mp4" media-type="video/mp4"/>
     <item id="foot.mp4" href="Video/foot.mp4" media-type="video/mp4"/>
     <item id="good_afternoon.mp4" href="Video/good_afternoon.mp4" media-type="video/mp4"/>
     <item id="good_evening.mp4" href="Video/good_evening.mp4" media-type="video/mp4"/>
     <item id="good_morning.mp4" href="Video/good_morning.mp4" media-type="video/mp4"/>
-    <item id="graph.mp4" href="Video/graph.mp4" media-type="video/mp4"/>
     <item id="grass.mp4" href="Video/grass.mp4" media-type="video/mp4"/>
     <item id="green.mp4" href="Video/green.mp4" media-type="video/mp4"/>
     <item id="hair.mp4" href="Video/hair.mp4" media-type="video/mp4"/>
@@ -247,7 +239,6 @@
     <item id="meat.mp4" href="Video/meat.mp4" media-type="video/mp4"/>
     <item id="meow.mp4" href="Video/meow.mp4" media-type="video/mp4"/>
     <item id="moo.mp4" href="Video/moo.mp4" media-type="video/mp4"/>
-    <item id="mosquito_net.mp4" href="Video/mosquito_net.mp4" media-type="video/mp4"/>
     <item id="mother.mp4" href="Video/mother.mp4" media-type="video/mp4"/>
     <item id="mouth.mp4" href="Video/mouth.mp4" media-type="video/mp4"/>
     <item id="nose.mp4" href="Video/nose.mp4" media-type="video/mp4"/>
@@ -256,14 +247,12 @@
     <item id="people.mp4" href="Video/people.mp4" media-type="video/mp4"/>
     <item id="rabbit.mp4" href="Video/rabbit.mp4" media-type="video/mp4"/>
     <item id="red.mp4" href="Video/red.mp4" media-type="video/mp4"/>
-    <item id="school.mp4" href="Video/school.mp4" media-type="video/mp4"/>
     <item id="shoes.mp4" href="Video/shoes.mp4" media-type="video/mp4"/>
     <item id="shorts.mp4" href="Video/shorts.mp4" media-type="video/mp4"/>
     <item id="sister.mp4" href="Video/sister.mp4" media-type="video/mp4"/>
     <item id="socks.mp4" href="Video/socks.mp4" media-type="video/mp4"/>
     <item id="sorghum.mp4" href="Video/sorghum.mp4" media-type="video/mp4"/>
     <item id="sound.mp4" href="Video/sound.mp4" media-type="video/mp4"/>
-    <item id="stomach.mp4" href="Video/stomach.mp4" media-type="video/mp4"/>
     <item id="table.mp4" href="Video/table.mp4" media-type="video/mp4"/>
     <item id="teacher.mp4" href="Video/teacher.mp4" media-type="video/mp4"/>
     <item id="teeth.mp4" href="Video/teeth.mp4" media-type="video/mp4"/>
@@ -282,7 +271,6 @@
     <item id="unit01_page04-02.mp4" href="Video/unit01_page04-02.mp4" media-type="video/mp4"/>
     <item id="unit01_page05-01.mp4" href="Video/unit01_page05-01.mp4" media-type="video/mp4"/>
     <item id="unit01_page05-02.mp4" href="Video/unit01_page05-02.mp4" media-type="video/mp4"/>
-    <item id="unit01_page06-01.mp4" href="Video/unit01_page06-01.mp4" media-type="video/mp4"/>
     <item id="unit01_page06-02.mp4" href="Video/unit01_page06-02.mp4" media-type="video/mp4"/>
     <item id="unit01_page07-01.mp4" href="Video/unit01_page07-01.mp4" media-type="video/mp4"/>
     <item id="unit01_page07-02.mp4" href="Video/unit01_page07-02.mp4" media-type="video/mp4"/>
@@ -757,6 +745,32 @@
     <item id="unit02_page13-02.smil" href="Misc/unit02_page13-02.smil" media-type="application/smil+xml"/>
     <item id="unit02_page14-01.smil" href="Misc/unit02_page14-01.smil" media-type="application/smil+xml"/>
     <item id="unit02_page14-02.smil" href="Misc/unit02_page14-02.smil" media-type="application/smil+xml"/>
+    <item id="unit2-6_image.jpg" href="Images/unit2-6_image.jpg" media-type="image/jpeg"/>
+    <item id="unit07_page49_01.mp4" href="Video/unit07_page49_01.mp4" media-type="video/mp4"/>
+    <item id="unit09_page61-02.mp4" href="Video/unit09_page61-02.mp4" media-type="video/mp4"/>
+    <item id="unit09_page62-02.mp4" href="Video/unit09_page62-02.mp4" media-type="video/mp4"/>
+    <item id="unit09_page64-02.mp4" href="Video/unit09_page64-02.mp4" media-type="video/mp4"/>
+    <item id="bag.mp4" href="Video/bag.mp4" media-type="video/mp4"/>
+    <item id="ball.mp4" href="Video/ball.mp4" media-type="video/mp4"/>
+    <item id="bedroom.mp4" href="Video/bedroom.mp4" media-type="video/mp4"/>
+    <item id="clock.mp4" href="Video/clock.mp4" media-type="video/mp4"/>
+    <item id="clothes.mp4" href="Video/clothes.mp4" media-type="video/mp4"/>
+    <item id="counting.mp4" href="Video/counting.mp4" media-type="video/mp4"/>
+    <item id="cupboard.mp4" href="Video/cupboard.mp4" media-type="video/mp4"/>
+    <item id="desk.mp4" href="Video/desk.mp4" media-type="video/mp4"/>
+    <item id="family.mp4" href="Video/family.mp4" media-type="video/mp4"/>
+    <item id="food.mp4" href="Video/food.mp4" media-type="video/mp4"/>
+    <item id="graph.mp4" href="Video/graph.mp4" media-type="video/mp4"/>
+    <item id="handkerchief.mp4" href="Video/handkerchief.mp4" media-type="video/mp4"/>
+    <item id="mosquito_net.mp4" href="Video/mosquito_net.mp4" media-type="video/mp4"/>
+    <item id="school.mp4" href="Video/school.mp4" media-type="video/mp4"/>
+    <item id="stomach.mp4" href="Video/stomach.mp4" media-type="video/mp4"/>
+    <item id="x8a1f12ca-d04e-4053-a870-5caac1e4bde2" href="Video/vegetables.mp4" media-type="video/mp4"/>
+    <item id="unit01_page06-01.mp4" href="Video/unit01_page06-01.mp4" media-type="video/mp4"/>
+    <item id="xa61bd7c4-b1c6-4416-97bd-fe51bc24e08a" href="Video/unit01_page06-02.mp4" media-type="video/mp4"/>
+    <item id="x247c0657-13aa-4ab7-a5ff-6629a33498e1" href="Video/unit04_page21-02.mp4" media-type="video/mp4"/>
+    <item id="x12eb6670-6abc-4e40-a3bb-a14bdbdca8c8" href="Video/unit04_page22-02.mp4" media-type="video/mp4"/>
+    <item id="xa4274347-0f94-4b12-84fe-fcad711e0cbe" href="Video/unit06_page43-02.mp4" media-type="video/mp4"/>
   </manifest>
   <spine>
     <itemref idref="cover"/>

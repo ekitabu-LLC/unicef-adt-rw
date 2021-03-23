@@ -34,7 +34,7 @@ function drag(ev) {
 function drop(ev) {
     ev.preventDefault();
     //Attach number of draggable items
-    var numOfQeustions = document.getElementsByClassName("drop-zone").length
+    var numOfQeustions = document.getElementsByClassName("drop-zone").length;
     var answeredQuestions = 0;
     var data = ev.dataTransfer.getData("imgId");
     if (ev.target.tagName == "p") {
