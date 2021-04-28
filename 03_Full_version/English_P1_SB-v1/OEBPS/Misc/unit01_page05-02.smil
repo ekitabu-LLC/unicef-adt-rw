@@ -1,44 +1,49 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops"><body><seq epub:textref="../Text/unit01_page05-02.xhtml" id="seq000001"><par id="par000001"><text src="../Text/unit01_page05-02.xhtml#s001"/>
-<audio clipBegin="00:00:00.000" clipEnd="00:00:02.280" src="../Sounds/unit01_page05-02.mp3"/>
+<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops"><body><seq epub:textref="../Text/unit01_page05-02.xhtml" id="seq000001">
+
+<par id="par000001"><text src="../Text/unit01_page05-02.xhtml#img001"/>
+<audio clipBegin="00:00:00.000" clipEnd="00:00:10.111" src="../Sounds/unit01_page05-02-img.mp3"/>
 </par>
-<par id="par000002"><text src="../Text/unit01_page05-02.xhtml#s002"/>
-<audio clipBegin="00:00:02.280" clipEnd="00:00:04.680" src="../Sounds/unit01_page05-02.mp3"/>
+<par id="par000002"><text src="../Text/unit01_page05-02.xhtml#s001"/>
+<audio clipBegin="00:00:00.000" clipEnd="00:00:06.557" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
-<par id="par000003"><text src="../Text/unit01_page05-02.xhtml#s003"/>
-<audio clipBegin="00:00:04.680" clipEnd="00:00:06.560" src="../Sounds/unit01_page05-02.mp3"/>
+<par id="par000003"><text src="../Text/unit01_page05-02.xhtml#s002"/>
+<audio clipBegin="00:00:06.557" clipEnd="00:00:06.741" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
-<par id="par000004"><text src="../Text/unit01_page05-02.xhtml#s004"/>
-<audio clipBegin="00:00:06.560" clipEnd="00:00:08.600" src="../Sounds/unit01_page05-02.mp3"/>
+<par id="par000004"><text src="../Text/unit01_page05-02.xhtml#s003"/>
+<audio clipBegin="00:00:06.741" clipEnd="00:00:06.924" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
-<par id="par000005"><text src="../Text/unit01_page05-02.xhtml#s005"/>
-<audio clipBegin="00:00:08.600" clipEnd="00:00:10.480" src="../Sounds/unit01_page05-02.mp3"/>
+<par id="par000005"><text src="../Text/unit01_page05-02.xhtml#s004"/>
+<audio clipBegin="00:00:06.924" clipEnd="00:00:08.000" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
-<par id="par000006"><text src="../Text/unit01_page05-02.xhtml#s006"/>
+<par id="par000006"><text src="../Text/unit01_page05-02.xhtml#s005"/>
+<audio clipBegin="00:00:08.000" clipEnd="00:00:10.480" src="../Sounds/unit01_page05-02.mp3"/>
+</par>
+<par id="par000007"><text src="../Text/unit01_page05-02.xhtml#s006"/>
 <audio clipBegin="00:00:10.480" clipEnd="00:00:10.880" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
-<par id="par000007"><text src="../Text/unit01_page05-02.xhtml#s007"/>
+<par id="par000008"><text src="../Text/unit01_page05-02.xhtml#s007"/>
 <audio clipBegin="00:00:10.880" clipEnd="00:00:11.200" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
-<par id="par000008"><text src="../Text/unit01_page05-02.xhtml#s008"/>
+<par id="par000009"><text src="../Text/unit01_page05-02.xhtml#s008"/>
 <audio clipBegin="00:00:11.200" clipEnd="00:00:11.680" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
-<par id="par000009"><text src="../Text/unit01_page05-02.xhtml#s009"/>
+<par id="par000010"><text src="../Text/unit01_page05-02.xhtml#s009"/>
 <audio clipBegin="00:00:11.680" clipEnd="00:00:13.160" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
-<par id="par000010"><text src="../Text/unit01_page05-02.xhtml#s010"/>
+<par id="par000011"><text src="../Text/unit01_page05-02.xhtml#s010"/>
 <audio clipBegin="00:00:13.160" clipEnd="00:00:13.320" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
-<par id="par000011"><text src="../Text/unit01_page05-02.xhtml#s011"/>
+<par id="par000012"><text src="../Text/unit01_page05-02.xhtml#s011"/>
 <audio clipBegin="00:00:13.320" clipEnd="00:00:13.960" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
-<par id="par000012"><text src="../Text/unit01_page05-02.xhtml#s012"/>
+<par id="par000013"><text src="../Text/unit01_page05-02.xhtml#s012"/>
 <audio clipBegin="00:00:13.960" clipEnd="00:00:14.440" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
-<par id="par000013"><text src="../Text/unit01_page05-02.xhtml#s013"/>
+<par id="par000014"><text src="../Text/unit01_page05-02.xhtml#s013"/>
 <audio clipBegin="00:00:14.440" clipEnd="00:00:15.080" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
-<par id="par000014"><text src="../Text/unit01_page05-02.xhtml#s014"/>
+<par id="par000015"><text src="../Text/unit01_page05-02.xhtml#s014"/>
 <audio clipBegin="00:00:15.080" clipEnd="00:00:15.400" src="../Sounds/unit01_page05-02.mp3"/>
 </par>
 </seq>
