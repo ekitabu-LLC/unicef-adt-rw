@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops"><body><seq epub:textref="../Text/unit02_page13-01.xhtml" id="seq000001"><par id="par000001"><text src="../Text/unit02_page13-01.xhtml#s001"/>
+<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops"><body><seq epub:textref="../Text/unit02_page13-01.xhtml" id="seq000001">
+
+
+<par id="par000001"><text src="../Text/unit02_page13-01.xhtml#img001"/>
+<audio clipBegin="00:00:00.000" clipEnd="00:00:01.280" src="../Sounds/unit02_page13-01.mp3"/>
+</par>
+
+<par id="par000001"><text src="../Text/unit02_page13-01.xhtml#img002"/>
+<audio clipBegin="00:00:00.000" clipEnd="00:00:01.280" src="../Sounds/unit02_page13-01.mp3"/>
+</par>
+
+
+
+
+
+<par id="par000001"><text src="../Text/unit02_page13-01.xhtml#s001"/>
 <audio clipBegin="00:00:00.000" clipEnd="00:00:01.280" src="../Sounds/unit02_page13-01.mp3"/>
 </par>
 <par id="par000002"><text src="../Text/unit02_page13-01.xhtml#s002"/>
