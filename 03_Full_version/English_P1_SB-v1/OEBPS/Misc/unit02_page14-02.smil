@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops"><body><seq epub:textref="../Text/unit02_page14-02.xhtml" id="seq000001"><par id="par000001"><text src="../Text/unit02_page14-02.xhtml#s001"/>
+<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops">
+<body>
+<par id="par000001"><text src="../Text/unit02_page14-02.xhtml#s001"/>
 <audio clipBegin="00:00:00.000" clipEnd="00:00:00.760" src="../Sounds/unit02_page14-02.mp3"/>
 </par>
 <par id="par000002"><text src="../Text/unit02_page14-02.xhtml#s002"/>
@@ -41,6 +43,5 @@
 <par id="par000014"><text src="../Text/unit02_page14-02.xhtml#s014"/>
 <audio clipBegin="00:00:39.640" clipEnd="00:00:42.040" src="../Sounds/unit02_page14-02.mp3"/>
 </par>
-</seq>
 </body>
 </smil>
