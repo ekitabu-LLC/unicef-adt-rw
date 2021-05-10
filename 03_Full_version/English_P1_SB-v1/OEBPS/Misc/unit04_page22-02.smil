@@ -1,6 +1,5 @@
 <smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
   <body>
-    <seq id="seq000001" epub:textref="../Text/unit04_page22-02.xhtml">
       <par id="par000001">
         <text src="../Text/unit04_page22-02.xhtml#s001"/>
         <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:00.000" clipEnd="00:00:10.480"/>
@@ -37,6 +36,5 @@
         <text src="../Text/unit04_page22-02.xhtml#s009"/>
         <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:28.080" clipEnd="00:00:31.040"/>
       </par>
-    </seq>
   </body>
 </smil>
