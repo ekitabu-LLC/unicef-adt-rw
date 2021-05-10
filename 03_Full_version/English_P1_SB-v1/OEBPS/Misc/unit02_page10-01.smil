@@ -10,6 +10,9 @@
 <par id="par000003"><text src="../Text/unit02_page10-01.xhtml#s003"/>
 <audio clipBegin="00:00:01.159" clipEnd="00:00:02.473" src="../Sounds/unit02_page10-01.mp3"/>
 </par>
+<par id="par000004"><text src="../Text/unit02_page10-01.xhtml#img001"/>
+<audio clipBegin="00:00:00.000" clipEnd="00:00:09.884" src="../Sounds/unit02_page10-01-img-1.mp3"/>
+</par>
 <par id="par000005"><text src="../Text/unit02_page10-01.xhtml#s004"/>
 <audio clipBegin="00:00:02.473" clipEnd="00:00:07.280" src="../Sounds/unit02_page10-01.mp3"/>
 </par>
@@ -39,6 +42,9 @@
 </par>
 <par id="par000014"><text src="../Text/unit02_page10-01.xhtml#s013"/>
 <audio clipBegin="00:00:11.285" clipEnd="00:00:12.290" src="../Sounds/unit02_page10-01.mp3"/>
+</par>
+<par id="par000015"><text src="../Text/unit02_page10-01.xhtml#img002"/>
+<audio clipBegin="00:00:00.000" clipEnd="00:00:22.520" src="../Sounds/unit02_page10-01-img-2.mp3"/>
 </par>
 <par id="par000016"><text src="../Text/unit02_page10-01.xhtml#s014"/>
 <audio clipBegin="00:00:12.290" clipEnd="00:00:19.080" src="../Sounds/unit02_page10-01.mp3"/>
