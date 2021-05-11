@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops">
 <body>
+<par id="par000001"><text src="../Text/unit01_page05-01.xhtml#img001"/>
+<audio clipBegin="00:00:32.698" clipEnd="00:00:51.077" src="../Sounds/unit01_page05-01.mp3"/>
+</par>
 <par id="par000002"><text src="../Text/unit01_page05-01.xhtml#s001"/>
 <audio clipBegin="00:00:00.000" clipEnd="00:00:06.200" src="../Sounds/unit01_page05-01.mp3"/>
 </par>
