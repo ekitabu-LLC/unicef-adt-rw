@@ -46,11 +46,7 @@
       </par>
       <par id="par000010">
         <text src="../Text/unit03_page18-01.xhtml#s027"/>
-        <audio src="../Sounds/unit03_page18-01.mp3" clipBegin="00:00:27.760" clipEnd="00:00:27.760"/>
-      </par>
-      <par id="par000011">
-        <text src="../Text/unit03_page18-01.xhtml#s028"/>
-        <audio src="../Sounds/unit03_page18-01.mp3" clipBegin="00:00:27.760" clipEnd="00:00:28.600"/>
+        <audio src="../Sounds/unit03_page18-01.mp3" clipBegin="00:00:27.760" clipEnd="00:00:27.860"/>
       </par>
   </body>
 </smil>

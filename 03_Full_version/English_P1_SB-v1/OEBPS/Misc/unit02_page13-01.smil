@@ -2,11 +2,11 @@
 <smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops">
 <body>
 
-<par id="par000001"><text src="../Text/unit02_page13-01.xhtml#img001"/>
+<par id="par000022"><text src="../Text/unit02_page13-01.xhtml#img001"/>
 <audio clipBegin="00:00:00.000" clipEnd="00:00:01.280" src="../Sounds/unit02_page13-01.mp3"/>
 </par>
 
-<par id="par000001"><text src="../Text/unit02_page13-01.xhtml#img002"/>
+<par id="par000023"><text src="../Text/unit02_page13-01.xhtml#img002"/>
 <audio clipBegin="00:00:00.000" clipEnd="00:00:01.280" src="../Sounds/unit02_page13-01.mp3"/>
 </par>
 
