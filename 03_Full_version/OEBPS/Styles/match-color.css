@@ -1,0 +1,46 @@
+img {
+    -webkit-user-drag: auto;
+}
+
+.target-drop {
+    border: 1px solid black;
+    width: 200px;
+    height: 120px;
+    position: relative;
+}
+
+.target-drop p {
+    color: black;
+    font-size: 40px;
+    width: 100%;
+    position: absolute;
+    text-align: center;
+
+}
+
+.target-drop img {
+    opacity: 0.8;
+}
+
+.drop-zone {
+    border: 1px solid grey;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.mark-class {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    display: none;
+}
+
+.mark-class.answered {
+    display: inline;
+}
+
+td {
+    width: 50%;
+    vertical-align: center;
+}

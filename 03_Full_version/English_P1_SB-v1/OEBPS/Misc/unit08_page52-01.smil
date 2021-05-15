@@ -1,0 +1,68 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+      <par id="par000001">
+        <text src="../Text/unit08_page52-01.xhtml#s001"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:00.000" clipEnd="00:00:01.400"/>
+      </par>
+      <par id="par000002">
+        <text src="../Text/unit08_page52-01.xhtml#s002"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:01.400" clipEnd="00:00:03.920"/>
+      </par>
+      <par id="par000003">
+        <text src="../Text/unit08_page52-01.xhtml#s003"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:03.920" clipEnd="00:00:04.560"/>
+      </par>
+      <par id="par000004">
+        <text src="../Text/unit08_page52-01.xhtml#s004"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:04.560" clipEnd="00:00:04.880"/>
+      </par>
+      <par id="par000005">
+        <text src="../Text/unit08_page52-01.xhtml#s005"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:04.880" clipEnd="00:00:06.756"/>
+      </par>
+      <par id="img001">
+        <text src="../Text/unit08_page52-01.xhtml#img001"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:06.756" clipEnd="00:00:30.643"/>
+      </par>
+      <par id="par000006">
+        <text src="../Text/unit08_page52-01.xhtml#s006"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:30.643" clipEnd="00:00:33.120"/>
+      </par>
+      <par id="par000007">
+        <text src="../Text/unit08_page52-01.xhtml#s007"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:33.120" clipEnd="00:00:33.840"/>
+      </par>
+      <par id="par000008">
+        <text src="../Text/unit08_page52-01.xhtml#s008"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:33.840" clipEnd="00:00:34.000"/>
+      </par>
+      <par id="par000009">
+        <text src="../Text/unit08_page52-01.xhtml#s009"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:34.000" clipEnd="00:00:34.320"/>
+      </par>
+      <par id="par000010">
+        <text src="../Text/unit08_page52-01.xhtml#s010"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:34.320" clipEnd="00:00:37.440"/>
+      </par>
+      <par id="par000011">
+        <text src="../Text/unit08_page52-01.xhtml#s011"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:37.440" clipEnd="00:00:37.720"/>
+      </par>
+      <par id="par000012">
+        <text src="../Text/unit08_page52-01.xhtml#s012"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:37.720" clipEnd="00:00:38.120"/>
+      </par>
+      <par id="par000013">
+        <text src="../Text/unit08_page52-01.xhtml#s013"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:38.120" clipEnd="00:00:38.320"/>
+      </par>
+      <par id="par000014">
+        <text src="../Text/unit08_page52-01.xhtml#s014"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:38.320" clipEnd="00:00:38.760"/>
+      </par>
+      <par id="par000015">
+        <text src="../Text/unit08_page52-01.xhtml#s015"/>
+        <audio src="../Sounds/unit08_page52-01.mp3" clipBegin="00:00:38.760" clipEnd="00:00:40.960"/>
+      </par>
+  </body>
+</smil>
