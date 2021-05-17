@@ -5,7 +5,7 @@
     <dc:creator id="creator01">REB</dc:creator>
     <meta property="role" refines="#creator01">aut</meta>
     <meta property="file-as" refines="#creator01">REB</meta>
-    <meta property="dcterms:modified">2021-05-11T13:53:22Z</meta>
+    <meta property="dcterms:modified">2021-05-17T19:29:55Z</meta>
     <dc:date>2019</dc:date>
     <dc:publisher id="en_publisher" xml:lang="en-us">REB</dc:publisher>
     <dc:language>en</dc:language>
@@ -103,7 +103,7 @@
     <meta property="media:duration" refines="#unit06_page43-02.smil">00:00:51.240</meta>
     <meta property="media:duration" refines="#unit06_page44-01.smil">00:00:41.400</meta>
     <meta property="media:duration" refines="#unit06_page44-02.smil">00:02:32.040</meta>
-    <meta content="1.4.1" name="Sigil version"/>
+    <meta content="1.3.0" name="Sigil version" />
   </metadata>
   <manifest>
     <item id="jquery3.5.1.js" href="Misc/jquery3.5.1.js" media-type="application/javascript"/>
@@ -590,20 +590,11 @@
     <item id="fill-in-blank.css" href="Styles/fill-in-blank.css" media-type="text/css"/>
     <item id="nice-select.css" href="Styles/nice-select.css" media-type="text/css"/>
     <item id="unit02_page08-01.mp3" href="Sounds/unit02_page08-01.mp3" media-type="audio/mpeg"/>
-    <item id="unit02_page08-01-img-1.mp3" href="Sounds/unit02_page08-01-img-1.mp3" media-type="audio/mpeg"/>
-    <item id="unit02_page08-01-img-2.mp3" href="Sounds/unit02_page08-01-img-2.mp3" media-type="audio/mpeg"/>
     <item id="unit02_page08-02.mp3" href="Sounds/unit02_page08-02.mp3" media-type="audio/mpeg"/>
-    <item id="unit02_page08-02-img.mp3" href="Sounds/unit02_page08-02-img.mp3" media-type="audio/mpeg"/>
     <item id="unit02_page09-01.mp3" href="Sounds/unit02_page09-01.mp3" media-type="audio/mpeg"/>
-    <item id="unit02_page09-01-img-1.mp3" href="Sounds/unit02_page09-01-img-1.mp3" media-type="audio/mpeg"/>
-    <item id="unit02_page09-01-img-2.mp3" href="Sounds/unit02_page09-01-img-2.mp3" media-type="audio/mpeg"/>
     <item id="unit02_page09-02.mp3" href="Sounds/unit02_page09-02.mp3" media-type="audio/mpeg"/>
-    <item id="unit02_page09-02-img.mp3" href="Sounds/unit02_page09-02-img.mp3" media-type="audio/mpeg"/>
     <item id="unit02_page10-01.mp3" href="Sounds/unit02_page10-01.mp3" media-type="audio/mpeg"/>
-    <item id="unit02_page10-01-img-1.mp3" href="Sounds/unit02_page10-01-img-1.mp3" media-type="audio/mpeg"/>
-    <item id="unit02_page10-01-img-2.mp3" href="Sounds/unit02_page10-01-img-2.mp3" media-type="audio/mpeg"/>
     <item id="unit02_page10-02.mp3" href="Sounds/unit02_page10-02.mp3" media-type="audio/mpeg"/>
-    <item id="unit02_page10-02-img.mp3" href="Sounds/unit02_page10-02-img.mp3" media-type="audio/mpeg"/>
     <item id="unit02_page11-01.mp3" href="Sounds/unit02_page11-01.mp3" media-type="audio/mpeg"/>
     <item id="unit02_page12-01.mp3" href="Sounds/unit02_page12-01.mp3" media-type="audio/mpeg"/>
     <item id="unit02_page13-01.mp3" href="Sounds/unit02_page13-01.mp3" media-type="audio/mpeg"/>
