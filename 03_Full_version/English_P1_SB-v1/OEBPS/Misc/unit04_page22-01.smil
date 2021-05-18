@@ -14,11 +14,15 @@
       </par>
       <par id="par000004">
         <text src="../Text/unit04_page22-01.xhtml#s004"/>
-        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:01.520" clipEnd="00:00:14.480"/>
+        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:01.520" clipEnd="00:00:03.132"/>
+      </par>
+      <par id="img001">
+        <text src="../Text/unit04_page22-01.xhtml#img001"/>
+        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:03.132" clipEnd="00:00:13.570"/>
       </par>
       <par id="par000005">
         <text src="../Text/unit04_page22-01.xhtml#s005"/>
-        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:14.480" clipEnd="00:00:15.000"/>
+        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:13.570" clipEnd="00:00:15.000"/>
       </par>
       <par id="par000006">
         <text src="../Text/unit04_page22-01.xhtml#s006"/>
@@ -30,11 +34,15 @@
       </par>
       <par id="par000008">
         <text src="../Text/unit04_page22-01.xhtml#s008"/>
-        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:15.400" clipEnd="00:00:30.400"/>
+        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:15.400" clipEnd="00:00:17.223"/>
+      </par>
+      <par id="img002">
+        <text src="../Text/unit04_page22-01.xhtml#img002"/>
+        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:17.223" clipEnd="00:00:28.862"/>
       </par>
       <par id="par000009">
         <text src="../Text/unit04_page22-01.xhtml#s009"/>
-        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:30.400" clipEnd="00:00:30.920"/>
+        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:28.862" clipEnd="00:00:30.920"/>
       </par>
       <par id="par000010">
         <text src="../Text/unit04_page22-01.xhtml#s010"/>
@@ -46,11 +54,15 @@
       </par>
       <par id="par000012">
         <text src="../Text/unit04_page22-01.xhtml#s012"/>
-        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:31.400" clipEnd="00:00:45.560"/>
+        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:31.400" clipEnd="00:00:33.716"/>
+      </par>
+      <par id="img003">
+        <text src="../Text/unit04_page22-01.xhtml#img003"/>
+        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:33.716" clipEnd="00:00:44.467"/>
       </par>
       <par id="par000013">
         <text src="../Text/unit04_page22-01.xhtml#s013"/>
-        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:45.560" clipEnd="00:00:46.080"/>
+        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:44.467" clipEnd="00:00:46.080"/>
       </par>
       <par id="par000014">
         <text src="../Text/unit04_page22-01.xhtml#s014"/>
@@ -62,11 +74,15 @@
       </par>
       <par id="par000016">
         <text src="../Text/unit04_page22-01.xhtml#s016"/>
-        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:46.720" clipEnd="00:01:00.760"/>
+        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:46.720" clipEnd="00:00:48.434"/>
+      </par>
+      <par id="img004">
+        <text src="../Text/unit04_page22-01.xhtml#img004"/>
+        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:48.434" clipEnd="00:00:59.342"/>
       </par>
       <par id="par000017">
         <text src="../Text/unit04_page22-01.xhtml#s017"/>
-        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:01:00.760" clipEnd="00:01:01.280"/>
+        <audio src="../Sounds/unit04_page22-01.mp3" clipBegin="00:00:59.342" clipEnd="00:01:01.280"/>
       </par>
       <par id="par000018">
         <text src="../Text/unit04_page22-01.xhtml#s018"/>
