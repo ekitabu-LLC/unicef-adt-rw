@@ -1,0 +1,212 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+      <par id="par000001">
+        <text src="../Text/unit07_page48-01.xhtml#s001"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:00.000" clipEnd="00:00:01.200"/>
+      </par>
+      <par id="par000002">
+        <text src="../Text/unit07_page48-01.xhtml#s002"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:01.200" clipEnd="00:00:01.680"/>
+      </par>
+      <par id="par000003">
+        <text src="../Text/unit07_page48-01.xhtml#s003"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:01.680" clipEnd="00:00:01.920"/>
+      </par>
+      <par id="par000004">
+        <text src="../Text/unit07_page48-01.xhtml#s004"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:01.920" clipEnd="00:00:02.000"/>
+      </par>
+      <par id="par000005">
+        <text src="../Text/unit07_page48-01.xhtml#s005"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:02.000" clipEnd="00:00:02.360"/>
+      </par>
+      <par id="par000006">
+        <text src="../Text/unit07_page48-01.xhtml#s006"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:02.360" clipEnd="00:00:03.720"/>
+      </par>
+      <par id="par000007">
+        <text src="../Text/unit07_page48-01.xhtml#s007"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:03.720" clipEnd="00:00:04.120"/>
+      </par>
+      <par id="par000008">
+        <text src="../Text/unit07_page48-01.xhtml#s008"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:04.120" clipEnd="00:00:04.480"/>
+      </par>
+      <par id="par000009">
+        <text src="../Text/unit07_page48-01.xhtml#s009"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:04.480" clipEnd="00:00:04.600"/>
+      </par>
+      <par id="par000010">
+        <text src="../Text/unit07_page48-01.xhtml#s010"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:04.600" clipEnd="00:00:05.000"/>
+      </par>
+      <par id="par000011">
+        <text src="../Text/unit07_page48-01.xhtml#s011"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:05.000" clipEnd="00:00:07.240"/>
+      </par>
+      <par id="par000012">
+        <text src="../Text/unit07_page48-01.xhtml#s012"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:07.240" clipEnd="00:00:07.400"/>
+      </par>
+      <par id="par000013">
+        <text src="../Text/unit07_page48-01.xhtml#s013"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:07.400" clipEnd="00:00:07.800"/>
+      </par>
+      <par id="par000014">
+        <text src="../Text/unit07_page48-01.xhtml#s014"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:07.800" clipEnd="00:00:08.280"/>
+      </par>
+      <par id="par000015">
+        <text src="../Text/unit07_page48-01.xhtml#s015"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:08.280" clipEnd="00:00:08.720"/>
+      </par>
+      <par id="par000016">
+        <text src="../Text/unit07_page48-01.xhtml#s016"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:08.720" clipEnd="00:00:08.800"/>
+      </par>
+      <par id="par000017">
+        <text src="../Text/unit07_page48-01.xhtml#s017"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:08.800" clipEnd="00:00:11.146"/>
+      </par>
+	  <par id="par000050">
+		<text src="../Text/unit07_page48-01.xhtml#img001"/>
+		<audio clipBegin="00:00:11.146" clipEnd="00:00:32.543" src="../Sounds/unit07_page48-01.mp3"/>
+	  </par>
+      <par id="par000018">
+        <text src="../Text/unit07_page48-01.xhtml#s018"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:32.543" clipEnd="00:00:33.480"/>
+      </par>
+      <par id="par000019">
+        <text src="../Text/unit07_page48-01.xhtml#s019"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:33.480" clipEnd="00:00:33.640"/>
+      </par>
+      <par id="par000020">
+        <text src="../Text/unit07_page48-01.xhtml#s020"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:33.640" clipEnd="00:00:34.040"/>
+      </par>
+      <par id="par000021">
+        <text src="../Text/unit07_page48-01.xhtml#s021"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:34.040" clipEnd="00:00:34.240"/>
+      </par>
+      <par id="par000022">
+        <text src="../Text/unit07_page48-01.xhtml#s022"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:34.240" clipEnd="00:00:34.240"/>
+      </par>
+      <par id="par000023">
+        <text src="../Text/unit07_page48-01.xhtml#s023"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:34.240" clipEnd="00:00:35.400"/>
+      </par>
+      <par id="par000024">
+        <text src="../Text/unit07_page48-01.xhtml#s024"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:35.400" clipEnd="00:00:35.640"/>
+      </par>
+      <par id="par000025">
+        <text src="../Text/unit07_page48-01.xhtml#s025"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:35.640" clipEnd="00:00:35.960"/>
+      </par>
+      <par id="par000026">
+        <text src="../Text/unit07_page48-01.xhtml#s026"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:35.960" clipEnd="00:00:36.480"/>
+      </par>
+      <par id="par000027">
+        <text src="../Text/unit07_page48-01.xhtml#s027"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:36.480" clipEnd="00:00:36.640"/>
+      </par>
+      <par id="par000028">
+        <text src="../Text/unit07_page48-01.xhtml#s028"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:36.640" clipEnd="00:00:37.040"/>
+      </par>
+      <par id="par000029">
+        <text src="../Text/unit07_page48-01.xhtml#s029"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:37.040" clipEnd="00:00:37.240"/>
+      </par>
+      <par id="par000030">
+        <text src="../Text/unit07_page48-01.xhtml#s030"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:37.240" clipEnd="00:00:37.320"/>
+      </par>
+      <par id="par000031">
+        <text src="../Text/unit07_page48-01.xhtml#s031"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:37.320" clipEnd="00:00:39.800"/>
+      </par>
+      <par id="par000032">
+        <text src="../Text/unit07_page48-01.xhtml#s032"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:39.800" clipEnd="00:00:40.040"/>
+      </par>
+      <par id="par000033">
+        <text src="../Text/unit07_page48-01.xhtml#s033"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:40.040" clipEnd="00:00:40.360"/>
+      </par>
+      <par id="par000034">
+        <text src="../Text/unit07_page48-01.xhtml#s034"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:40.360" clipEnd="00:00:40.800"/>
+      </par>
+      <par id="par000035">
+        <text src="../Text/unit07_page48-01.xhtml#s035"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:40.800" clipEnd="00:00:40.880"/>
+      </par>
+      <par id="par000036">
+        <text src="../Text/unit07_page48-01.xhtml#s036"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:40.880" clipEnd="00:00:41.000"/>
+      </par>
+      <par id="par000037">
+        <text src="../Text/unit07_page48-01.xhtml#s037"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:41.000" clipEnd="00:00:42.480"/>
+      </par>
+      <par id="par000038">
+        <text src="../Text/unit07_page48-01.xhtml#s038"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:42.480" clipEnd="00:00:42.640"/>
+      </par>
+      <par id="par000039">
+        <text src="../Text/unit07_page48-01.xhtml#s039"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:42.640" clipEnd="00:00:42.960"/>
+      </par>
+      <par id="par000040">
+        <text src="../Text/unit07_page48-01.xhtml#s040"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:42.960" clipEnd="00:00:43.440"/>
+      </par>
+      <par id="par000041">
+        <text src="../Text/unit07_page48-01.xhtml#s041"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:43.440" clipEnd="00:00:43.680"/>
+      </par>
+      <par id="par000042">
+        <text src="../Text/unit07_page48-01.xhtml#s042"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:43.680" clipEnd="00:00:43.720"/>
+      </par>
+      <par id="par000043">
+        <text src="../Text/unit07_page48-01.xhtml#s043"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:43.720" clipEnd="00:00:43.840"/>
+      </par>
+      <par id="par000044">
+        <text src="../Text/unit07_page48-01.xhtml#s044"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:43.840" clipEnd="00:00:46.240"/>
+      </par>
+      <par id="par000045">
+        <text src="../Text/unit07_page48-01.xhtml#s045"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:46.240" clipEnd="00:00:46.640"/>
+      </par>
+      <par id="par000046">
+        <text src="../Text/unit07_page48-01.xhtml#s046"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:46.640" clipEnd="00:00:47.120"/>
+      </par>
+      <par id="par000047">
+        <text src="../Text/unit07_page48-01.xhtml#s047"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:47.120" clipEnd="00:00:47.520"/>
+      </par>
+      <par id="par000048">
+        <text src="../Text/unit07_page48-01.xhtml#s048"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:47.520" clipEnd="00:00:47.920"/>
+      </par>
+      <par id="par000049">
+        <text src="../Text/unit07_page48-01.xhtml#s048"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:47.920" clipEnd="00:00:48.080"/>
+      </par>
+      <par id="par000050">
+        <text src="../Text/unit07_page48-01.xhtml#s049"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:48.080" clipEnd="00:00:48.280"/>
+      </par>
+      <par id="par000051">
+        <text src="../Text/unit07_page48-01.xhtml#s050"/>
+        <audio src="../Sounds/unit07_page48-01.mp3" clipBegin="00:00:48.280" clipEnd="00:00:50.920"/>
+      </par>
+  </body>
+</smil>
