@@ -5,7 +5,7 @@
     <dc:creator id="creator01">REB</dc:creator>
     <meta property="role" refines="#creator01">aut</meta>
     <meta property="file-as" refines="#creator01">REB</meta>
-    <meta property="dcterms:modified">2021-05-17T12:24:33Z</meta>
+    <meta property="dcterms:modified">2021-05-19T17:01:59Z</meta>
     <dc:date>2019</dc:date>
     <dc:publisher id="en_publisher" xml:lang="en-us">REB</dc:publisher>
     <dc:language>en</dc:language>
@@ -100,6 +100,15 @@
     <meta property="media:duration" refines="#unit08_page53-01.smil">00:01:42.520</meta>
     <meta property="media:duration" refines="#unit08_page55-01.smil">00:00:46.720</meta>
     <meta property="media:duration" refines="#unit08_page55-02.smil">00:00:16.160</meta>
+    <meta property="media:duration" refines="#unit08_page56-01.smil">00:00:39.640</meta>
+    <meta property="media:duration" refines="#unit08_page56-02.smil">00:00:43.120</meta>
+    <meta property="media:duration" refines="#unit08_page57-01.smil">00:00:59.640</meta>
+    <meta property="media:duration" refines="#unit08_page57-02.smil">00:01:35.640</meta>
+    <meta property="media:duration" refines="#unit10_page68-01.smil">00:00:34.720</meta>
+    <meta property="media:duration" refines="#unit10_page68-02.smil">00:00:16.800</meta>
+    <meta property="media:duration" refines="#unit10_page69-01.smil">00:00:27.840</meta>
+    <meta property="media:duration" refines="#unit10_page69-02.smil">00:00:16.800</meta>
+    <meta property="media:duration" refines="#unit10_page70-01.smil">00:01:04.000</meta>
     <meta content="1.4.1" name="Sigil version"/>
   </metadata>
   <manifest>
@@ -213,10 +222,10 @@
     <item id="unit08_page54-02" href="Text/unit08_page54-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit08_page55-01" href="Text/unit08_page55-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit08_page55-01.smil" properties="scripted"/>
     <item id="unit08_page55-02" href="Text/unit08_page55-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit08_page55-02.smil" properties="scripted"/>
-    <item id="unit08_page56-01" href="Text/unit08_page56-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-    <item id="unit08_page56-02" href="Text/unit08_page56-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-    <item id="unit08_page57-01" href="Text/unit08_page57-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-    <item id="unit08_page57-02" href="Text/unit08_page57-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="unit08_page56-01" href="Text/unit08_page56-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit08_page56-01.smil" properties="scripted"/>
+    <item id="unit08_page56-02" href="Text/unit08_page56-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit08_page56-02.smil" properties="scripted"/>
+    <item id="unit08_page57-01" href="Text/unit08_page57-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit08_page57-01.smil" properties="scripted"/>
+    <item id="unit08_page57-02" href="Text/unit08_page57-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit08_page57-02.smil" properties="scripted"/>
     <item id="unit09_page58-01" href="Text/unit09_page58-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit09_page58-02" href="Text/unit09_page58-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit09_page59-01" href="Text/unit09_page59-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
@@ -232,11 +241,11 @@
     <item id="unit09_page66-02" href="Text/unit09_page66-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit09_page67-01" href="Text/unit09_page67-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
     <item id="unit09_page67-02" href="Text/unit09_page67-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-    <item id="unit10_page68-01" href="Text/unit10_page68-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-    <item id="unit10_page68-02" href="Text/unit10_page68-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-    <item id="unit10_page69-01" href="Text/unit10_page69-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-    <item id="unit10_page69-02" href="Text/unit10_page69-02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
-    <item id="unit10_page70-01" href="Text/unit10_page70-01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="unit10_page68-01" href="Text/unit10_page68-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit10_page68-01.smil" properties="scripted"/>
+    <item id="unit10_page68-02" href="Text/unit10_page68-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit10_page68-02.smil" properties="scripted"/>
+    <item id="unit10_page69-01" href="Text/unit10_page69-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit10_page69-01.smil" properties="scripted"/>
+    <item id="unit10_page69-02" href="Text/unit10_page69-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit10_page69-02.smil" properties="scripted"/>
+    <item id="unit10_page70-01" href="Text/unit10_page70-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit10_page70-01.smil" properties="scripted"/>
     <item id="arm.mp4" href="Video/arm.mp4" media-type="video/mp4"/>
     <item id="bark.mp4" href="Video/bark.mp4" media-type="video/mp4"/>
     <item id="bed.mp4" href="Video/bed.mp4" media-type="video/mp4"/>
@@ -736,6 +745,24 @@
     <item id="unit08_page52-01.smil" href="Misc/unit08_page52-01.smil" media-type="application/smil+xml"/>
     <item id="unit08_page55-02.mp3" href="Sounds/unit08_page55-02.mp3" media-type="audio/mpeg"/>
     <item id="unit08_page55-02.smil" href="Misc/unit08_page55-02.smil" media-type="application/smil+xml"/>
+    <item id="unit08_page56-01.smil" href="Misc/unit08_page56-01.smil" media-type="application/smil+xml"/>
+    <item id="unit08_page56-01.mp3" href="Sounds/unit08_page56-01.mp3" media-type="audio/mpeg"/>
+    <item id="unit08_page56-02.mp3" href="Sounds/unit08_page56-02.mp3" media-type="audio/mpeg"/>
+    <item id="unit08_page56-02.smil" href="Misc/unit08_page56-02.smil" media-type="application/smil+xml"/>
+    <item id="unit08_page57-01.mp3" href="Sounds/unit08_page57-01.mp3" media-type="audio/mpeg"/>
+    <item id="unit08_page57-02.smil" href="Misc/unit08_page57-02.smil" media-type="application/smil+xml"/>
+    <item id="unit08_page57-02.mp3" href="Sounds/unit08_page57-02.mp3" media-type="audio/mpeg"/>
+    <item id="unit08_page57-01.smil" href="Misc/unit08_page57-01.smil" media-type="application/smil+xml"/>
+    <item id="unit10_page68-01.mp3" href="Sounds/unit10_page68-01.mp3" media-type="audio/mpeg"/>
+    <item id="unit10_page68-02.mp3" href="Sounds/unit10_page68-02.mp3" media-type="audio/mpeg"/>
+    <item id="unit10_page69-01.mp3" href="Sounds/unit10_page69-01.mp3" media-type="audio/mpeg"/>
+    <item id="unit10_page69-01.smil" href="Misc/unit10_page69-01.smil" media-type="application/smil+xml"/>
+    <item id="unit10_page69-02.mp3" href="Sounds/unit10_page69-02.mp3" media-type="audio/mpeg"/>
+    <item id="unit10_page69-02.smil" href="Misc/unit10_page69-02.smil" media-type="application/smil+xml"/>
+    <item id="unit10_page70-01.mp3" href="Sounds/unit10_page70-01.mp3" media-type="audio/mpeg"/>
+    <item id="unit10_page70-01.smil" href="Misc/unit10_page70-01.smil" media-type="application/smil+xml"/>
+    <item id="unit10_page68-02.smil" href="Misc/unit10_page68-02.smil" media-type="application/smil+xml"/>
+    <item id="unit10_page68-01.smil" href="Misc/unit10_page68-01.smil" media-type="application/smil+xml"/>
   </manifest>
   <spine>
     <itemref idref="cover"/>
