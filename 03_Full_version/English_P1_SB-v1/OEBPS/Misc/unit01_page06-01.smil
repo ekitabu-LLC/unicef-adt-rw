@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops">
 <body>
-
-
-<par id="par000001">
+	  <par id="par000001">
         <text src="../Text/unit01_page06-01.xhtml#s001"/>
         <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:00.000" clipEnd="00:00:00.600"/>
       </par>
@@ -19,7 +17,7 @@
         <text src="../Text/unit01_page06-01.xhtml#s004"/>
         <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:01.080" clipEnd="00:00:01.480"/>
       </par>
-	  <par id="par000005">
+	  <par id="par000050">
 		<text src="../Text/unit01_page06-01.xhtml#img001"/>
 		<audio clipBegin="00:00:02.441" clipEnd="00:00:20.328" src="../Sounds/unit01_page06-01.mp3"/>
 	  </par>
@@ -39,12 +37,5 @@
         <text src="../Text/unit01_page06-01.xhtml#s008"/>
         <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:28.320" clipEnd="00:00:29.000"/>
       </par>
-
-
-
-
-
-
-
 </body>
 </smil>
