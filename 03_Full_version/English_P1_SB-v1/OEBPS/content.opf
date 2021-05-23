@@ -164,6 +164,8 @@
     <item id="unit01_page01-02" href="Text/unit01_page01-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page01-02.smil" properties="scripted"/>
     <item id="unit01_page02-01" href="Text/unit01_page02-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page02-01.smil" properties="scripted"/>
     <item id="unit01_page02-02" href="Text/unit01_page02-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page02-02.smil" properties="scripted"/>
+    <item id="unit01_page03-01" href="Text/unit01_page03-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page03-01.smil" properties="scripted"/>
+    <item id="unit01_page03-02" href="Text/unit01_page03-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page03-02.smil" properties="scripted"/>
     <item id="unit01_page04-01" href="Text/unit01_page04-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page04-01.smil" properties="scripted"/>
     <item id="unit01_page04-02" href="Text/unit01_page04-02.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page04-02.smil" properties="scripted"/>
     <item id="unit01_page05-01" href="Text/unit01_page05-01.xhtml" media-type="application/xhtml+xml" media-overlay="unit01_page05-01.smil" properties="scripted"/>
