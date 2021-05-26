@@ -5,7 +5,7 @@
     <dc:creator id="creator01">REB</dc:creator>
     <meta property="role" refines="#creator01">aut</meta>
     <meta property="file-as" refines="#creator01">REB</meta>
-    <meta property="dcterms:modified">2021-05-26T03:59:04Z</meta>
+    <meta property="dcterms:modified">2021-05-26T10:49:01Z</meta>
     <dc:date>2019</dc:date>
     <dc:publisher id="en_publisher" xml:lang="en-us">REB</dc:publisher>
     <dc:language>en</dc:language>
@@ -662,7 +662,6 @@
     <item id="unit02_page13-01.mp3" href="Sounds/unit02_page13-01.mp3" media-type="audio/mpeg"/>
     <item id="unit02_page13-02.mp3" href="Sounds/unit02_page13-02.mp3" media-type="audio/mpeg"/>
     <item id="unit02_page14-01.mp3" href="Sounds/unit02_page14-01.mp3" media-type="audio/mpeg"/>
-    <item id="unit02_page14-02.mp3" href="Sounds/unit02_page14-02.mp3" media-type="audio/mpeg"/>
     <item id="unit01_page01-01.smil" href="Misc/unit01_page01-01.smil" media-type="application/smil+xml"/>
     <item id="unit01_page01-02.smil" href="Misc/unit01_page01-02.smil" media-type="application/smil+xml"/>
     <item id="unit01_page02-01.smil" href="Misc/unit01_page02-01.smil" media-type="application/smil+xml"/>
@@ -690,7 +689,6 @@
     <item id="unit02_page14-01.smil" href="Misc/unit02_page14-01.smil" media-type="application/smil+xml"/>
     <item id="unit02_page14-02.smil" href="Misc/unit02_page14-02.smil" media-type="application/smil+xml"/>
     <item id="unit2-6_image.jpg" href="Images/unit2-6_image.jpg" media-type="image/jpeg"/>
-    <item id="unit01_page06-02.mp3" href="Sounds/unit01_page06-02.mp3" media-type="audio/mpeg"/>
     <item id="unit03_page15-01.smil" href="Misc/unit03_page15-01.smil" media-type="application/smil+xml"/>
     <item id="unit01_page01-01.mp3" href="Sounds/unit01_page01-01.mp3" media-type="audio/mpeg"/>
     <item id="unit04_page20-02.mp3" href="Sounds/unit04_page20-02.mp3" media-type="audio/mpeg"/>
@@ -816,12 +814,9 @@
     <item id="unit09_page62-01.mp3" href="Sounds/unit09_page62-01.mp3" media-type="audio/mpeg"/>
     <item id="unit09_page62-01.smil" href="Misc/unit09_page62-01.smil" media-type="application/smil+xml"/>
     <item id="unit09_page64-01.smil" href="Misc/unit09_page64-01.smil" media-type="application/smil+xml"/>
-    <item id="unit09_page64-01.mp3" href="Sounds/unit09_page64-01.mp3" media-type="audio/mpeg"/>
-    <item id="unit09_page63-01.mp3" href="Sounds/unit09_page63-01.mp3" media-type="audio/mpeg"/>
     <item id="unit09_page63-01.smil" href="Misc/unit09_page63-01.smil" media-type="application/smil+xml"/>
     <item id="unit09_page66-01.mp3" href="Sounds/unit09_page66-01.mp3" media-type="audio/mpeg"/>
     <item id="unit09_page66-01.smil" href="Misc/unit09_page66-01.smil" media-type="application/smil+xml"/>
-    <item id="unit09_page66-02.mp3" href="Sounds/unit09_page66-02.mp3" media-type="audio/mpeg"/>
     <item id="unit09_page66-02.smil" href="Misc/unit09_page66-02.smil" media-type="application/smil+xml"/>
     <item id="unit09_page67-01.mp3" href="Sounds/unit09_page67-01.mp3" media-type="audio/mpeg"/>
     <item id="unit09_page67-01.smil" href="Misc/unit09_page67-01.smil" media-type="application/smil+xml"/>
@@ -846,7 +841,6 @@
     <item id="unit03_page15-01.mp3" href="Sounds/unit03_page15-01.mp3" media-type="audio/mpeg"/>
     <item id="unit03_page15-02.mp3" href="Sounds/unit03_page15-02.mp3" media-type="audio/mpeg"/>
     <item id="unit03_page16-01.mp3" href="Sounds/unit03_page16-01.mp3" media-type="audio/mpeg"/>
-    <item id="unit03_page16-02.mp3" href="Sounds/unit03_page16-02.mp3" media-type="audio/mpeg"/>
     <item id="unit03_page17-01.mp3" href="Sounds/unit03_page17-01.mp3" media-type="audio/mpeg"/>
     <item id="unit03_page18-01.mp3" href="Sounds/unit03_page18-01.mp3" media-type="audio/mpeg"/>
     <item id="unit03_page18-02.mp3" href="Sounds/unit03_page18-02.mp3" media-type="audio/mpeg"/>
@@ -876,6 +870,157 @@
     <item id="unit05_page36-01.smil" href="Misc/unit05_page36-01.smil" media-type="application/smil+xml"/>
     <item id="unit05_page30-01.mp3" href="Sounds/unit05_page30-01.mp3" media-type="audio/mpeg"/>
     <item id="unit05_page30-02.mp3" href="Sounds/unit05_page30-02.mp3" media-type="audio/mpeg"/>
+    <item id="unit01_page06-02.mp3" href="Sounds/unit01_page06-02.mp3" media-type="audio/mpeg"/>
+    <item id="unit02_page14-02.mp3" href="Sounds/unit02_page14-02.mp3" media-type="audio/mpeg"/>
+    <item id="unit03_page16-02.mp3" href="Sounds/unit03_page16-02.mp3" media-type="audio/mpeg"/>
+    <item id="unit09_page63-01.mp3" href="Sounds/unit09_page63-01.mp3" media-type="audio/mpeg"/>
+    <item id="unit09_page64-01.mp3" href="Sounds/unit09_page64-01.mp3" media-type="audio/mpeg"/>
+    <item id="unit09_page66-02.mp3" href="Sounds/unit09_page66-02.mp3" media-type="audio/mpeg"/>
+    <item id="bag.mp4" href="Video/bag.mp4" media-type="video/mp4"/>
+    <item id="ball.mp4" href="Video/ball.mp4" media-type="video/mp4"/>
+    <item id="bedroom.mp4" href="Video/bedroom.mp4" media-type="video/mp4"/>
+    <item id="clock.mp4" href="Video/clock.mp4" media-type="video/mp4"/>
+    <item id="clothes.mp4" href="Video/clothes.mp4" media-type="video/mp4"/>
+    <item id="counting.mp4" href="Video/counting.mp4" media-type="video/mp4"/>
+    <item id="cupboard.mp4" href="Video/cupboard.mp4" media-type="video/mp4"/>
+    <item id="desk.mp4" href="Video/desk.mp4" media-type="video/mp4"/>
+    <item id="family.mp4" href="Video/family.mp4" media-type="video/mp4"/>
+    <item id="food.mp4" href="Video/food.mp4" media-type="video/mp4"/>
+    <item id="good_afternoon.mp4" href="Video/good_afternoon.mp4" media-type="video/mp4"/>
+    <item id="good_evening.mp4" href="Video/good_evening.mp4" media-type="video/mp4"/>
+    <item id="good_morning.mp4" href="Video/good_morning.mp4" media-type="video/mp4"/>
+    <item id="graph.mp4" href="Video/graph.mp4" media-type="video/mp4"/>
+    <item id="green.mp4" href="Video/green.mp4" media-type="video/mp4"/>
+    <item id="handkerchief.mp4" href="Video/handkerchief.mp4" media-type="video/mp4"/>
+    <item id="have_got.mp4" href="Video/have_got.mp4" media-type="video/mp4"/>
+    <item id="mosquito_net.mp4" href="Video/mosquito_net.mp4" media-type="video/mp4"/>
+    <item id="people.mp4" href="Video/people.mp4" media-type="video/mp4"/>
+    <item id="red.mp4" href="Video/red.mp4" media-type="video/mp4"/>
+    <item id="school.mp4" href="Video/school.mp4" media-type="video/mp4"/>
+    <item id="stomach.mp4" href="Video/stomach.mp4" media-type="video/mp4"/>
+    <item id="teacher.mp4" href="Video/teacher.mp4" media-type="video/mp4"/>
+    <item id="that.mp4" href="Video/that.mp4" media-type="video/mp4"/>
+    <item id="unit01_page01-01.mp4" href="Video/unit01_page01-01.mp4" media-type="video/mp4"/>
+    <item id="unit01_page01-02.mp4" href="Video/unit01_page01-02.mp4" media-type="video/mp4"/>
+    <item id="unit01_page02-01.mp4" href="Video/unit01_page02-01.mp4" media-type="video/mp4"/>
+    <item id="unit01_page02-02.mp4" href="Video/unit01_page02-02.mp4" media-type="video/mp4"/>
+    <item id="unit01_page03-01.mp4" href="Video/unit01_page03-01.mp4" media-type="video/mp4"/>
+    <item id="unit01_page03-02.mp4" href="Video/unit01_page03-02.mp4" media-type="video/mp4"/>
+    <item id="unit01_page04-01.mp4" href="Video/unit01_page04-01.mp4" media-type="video/mp4"/>
+    <item id="unit01_page04-02.mp4" href="Video/unit01_page04-02.mp4" media-type="video/mp4"/>
+    <item id="unit01_page05-01.mp4" href="Video/unit01_page05-01.mp4" media-type="video/mp4"/>
+    <item id="unit01_page05-02.mp4" href="Video/unit01_page05-02.mp4" media-type="video/mp4"/>
+    <item id="unit01_page06-01.mp4" href="Video/unit01_page06-01.mp4" media-type="video/mp4"/>
+    <item id="x61afbe06-c473-4435-8f84-8823ca0830ef" href="Video/unit01_page06-02.mp4" media-type="video/mp4"/>
+    <item id="unit01_page07-01.mp4" href="Video/unit01_page07-01.mp4" media-type="video/mp4"/>
+    <item id="unit01_page07-02.mp4" href="Video/unit01_page07-02.mp4" media-type="video/mp4"/>
+    <item id="unit02_page08-01.mp4" href="Video/unit02_page08-01.mp4" media-type="video/mp4"/>
+    <item id="unit02_page08-02.mp4" href="Video/unit02_page08-02.mp4" media-type="video/mp4"/>
+    <item id="unit02_page09-01.mp4" href="Video/unit02_page09-01.mp4" media-type="video/mp4"/>
+    <item id="unit02_page09-02.mp4" href="Video/unit02_page09-02.mp4" media-type="video/mp4"/>
+    <item id="unit02_page10-01.mp4" href="Video/unit02_page10-01.mp4" media-type="video/mp4"/>
+    <item id="unit02_page10-02.mp4" href="Video/unit02_page10-02.mp4" media-type="video/mp4"/>
+    <item id="unit02_page11-01.mp4" href="Video/unit02_page11-01.mp4" media-type="video/mp4"/>
+    <item id="unit02_page12-01.mp4" href="Video/unit02_page12-01.mp4" media-type="video/mp4"/>
+    <item id="unit02_page13-01.mp4" href="Video/unit02_page13-01.mp4" media-type="video/mp4"/>
+    <item id="unit02_page13-02.mp4" href="Video/unit02_page13-02.mp4" media-type="video/mp4"/>
+    <item id="unit02_page14-01.mp4" href="Video/unit02_page14-01.mp4" media-type="video/mp4"/>
+    <item id="unit02_page14-02.mp4" href="Video/unit02_page14-02.mp4" media-type="video/mp4"/>
+    <item id="unit03_page15-01.mp4" href="Video/unit03_page15-01.mp4" media-type="video/mp4"/>
+    <item id="unit03_page15-02.mp4" href="Video/unit03_page15-02.mp4" media-type="video/mp4"/>
+    <item id="unit03_page16-01.mp4" href="Video/unit03_page16-01.mp4" media-type="video/mp4"/>
+    <item id="unit03_page16-02.mp4" href="Video/unit03_page16-02.mp4" media-type="video/mp4"/>
+    <item id="unit03_page17-01.mp4" href="Video/unit03_page17-01.mp4" media-type="video/mp4"/>
+    <item id="unit03_page18-01.mp4" href="Video/unit03_page18-01.mp4" media-type="video/mp4"/>
+    <item id="unit03_page18-02.mp4" href="Video/unit03_page18-02.mp4" media-type="video/mp4"/>
+    <item id="unit03_page19-01.mp4" href="Video/unit03_page19-01.mp4" media-type="video/mp4"/>
+    <item id="unit03_page19-02.mp4" href="Video/unit03_page19-02.mp4" media-type="video/mp4"/>
+    <item id="unit04_page20-01.mp4" href="Video/unit04_page20-01.mp4" media-type="video/mp4"/>
+    <item id="unit04_page20-02.mp4" href="Video/unit04_page20-02.mp4" media-type="video/mp4"/>
+    <item id="unit04_page21-01.mp4" href="Video/unit04_page21-01.mp4" media-type="video/mp4"/>
+    <item id="x419f99fc-3bec-4dcc-a303-bae8645a4956" href="Video/unit04_page21-02.mp4" media-type="video/mp4"/>
+    <item id="unit04_page22-01.mp4" href="Video/unit04_page22-01.mp4" media-type="video/mp4"/>
+    <item id="x5f23715b-0945-4c9e-8b3f-b922d78997d4" href="Video/unit04_page22-02.mp4" media-type="video/mp4"/>
+    <item id="unit04_page23-01.mp4" href="Video/unit04_page23-01.mp4" media-type="video/mp4"/>
+    <item id="unit04_page23-02.mp4" href="Video/unit04_page23-02.mp4" media-type="video/mp4"/>
+    <item id="unit04_page24-01.mp4" href="Video/unit04_page24-01.mp4" media-type="video/mp4"/>
+    <item id="unit04_page25-01.mp4" href="Video/unit04_page25-01.mp4" media-type="video/mp4"/>
+    <item id="unit04_page26-01.mp4" href="Video/unit04_page26-01.mp4" media-type="video/mp4"/>
+    <item id="unit04_page27-01.mp4" href="Video/unit04_page27-01.mp4" media-type="video/mp4"/>
+    <item id="unit04_page28-01.mp4" href="Video/unit04_page28-01.mp4" media-type="video/mp4"/>
+    <item id="unit05_page29-01.mp4" href="Video/unit05_page29-01.mp4" media-type="video/mp4"/>
+    <item id="unit05_page30-01.mp4" href="Video/unit05_page30-01.mp4" media-type="video/mp4"/>
+    <item id="unit05_page30-02.mp4" href="Video/unit05_page30-02.mp4" media-type="video/mp4"/>
+    <item id="unit05_page31-01.mp4" href="Video/unit05_page31-01.mp4" media-type="video/mp4"/>
+    <item id="unit05_page31-02.mp4" href="Video/unit05_page31-02.mp4" media-type="video/mp4"/>
+    <item id="unit05_page32-01.mp4" href="Video/unit05_page32-01.mp4" media-type="video/mp4"/>
+    <item id="unit05_page33-01.mp4" href="Video/unit05_page33-01.mp4" media-type="video/mp4"/>
+    <item id="unit05_page33-02.mp4" href="Video/unit05_page33-02.mp4" media-type="video/mp4"/>
+    <item id="unit05_page34-01.mp4" href="Video/unit05_page34-01.mp4" media-type="video/mp4"/>
+    <item id="unit05_page35-01.mp4" href="Video/unit05_page35-01.mp4" media-type="video/mp4"/>
+    <item id="unit05_page36-01.mp4" href="Video/unit05_page36-01.mp4" media-type="video/mp4"/>
+    <item id="unit06_page37-01.mp4" href="Video/unit06_page37-01.mp4" media-type="video/mp4"/>
+    <item id="unit06_page37-02.mp4" href="Video/unit06_page37-02.mp4" media-type="video/mp4"/>
+    <item id="unit06_page38-01.mp4" href="Video/unit06_page38-01.mp4" media-type="video/mp4"/>
+    <item id="unit06_page38-02.mp4" href="Video/unit06_page38-02.mp4" media-type="video/mp4"/>
+    <item id="unit06_page39-01.mp4" href="Video/unit06_page39-01.mp4" media-type="video/mp4"/>
+    <item id="unit06_page39-02.mp4" href="Video/unit06_page39-02.mp4" media-type="video/mp4"/>
+    <item id="unit06_page40-01.mp4" href="Video/unit06_page40-01.mp4" media-type="video/mp4"/>
+    <item id="unit06_page40-02.mp4" href="Video/unit06_page40-02.mp4" media-type="video/mp4"/>
+    <item id="unit06_page41-01.mp4" href="Video/unit06_page41-01.mp4" media-type="video/mp4"/>
+    <item id="unit06_page41-02.mp4" href="Video/unit06_page41-02.mp4" media-type="video/mp4"/>
+    <item id="unit06_page42-01.mp4" href="Video/unit06_page42-01.mp4" media-type="video/mp4"/>
+    <item id="unit06_page42-02.mp4" href="Video/unit06_page42-02.mp4" media-type="video/mp4"/>
+    <item id="unit06_page43-01.mp4" href="Video/unit06_page43-01.mp4" media-type="video/mp4"/>
+    <item id="x93a1f131-7739-4049-bbbb-fdef1099d383" href="Video/unit06_page43-02.mp4" media-type="video/mp4"/>
+    <item id="unit06_page44-01.mp4" href="Video/unit06_page44-01.mp4" media-type="video/mp4"/>
+    <item id="unit06_page44-02.mp4" href="Video/unit06_page44-02.mp4" media-type="video/mp4"/>
+    <item id="unit07_page45-01.mp4" href="Video/unit07_page45-01.mp4" media-type="video/mp4"/>
+    <item id="unit07_page45-02.mp4" href="Video/unit07_page45-02.mp4" media-type="video/mp4"/>
+    <item id="unit07_page46-01.mp4" href="Video/unit07_page46-01.mp4" media-type="video/mp4"/>
+    <item id="unit07_page47-01.mp4" href="Video/unit07_page47-01.mp4" media-type="video/mp4"/>
+    <item id="unit07_page48-01.mp4" href="Video/unit07_page48-01.mp4" media-type="video/mp4"/>
+    <item id="unit07_page49_01.mp4" href="Video/unit07_page49_01.mp4" media-type="video/mp4"/>
+    <item id="unit07_page49-01.mp4" href="Video/unit07_page49-01.mp4" media-type="video/mp4"/>
+    <item id="unit07_page50-01.mp4" href="Video/unit07_page50-01.mp4" media-type="video/mp4"/>
+    <item id="unit07_page51-01.mp4" href="Video/unit07_page51-01.mp4" media-type="video/mp4"/>
+    <item id="unit07_page51-02.mp4" href="Video/unit07_page51-02.mp4" media-type="video/mp4"/>
+    <item id="unit08_page52-01.mp4" href="Video/unit08_page52-01.mp4" media-type="video/mp4"/>
+    <item id="unit08_page52-02.mp4" href="Video/unit08_page52-02.mp4" media-type="video/mp4"/>
+    <item id="unit08_page53-01.mp4" href="Video/unit08_page53-01.mp4" media-type="video/mp4"/>
+    <item id="unit08_page54-01.mp4" href="Video/unit08_page54-01.mp4" media-type="video/mp4"/>
+    <item id="unit08_page54-02.mp4" href="Video/unit08_page54-02.mp4" media-type="video/mp4"/>
+    <item id="unit08_page55-01.mp4" href="Video/unit08_page55-01.mp4" media-type="video/mp4"/>
+    <item id="unit08_page55-02.mp4" href="Video/unit08_page55-02.mp4" media-type="video/mp4"/>
+    <item id="unit08_page56-01.mp4" href="Video/unit08_page56-01.mp4" media-type="video/mp4"/>
+    <item id="unit08_page56-02.mp4" href="Video/unit08_page56-02.mp4" media-type="video/mp4"/>
+    <item id="unit08_page57-01.mp4" href="Video/unit08_page57-01.mp4" media-type="video/mp4"/>
+    <item id="unit08_page57-02.mp4" href="Video/unit08_page57-02.mp4" media-type="video/mp4"/>
+    <item id="unit09_page58-01.mp4" href="Video/unit09_page58-01.mp4" media-type="video/mp4"/>
+    <item id="unit09_page58-02.mp4" href="Video/unit09_page58-02.mp4" media-type="video/mp4"/>
+    <item id="unit09_page59-01.mp4" href="Video/unit09_page59-01.mp4" media-type="video/mp4"/>
+    <item id="unit09_page59-02.mp4" href="Video/unit09_page59-02.mp4" media-type="video/mp4"/>
+    <item id="unit09_page60-01.mp4" href="Video/unit09_page60-01.mp4" media-type="video/mp4"/>
+    <item id="unit09_page61-01.mp4" href="Video/unit09_page61-01.mp4" media-type="video/mp4"/>
+    <item id="unit09_page61-02.mp4" href="Video/unit09_page61-02.mp4" media-type="video/mp4"/>
+    <item id="unit09_page62-01.mp4" href="Video/unit09_page62-01.mp4" media-type="video/mp4"/>
+    <item id="unit09_page62-02.mp4" href="Video/unit09_page62-02.mp4" media-type="video/mp4"/>
+    <item id="unit09_page63-01.mp4" href="Video/unit09_page63-01.mp4" media-type="video/mp4"/>
+    <item id="unit09_page64-01.mp4" href="Video/unit09_page64-01.mp4" media-type="video/mp4"/>
+    <item id="unit09_page64-02.mp4" href="Video/unit09_page64-02.mp4" media-type="video/mp4"/>
+    <item id="unit09_page65-01.mp4" href="Video/unit09_page65-01.mp4" media-type="video/mp4"/>
+    <item id="unit09_page65-02.mp4" href="Video/unit09_page65-02.mp4" media-type="video/mp4"/>
+    <item id="unit09_page66-01.mp4" href="Video/unit09_page66-01.mp4" media-type="video/mp4"/>
+    <item id="unit09_page66-02.mp4" href="Video/unit09_page66-02.mp4" media-type="video/mp4"/>
+    <item id="unit09_page67-01.mp4" href="Video/unit09_page67-01.mp4" media-type="video/mp4"/>
+    <item id="unit09_page67-02.mp4" href="Video/unit09_page67-02.mp4" media-type="video/mp4"/>
+    <item id="unit10_page68-01.mp4" href="Video/unit10_page68-01.mp4" media-type="video/mp4"/>
+    <item id="unit10_page68-02.mp4" href="Video/unit10_page68-02.mp4" media-type="video/mp4"/>
+    <item id="unit10_page69-01.mp4" href="Video/unit10_page69-01.mp4" media-type="video/mp4"/>
+    <item id="unit10_page69-02.mp4" href="Video/unit10_page69-02.mp4" media-type="video/mp4"/>
+    <item id="unit10_page70-01.mp4" href="Video/unit10_page70-01.mp4" media-type="video/mp4"/>
+    <item id="x631dfc94-8ad7-4472-af68-422c0989a511" href="Video/vegetables.mp4" media-type="video/mp4"/>
+    <item id="white.mp4" href="Video/white.mp4" media-type="video/mp4"/>
   </manifest>
   <spine>
     <itemref idref="cover"/>

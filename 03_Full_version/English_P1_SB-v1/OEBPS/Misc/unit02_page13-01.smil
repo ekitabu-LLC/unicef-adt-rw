@@ -19,11 +19,11 @@
       </par>
 	  <par id="par000050">
 		<text src="../Text/unit02_page13-01.xhtml#img001"/>
-		<audio clipBegin="00:00:03.269" clipEnd="00:00:10.546" src="../Sounds/unit02_page13-01.mp3"/>
+		<audio clipBegin="00:00:03.269" clipEnd="00:00:13.546" src="../Sounds/unit02_page13-01.mp3"/>
 	  </par>
       <par id="par000005">
         <text src="../Text/unit02_page13-01.xhtml#s005"/>
-        <audio src="../Sounds/unit02_page13-01.mp3" clipBegin="00:00:10.546" clipEnd="00:00:16.880"/>
+        <audio src="../Sounds/unit02_page13-01.mp3" clipBegin="00:00:13.546" clipEnd="00:00:16.880"/>
       </par>
       <par id="par000006">
         <text src="../Text/unit02_page13-01.xhtml#s006"/>
@@ -39,11 +39,11 @@
       </par>
 	  <par id="par000051">
 		<text src="../Text/unit02_page13-01.xhtml#img002"/>
-		<audio clipBegin="00:00:18.872" clipEnd="00:00:32.440" src="../Sounds/unit02_page13-01.mp3"/>
+		<audio clipBegin="00:00:18.872" clipEnd="00:00:35.955" src="../Sounds/unit02_page13-01.mp3"/>
 	  </par>
       <par id="par000009">
         <text src="../Text/unit02_page13-01.xhtml#s009"/>
-        <audio src="../Sounds/unit02_page13-01.mp3" clipBegin="00:00:32.440" clipEnd="00:00:38.520"/>
+        <audio src="../Sounds/unit02_page13-01.mp3" clipBegin="00:00:35.955" clipEnd="00:00:38.520"/>
       </par>
       <par id="par000010">
         <text src="../Text/unit02_page13-01.xhtml#s010"/>

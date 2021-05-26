@@ -30,11 +30,11 @@
       </par>
 	  <par id="par000050">
 		<text src="../Text/unit07_page45-01.xhtml#img001"/>
-		<audio clipBegin="00:00:07.916" clipEnd="00:00:16.907" src="../Sounds/unit07_page45-01.mp3"/>
+		<audio clipBegin="00:00:07.916" clipEnd="00:00:19.907" src="../Sounds/unit07_page45-01.mp3"/>
 	  </par>
       <par id="par000008">
         <text src="../Text/unit07_page45-01.xhtml#s008"/>
-        <audio src="../Sounds/unit07_page45-01.mp3" clipBegin="00:00:16.907" clipEnd="00:00:22.200"/>
+        <audio src="../Sounds/unit07_page45-01.mp3" clipBegin="00:00:19.907" clipEnd="00:00:22.200"/>
       </par>
       <par id="par000009">
         <text src="../Text/unit07_page45-01.xhtml#s009"/>
