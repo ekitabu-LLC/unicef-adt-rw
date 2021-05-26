@@ -19,11 +19,11 @@
       </par>
 	  <par id="par000050">
 		<text src="../Text/unit01_page06-01.xhtml#img001"/>
-		<audio clipBegin="00:00:02.441" clipEnd="00:00:20.328" src="../Sounds/unit01_page06-01.mp3"/>
+		<audio clipBegin="00:00:02.441" clipEnd="00:00:24.228" src="../Sounds/unit01_page06-01.mp3"/>
 	  </par>
       <par id="par000005">
         <text src="../Text/unit01_page06-01.xhtml#s005"/>
-        <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:20.328" clipEnd="00:00:27.640"/>
+        <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:24.228" clipEnd="00:00:27.640"/>
       </par>
       <par id="par000006">
         <text src="../Text/unit01_page06-01.xhtml#s006"/>
