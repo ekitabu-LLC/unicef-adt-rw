@@ -3,11 +3,11 @@
 <body>
 	  <par id="par000050">
 		<text src="../Text/unit02_page13-02.xhtml#img001"/>
-		<audio clipBegin="00:00:00.000" clipEnd="00:00:13.022" src="../Sounds/unit02_page13-02.mp3"/>
+		<audio clipBegin="00:00:00.000" clipEnd="00:00:16.541" src="../Sounds/unit02_page13-02.mp3"/>
 	  </par>
 <par id="par000001">
         <text src="../Text/unit02_page13-02.xhtml#s001"/>
-        <audio src="../Sounds/unit02_page13-02.mp3" clipBegin="00:00:13.022" clipEnd="00:00:19.880"/>
+        <audio src="../Sounds/unit02_page13-02.mp3" clipBegin="00:00:16.541" clipEnd="00:00:19.880"/>
       </par>
       <par id="par000002">
         <text src="../Text/unit02_page13-02.xhtml#s002"/>

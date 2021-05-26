@@ -338,6 +338,12 @@ td {
     font-size: 30px;
 }
 
+.content-section table.t4 td {
+    text-align: center;
+    font-size: 30px;
+	height: 10px;
+}
+
 .section-title {
     color: #a5318a;
     font-size: 35px;
@@ -1110,6 +1116,7 @@ table.t2 {
 table.t2 td {
     width: 25%;
     padding: .1em;
+	height: 10px;
 }
 
 table.t2 td.l {
