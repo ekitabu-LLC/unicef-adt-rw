@@ -1,4 +1,4 @@
-var numOfQeustions = 0;
+var numOfQeustions = 6;
 
 document.addEventListener("DOMContentLoaded", function(event) {
 
@@ -33,8 +33,6 @@ function drag(ev) {
 
 function drop(ev) {
     ev.preventDefault();
-    //Attach number of draggable items
-    var numOfQeustions = document.getElementsByClassName("drop-zone").length
     var answeredQuestions = 0;
     var data = ev.dataTransfer.getData("imgId");
     if (ev.target.tagName == "p") {

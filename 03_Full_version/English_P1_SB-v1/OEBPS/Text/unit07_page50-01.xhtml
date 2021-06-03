@@ -1,127 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="en" lang="en">
 
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
 <head>
-  <title>English P1 Accessible Digital Textbook</title>
+  <title></title>
   <meta name="viewport" content="width=1000,height=1300" />
-  <script type="text/javascript" src="../Misc/jquery3.5.1.js" />
-  <script type="text/javascript" src="../Misc/book.js" />
-  <script type="text/javascript" src="../Misc/match-color.js" />
+  <script type="text/javascript" src="../Misc/jquery3.5.1.js"></script>
+  <script type="text/javascript" src="../Misc/book.js"></script>
+  <script type="text/javascript" src="../Misc/match-color.js"></script>
   <link href="../Styles/styles.css" rel="stylesheet" type="text/css" />
   <link href="../Styles/match-color.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body style="width:1000px;height:1300px">
-  <div class="page-body">
-    <div class="page-style">
-      <div class="page-content">
-        <div class="page-title" style="position:absolute;top:64px;left:90px;">
-          <span id="s001">Match</span>
+<div class="page-body">
+  <div class="page-style ">
+    <div class="page-content">
+      <div class="page-title">
+		  <span id="s001">Match</span>
           <span id="s002">these</span>
-        </div>
-        <div class="content-section">
-          <table style="margin-top:60px;height:90%;">
-            <tr>
-              <td style="border: 2px solid red;">
-                <strong>
-                    <span id="s003">A</span>
-                  </strong>
-              </td>
-              <td style="border: 2px solid red;">
-                <strong>
-                    <span id="s004">B</span>
-                  </strong>
-              </td>
-            </tr>
-            <tr>
-              <td class="drop-zone" id="div-bed" style="border: 2px solid red;">
-                <img origin="div-bed" id="bed" answer="bed" draggable="true" class="rect-img dragable-image" style="width:20%" src="../Images/unit7_page50_01.jpg" alt="There is a bed." />
-              </td>
-              <td class="target-drop" style="border: 2px solid red;">
-                <img src="../Images/check.svg" class="mark-class" />
-                <span id="s005" answer="table" class="answer-drop">Table</span>
-              </td>
-            </tr>
-            <tr>
-              <td class="drop-zone" id="div-lamp" style="border: 2px solid red;">
-                <img origin="div-lamp" id="lamp" answer="lamp" draggable="true" class="rect-img dragable-image" style="width:20%" src="../Images/unit7_page50_02.jpg" alt="There is a lamp." />
-              </td>
-              <td class="target-drop" style="border: 2px solid red;">
-                <img src="../Images/check.svg" class="mark-class" />
-                <span id="s006" answer="mosquito_net" class="answer-drop video-span show-video" video="../Video/mosquito_net.mp4" poster="../Images/unit2-6_image.png">Mosquito net</span>
-              </td>
-            </tr>
-            <tr>
-              <td class="drop-zone" id="div-table" style="border: 2px solid red;">
-                <img origin="div-table" id="table" answer="table" draggable="true" class="rect-img dragable-image" style="width:20%" src="../Images/unit7_page50_03.jpg" alt="There is table." />
-              </td>
-              <td class="target-drop" style="border: 2px solid red;">
-                <img src="../Images/check.svg" class="mark-class" />
-                <span id="s008" answer="lamp" class="answer-drop video-span show-video" video="../Video/lamp.mp4" poster="../Images/unit2-6_image.png">Lamp</span>
-              </td>
-            </tr>
-            <tr>
-              <td class="drop-zone" id="div-chair" style="border: 2px solid red;">
-                <img origin="div-chair" id="chair" answer="chair" draggable="true" class="rect-img dragable-image" style="width:20%" src="../Images/unit7_page50_04.jpg" alt="There is a chair." />
-              </td>
-              <td class="target-drop" style="border: 2px solid red;">
-                <img src="../Images/check.svg" class="mark-class" />
-                <span id="s009" answer="chair" class="answer-drop">Chair</span>
-              </td>
-            </tr>
-            <tr>
-              <td class="drop-zone" id="div-mat" style="border: 2px solid red;">
-                <img origin="div-mat" id="mat" answer="mat" draggable="true" class="rect-img dragable-image" style="width:20%" src="../Images/unit7_page50_05.jpg" alt="There is Mat." />
-              </td>
-              <td class="target-drop" style="border: 2px solid red;">
-                <img src="../Images/check.svg" class="mark-class" />
-                <span id="s010" answer="bed" class="answer-drop video-span show-video" video="../Video/bed.mp4" poster="../Images/unit2-6_image.png">Bed</span>
-              </td>
-            </tr>
-            <tr>
-              <td class="drop-zone" id="div-mosquito_net" style="border: 2px solid red;">
-                <img origin="div-mosquito_net" id="mosquito_net" answer="mosquito_net" draggable="true" class="rect-img dragable-image" style="width:20%" src="../Images/unit7_page50_06.jpg" alt="There is a Mosquito net on top of the bed." />
-              </td>
-              <td class="target-drop" style="border: 2px solid red;">
-                <img src="../Images/check.svg" class="mark-class" />
-                <span id="s011" answer="mat" class="answer-drop video-span show-video" video="../Video/mat.mp4" poster="../Images/unit2-6_image.png">Mat</span>
-              </td>
-            </tr>
-            <tr>
-              <td>
-                <button class="btn-reset" id="btn-reset">Reset</button>
-              </td>
-              <td>
-                <button class="btn-answer" id="btn-answer">Answer</button>
-              </td>
-            </tr>
-          </table>
-        </div>
-        <div class="video-section">
-          <div class="display-flex">
-            <div class="flex-grow-1" />
-            <video id="_idVideo000" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
-                <source src="../Video/unit07_page50-01.mp4" type="video/mp4"/>
-              </video>
-            <div class="flex-grow-1" />
-          </div>
-        </div>
+	  </div>
+      <div class="content-section">
+        <table class="half-table">
+          <tr>
+            <td><span class="red-color" id="s003">A</span></td>
+            <td><span class="red-color" id="s004">B</span></td>
+          </tr>
+		  <tr>
+            <td class="drop-zone" id="div-green">
+              <img origin="div-green" id="green" answer="green" draggable="true" class="rect-img dragable-image fit-img"
+              src="../Images/unit7_page50_01.jpg" alt="There is a bed." />
+            </td>
+            <td class="target-drop">
+              <img src="../Images/check.svg" class="mark-class" />
+              <p id="s005" answer="blue" class="answer-drop body_ctr ">Table</p>
+            </td>
+          </tr>
+          <tr>
+            <td class="drop-zone" id="div-white">
+              <img origin="div-white" id="white" answer="white" draggable="true" class="rect-img dragable-image fit-img"
+              src="../Images/unit7_page50_02.jpg" alt="There is a lamp." />
+            </td>
+            <td class="target-drop">
+              <img src="../Images/check.svg" class="mark-class" />
+              <p id="s006" answer="yellow" class="answer-drop body_ctr ">Mosquito net</p>
+            </td>
+          </tr>
+          <tr>
+            <td class="drop-zone" id="div-blue">
+              <img origin="div-blue" id="blue" answer="blue" draggable="true" class="rect-img dragable-image fit-img"
+              src="../Images/unit7_page50_03.jpg" alt="There is a table." /></td>
+            <td class="target-drop">
+              <img src="../Images/check.svg" class="mark-class" />
+              <p id="s007" answer="white" class="answer-drop body_ctr ">Lamp</p></td>
+          </tr>
+          <tr>
+            <td class="drop-zone" id="div-red">
+              <img origin="div-red" id="red" answer="red" draggable="true" class="rect-img dragable-image fit-img"
+              src="../Images/unit7_page50_04.jpg" alt="There is a chair." /></td>
+            <td class="target-drop">
+              <img src="../Images/check.svg" class="mark-class" />
+              <p id="s008" answer="red" class="answer-drop body_ctr ">Chair</p>
+            </td>
+          </tr>
+          <tr>
+            <td class="drop-zone" id="div-black">
+              <img origin="div-black" id="black" answer="black" draggable="true" class="rect-img dragable-image fit-img" src="../Images/unit7_page50_05.jpg"
+              alt="There is a mat." /></td>
+            <td class="target-drop">
+              <img src="../Images/check.svg" class="mark-class" />
+              <p id="s009" answer="green" class="answer-drop body_ctr ">Bed</p>
+            </td>
+          </tr>
+          <tr>
+            <td class="drop-zone" id="div-yellow">
+              <img origin="div-yellow" id="yellow" answer="yellow" draggable="true" class="rect-img dragable-image fit-img"
+              src="../Images/unit7_page50_06.jpg" alt="There is a mosquito net on top of the bed." /></td>
+            <td class="target-drop">
+              <img src="../Images/check.svg" class="mark-class" />
+              <p aid="s010" nswer="black" class="answer-drop body_ctr ">Mat</p>
+            </td>
+          </tr>
+          <tr>
+            <td><button class="btn-reset" id="btn-reset">Reset</button></td>
+            <td><button class="btn-answer" id="btn-answer">Answer</button></td>
+          </tr>
+        </table>
       </div>
-      <div class="page-number">
-        <span id="s012">90</span>
-      </div>
-      <div id="msg-anim"></div>
-      <div id="video-player">
-          <div>
-            <button id="videoclose">X</button>
-            <video id="_idVideo000" poster="" controls="controls" style="width:600px;">
-              <source src="" type="video/mp4"/>
-            </video>
-          </div>
-        </div>
-    </div>
-  </div>
-</body>
+      <div class="video-section">
 
+        <div class="display-flex">
+          <div class="flex-grow-1"></div>
+          <video id="_idVideo000" poster="../Images/unit2-6_image.png" controls="controls" style="width:600px;">
+            <source src="unit07_page50-01.mp4" type="video/mp4"/></video>
+          <div class="flex-grow-1"></div>
+        </div>
+      </div>
+    </div>
+    <div class="page-number">85</div>
+  </div>
+  <div id="msg-anim">
+  </div>
+</div>
+</body>
 </html>

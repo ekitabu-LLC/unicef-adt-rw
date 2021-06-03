@@ -257,7 +257,7 @@ h2 {
 .unit-name {
     border-top-right-radius: 23px;
     background-color: red;
-    color: yellow;
+    color: black;
     margin-top: -11px;
     margin-left: 5px;
     -webkit-box-shadow: 0 10px 6px -6px #777;
@@ -275,7 +275,7 @@ h2 {
     height: 40px;
     margin-top: 20px;
     background-color: red;
-    width: 40px;
+    width: 55px;
     margin-left: auto;
     margin-right: auto;
     color: white;
@@ -336,6 +336,12 @@ td {
 .content-section table td {
     text-align: center;
     font-size: 30px;
+}
+
+.content-section table.t4 td {
+    text-align: center;
+    font-size: 30px;
+	height: 10px;
 }
 
 .section-title {
@@ -1110,6 +1116,7 @@ table.t2 {
 table.t2 td {
     width: 25%;
     padding: .1em;
+	height: 10px;
 }
 
 table.t2 td.l {
@@ -1276,4 +1283,12 @@ table.t2 td.l {
     height: 200px;
 }
 
-.target-drop
+/*drag-and-drop resizing of table with overlaying RSL video*/
+.fit-img {
+    height: 114px;
+}
+
+.fit-img-u8 {
+    height: 130px;
+}
+

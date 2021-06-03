@@ -1,7 +1,7 @@
-<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
-  <body>
-    <seq id="seq000001" epub:textref="../Text/unit01_page06-01.xhtml">
-      <par id="par000001">
+<?xml version="1.0" encoding="utf-8" ?>
+<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops">
+<body>
+	  <par id="par000001">
         <text src="../Text/unit01_page06-01.xhtml#s001"/>
         <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:00.000" clipEnd="00:00:00.600"/>
       </par>
@@ -17,22 +17,25 @@
         <text src="../Text/unit01_page06-01.xhtml#s004"/>
         <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:01.080" clipEnd="00:00:01.480"/>
       </par>
+	  <par id="par000050">
+		<text src="../Text/unit01_page06-01.xhtml#img001"/>
+		<audio clipBegin="00:00:02.441" clipEnd="00:00:24.228" src="../Sounds/unit01_page06-01.mp3"/>
+	  </par>
       <par id="par000005">
         <text src="../Text/unit01_page06-01.xhtml#s005"/>
-        <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:01.480" clipEnd="00:00:09.800"/>
+        <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:24.228" clipEnd="00:00:27.640"/>
       </par>
       <par id="par000006">
         <text src="../Text/unit01_page06-01.xhtml#s006"/>
-        <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:09.800" clipEnd="00:00:12.240"/>
+        <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:27.640" clipEnd="00:00:27.920"/>
       </par>
       <par id="par000007">
         <text src="../Text/unit01_page06-01.xhtml#s007"/>
-        <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:12.240" clipEnd="00:00:17.160"/>
+        <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:27.920" clipEnd="00:00:28.320"/>
       </par>
       <par id="par000008">
         <text src="../Text/unit01_page06-01.xhtml#s008"/>
-        <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:17.160" clipEnd="00:00:18.760"/>
+        <audio src="../Sounds/unit01_page06-01.mp3" clipBegin="00:00:28.320" clipEnd="00:00:29.000"/>
       </par>
-    </seq>
-  </body>
+</body>
 </smil>

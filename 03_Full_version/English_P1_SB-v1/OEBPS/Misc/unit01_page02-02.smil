@@ -1,34 +1,36 @@
-<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
-  <body>
-    <seq id="seq000001" epub:textref="../Text/unit01_page02-02.xhtml">
-      <par id="par000001">
+<?xml version="1.0" encoding="utf-8" ?>
+<smil version="3.0" xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops">
+<body>
+<par id="par00050"><text src="../Text/unit01_page02-02.xhtml#img001"/>
+<audio clipBegin="00:00:00.000" clipEnd="00:00:15.421" src="../Sounds/unit01_page02-02.mp3"/>
+</par>
+<par id="par000001">
         <text src="../Text/unit01_page02-02.xhtml#s001"/>
-        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:00.000" clipEnd="00:00:00.600"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:15.421" clipEnd="00:00:22.320"/>
       </par>
       <par id="par000002">
         <text src="../Text/unit01_page02-02.xhtml#s002"/>
-        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:00.600" clipEnd="00:00:04.320"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:22.320" clipEnd="00:00:23.240"/>
       </par>
       <par id="par000003">
         <text src="../Text/unit01_page02-02.xhtml#s003"/>
-        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:04.320" clipEnd="00:00:06.640"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:23.240" clipEnd="00:00:24.880"/>
       </par>
       <par id="par000004">
         <text src="../Text/unit01_page02-02.xhtml#s004"/>
-        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:06.640" clipEnd="00:00:12.960"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:24.880" clipEnd="00:00:28.560"/>
       </par>
       <par id="par000005">
         <text src="../Text/unit01_page02-02.xhtml#s005"/>
-        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:12.960" clipEnd="00:00:13.800"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:28.560" clipEnd="00:00:29.080"/>
       </par>
       <par id="par000006">
         <text src="../Text/unit01_page02-02.xhtml#s006"/>
-        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:13.800" clipEnd="00:00:14.160"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:29.080" clipEnd="00:00:29.440"/>
       </par>
       <par id="par000007">
         <text src="../Text/unit01_page02-02.xhtml#s007"/>
-        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:14.160" clipEnd="00:00:15.120"/>
+        <audio src="../Sounds/unit01_page02-02.mp3" clipBegin="00:00:29.440" clipEnd="00:00:30.400"/>
       </par>
-    </seq>
-  </body>
+</body>
 </smil>

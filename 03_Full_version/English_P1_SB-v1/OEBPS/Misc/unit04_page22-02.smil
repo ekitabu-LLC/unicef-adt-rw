@@ -1,0 +1,48 @@
+<smil xmlns="http://www.w3.org/ns/SMIL" xmlns:epub="http://www.idpf.org/2007/ops" version="3.0">
+  <body>
+      <par id="img001">
+        <text src="../Text/unit04_page22-02.xhtml#img001"/>
+        <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:00.000" clipEnd="00:00:09.461"/>
+      </par>
+      <par id="par000001">
+        <text src="../Text/unit04_page22-02.xhtml#s001"/>
+        <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:09.461" clipEnd="00:00:10.480"/>
+      </par>
+      <par id="par000002">
+        <text src="../Text/unit04_page22-02.xhtml#s002"/>
+        <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:10.480" clipEnd="00:00:11.080"/>
+      </par>
+      <par id="par000003">
+        <text src="../Text/unit04_page22-02.xhtml#s003"/>
+        <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:11.080" clipEnd="00:00:11.440"/>
+      </par>
+      <par id="par000004">
+        <text src="../Text/unit04_page22-02.xhtml#s004"/>
+        <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:11.440" clipEnd="00:00:14.320"/>
+      </par>
+      <par id="img002">
+        <text src="../Text/unit04_page22-02.xhtml#img002"/>
+        <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:14.320" clipEnd="00:00:25.436"/>
+      </par>
+      <par id="par000005">
+        <text src="../Text/unit04_page22-02.xhtml#s005"/>
+        <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:25.436" clipEnd="00:00:27.320"/>
+      </par>
+      <par id="par000006">
+        <text src="../Text/unit04_page22-02.xhtml#s006"/>
+        <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:27.320" clipEnd="00:00:27.520"/>
+      </par>
+      <par id="par000007">
+        <text src="../Text/unit04_page22-02.xhtml#s007"/>
+        <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:27.520" clipEnd="00:00:27.840"/>
+      </par>
+      <par id="par000008">
+        <text src="../Text/unit04_page22-02.xhtml#s008"/>
+        <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:27.840" clipEnd="00:00:28.080"/>
+      </par>
+      <par id="par000009">
+        <text src="../Text/unit04_page22-02.xhtml#s009"/>
+        <audio src="../Sounds/unit04_page22-02.mp3" clipBegin="00:00:28.080" clipEnd="00:00:31.040"/>
+      </par>
+  </body>
+</smil>
