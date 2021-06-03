@@ -1283,3 +1283,12 @@ table.t2 td.l {
     height: 200px;
 }
 
+/*drag-and-drop resizing of table with overlaying RSL video*/
+.fit-img {
+    height: 114px;
+}
+
+.fit-img-u8 {
+    height: 130px;
+}
+
