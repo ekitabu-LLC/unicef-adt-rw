@@ -5,7 +5,7 @@
     <dc:creator id="creator01">REB</dc:creator>
     <meta property="role" refines="#creator01">aut</meta>
     <meta property="file-as" refines="#creator01">REB</meta>
-    <meta property="dcterms:modified">2021-06-03T06:30:05Z</meta>
+    <meta property="dcterms:modified">2021-06-17T11:34:01Z</meta>
     <dc:date>2019</dc:date>
     <dc:publisher id="en_publisher" xml:lang="en-us">REB</dc:publisher>
     <dc:language>en</dc:language>
@@ -73,15 +73,16 @@
     <meta property="media:duration" refines="#unit03_page18-02.smil">0:00:18.365</meta>
     <meta property="media:duration" refines="#unit03_page19-01.smil">0:00:56.601</meta>
     <meta property="media:duration" refines="#unit03_page19-02.smil">0:00:35.165</meta>
-    <meta property="media:duration" refines="#unit04_page20-01.smil">0:00:67.549</meta>
-    <meta property="media:duration" refines="#unit04_page20-02.smil">0:00:63.343</meta>
+    <meta property="media:duration" refines="#unit04_page20-01.smil">0:01:07.549</meta>
+    <meta property="media:duration" refines="#unit04_page20-02.smil">0:01:03.343</meta>
     <meta property="media:duration" refines="#unit04_page21-01.smil">0:00:23.373</meta>
     <meta property="media:duration" refines="#unit04_page21-02.smil">0:00:35.673</meta>
-    <meta property="media:duration" refines="#unit04_page22-01.smil">0:00:78.389</meta>
+    <meta property="media:duration" refines="#unit04_page22-01.smil">0:01:18.389</meta>
+    <meta property="media:duration" refines="#unit04_page22-02.smil">0:01:18.389</meta>
     <meta property="media:duration" refines="#unit04_page23-01.smil">0:00:43.312</meta>
     <meta property="media:duration" refines="#unit04_page23-02.smil">0:00:53.563</meta>
     <meta property="media:duration" refines="#unit04_page24-01.smil">0:00:23.456</meta>
-    <meta property="media:duration" refines="#unit04_page24-02.smil">0:00:89.743</meta>
+    <meta property="media:duration" refines="#unit04_page24-02.smil">0:01:39.743</meta>
     <meta property="media:duration" refines="#unit04_page25-01.smil">0:00:23.389</meta>
     <meta property="media:duration" refines="#unit04_page26-01.smil">00:00:35.480</meta>
     <meta property="media:duration" refines="#unit04_page27-01.smil">00:01:24.575</meta>
