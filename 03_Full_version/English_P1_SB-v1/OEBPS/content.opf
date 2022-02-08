@@ -361,7 +361,8 @@
     <item id="img-blue" href="Images/blue.jpg" media-type="image/jpeg"/>
     <item id="img-green" href="Images/green.jpg" media-type="image/jpeg"/>
     <item id="img-red" href="Images/red.jpg" media-type="image/jpeg"/>
-    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="adt_cover.jpg" href="Images/adt_cover.jpg" media-type="image/jpeg" properties="cover-image"/>
     <item id="img-unit10_page68_01" href="Images/unit10_page68_01.jpg" media-type="image/jpeg"/>
     <item id="img-unit10_page68_02" href="Images/unit10_page68_02.jpg" media-type="image/jpeg"/>
     <item id="img-unit10_page68_03" href="Images/unit10_page68_03.jpg" media-type="image/jpeg"/>

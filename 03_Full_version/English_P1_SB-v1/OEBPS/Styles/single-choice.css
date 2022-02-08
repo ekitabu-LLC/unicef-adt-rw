@@ -16,7 +16,7 @@
   
   /* CHECKED STYLES */
   [type=radio]:checked + .choice-img {
-    border: 5px solid #aaaaaa;
+    border: 5px solid #0c0c0c;
     border-radius: 5px;
   }
 
