@@ -1024,6 +1024,7 @@
     <item id="white.mp4" href="Video/white.mp4" media-type="video/mp4"/>
     <item id="match-color-5-items.js" href="Misc/match-color-5-items.js" media-type="application/javascript"/>
     <item id="unit03_page18-01.mp3" href="Sounds/unit03_page18-01.mp3" media-type="audio/mpeg"/>
+    <item id="match-color-7-items.js" href="Misc/match-color-7-items.js" media-type="application/javascript"/>
   </manifest>
   <spine>
     <itemref idref="cover"/>
